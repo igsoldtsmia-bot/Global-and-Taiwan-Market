@@ -1,0 +1,656 @@
+{
+  "country_code": "tr",
+  "country_name": "土耳其",
+  "update_time": "2026-04-02 07:44:48",
+  "data": {
+    "platform": {
+      "all": {
+        "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/turkey",
+        "data": [
+          {
+            "name": "Mobile",
+            "value": 71.13
+          },
+          {
+            "name": "Desktop",
+            "value": 28.26
+          },
+          {
+            "name": "Tablet",
+            "value": 0.62
+          }
+        ]
+      }
+    },
+    "os_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/os-market-share/all/turkey",
+        "data": [
+          {
+            "name": "Android",
+            "value": 52.88
+          },
+          {
+            "name": "Windows",
+            "value": 21.0
+          },
+          {
+            "name": "iOS",
+            "value": 18.72
+          },
+          {
+            "name": "Unknown",
+            "value": 4.22
+          },
+          {
+            "name": "macOS",
+            "value": 1.21
+          },
+          {
+            "name": "Linux",
+            "value": 0.91
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/os-market-share/mobile/turkey",
+        "data": [
+          {
+            "name": "Android",
+            "value": 73.72
+          },
+          {
+            "name": "iOS",
+            "value": 26.08
+          },
+          {
+            "name": "Samsung",
+            "value": 0.18
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/os-market-share/desktop/turkey",
+        "data": [
+          {
+            "name": "Windows",
+            "value": 74.33
+          },
+          {
+            "name": "Unknown",
+            "value": 14.95
+          },
+          {
+            "name": "macOS",
+            "value": 4.3
+          },
+          {
+            "name": "Linux",
+            "value": 3.21
+          },
+          {
+            "name": "OS X",
+            "value": 3.17
+          },
+          {
+            "name": "Chrome OS",
+            "value": 0.04
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/os-market-share/tablet/turkey",
+        "data": [
+          {
+            "name": "Android",
+            "value": 72.05
+          },
+          {
+            "name": "iOS",
+            "value": 27.91
+          },
+          {
+            "name": "Linux",
+            "value": 0.03
+          },
+          {
+            "name": "Unknown",
+            "value": 0.01
+          },
+          {
+            "name": "BlackBerry OS",
+            "value": 0.01
+          }
+        ]
+      }
+    },
+    "browser_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/browser-market-share/all/turkey",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 76.96
+          },
+          {
+            "name": "Safari",
+            "value": 13.62
+          },
+          {
+            "name": "Opera",
+            "value": 3.75
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 2.34
+          },
+          {
+            "name": "Edge",
+            "value": 1.56
+          },
+          {
+            "name": "Firefox",
+            "value": 0.66
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/browser-market-share/mobile/turkey",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 76.41
+          },
+          {
+            "name": "Safari",
+            "value": 17.94
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 3.29
+          },
+          {
+            "name": "Opera",
+            "value": 1.44
+          },
+          {
+            "name": "Yandex Browser",
+            "value": 0.4
+          },
+          {
+            "name": "UC Browser",
+            "value": 0.19
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/browser-market-share/desktop/turkey",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 78.5
+          },
+          {
+            "name": "Opera",
+            "value": 9.55
+          },
+          {
+            "name": "Edge",
+            "value": 5.44
+          },
+          {
+            "name": "Safari",
+            "value": 2.74
+          },
+          {
+            "name": "Firefox",
+            "value": 2.06
+          },
+          {
+            "name": "Yandex Browser",
+            "value": 0.81
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/browser-market-share/tablet/turkey",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 71.35
+          },
+          {
+            "name": "Safari",
+            "value": 13.77
+          },
+          {
+            "name": "Android",
+            "value": 7.03
+          },
+          {
+            "name": "Opera",
+            "value": 5.12
+          },
+          {
+            "name": "Yandex Browser",
+            "value": 2.2
+          },
+          {
+            "name": "Edge",
+            "value": 0.18
+          }
+        ]
+      }
+    },
+    "resolution_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/all/turkey",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 9.34
+          },
+          {
+            "name": "414x896",
+            "value": 4.38
+          },
+          {
+            "name": "1536x864",
+            "value": 3.42
+          },
+          {
+            "name": "393x873",
+            "value": 2.66
+          },
+          {
+            "name": "384x832",
+            "value": 2.29
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/turkey",
+        "data": [
+          {
+            "name": "414x896",
+            "value": 6.1
+          },
+          {
+            "name": "393x873",
+            "value": 3.59
+          },
+          {
+            "name": "390x844",
+            "value": 2.94
+          },
+          {
+            "name": "360x800",
+            "value": 2.44
+          },
+          {
+            "name": "384x832",
+            "value": 2.09
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/turkey",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 33.36
+          },
+          {
+            "name": "1536x864",
+            "value": 12.34
+          },
+          {
+            "name": "1366x768",
+            "value": 7.26
+          },
+          {
+            "name": "1280x1200",
+            "value": 5.67
+          },
+          {
+            "name": "2560x1440",
+            "value": 5.49
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/turkey",
+        "data": [
+          {
+            "name": "1280x800",
+            "value": 13.0
+          },
+          {
+            "name": "601x1007",
+            "value": 6.51
+          },
+          {
+            "name": "800x1280",
+            "value": 5.67
+          },
+          {
+            "name": "768x1024",
+            "value": 4.32
+          },
+          {
+            "name": "1334x800",
+            "value": 4.04
+          }
+        ]
+      }
+    },
+    "vendor_mobile": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/turkey",
+        "data": [
+          {
+            "name": "Unknown",
+            "value": 51.31
+          },
+          {
+            "name": "Apple",
+            "value": 26.08
+          },
+          {
+            "name": "Samsung",
+            "value": 10.39
+          },
+          {
+            "name": "Xiaomi",
+            "value": 7.3
+          },
+          {
+            "name": "Oppo",
+            "value": 1.13
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/turkey",
+        "data": [
+          {
+            "name": "Unknown",
+            "value": 51.31
+          },
+          {
+            "name": "Apple",
+            "value": 26.08
+          },
+          {
+            "name": "Samsung",
+            "value": 10.39
+          },
+          {
+            "name": "Xiaomi",
+            "value": 7.3
+          },
+          {
+            "name": "Oppo",
+            "value": 1.13
+          }
+        ]
+      }
+    },
+    "vendor_tablet": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/turkey",
+        "data": [
+          {
+            "name": "Samsung",
+            "value": 50.36
+          },
+          {
+            "name": "Apple",
+            "value": 27.91
+          },
+          {
+            "name": "Unknown",
+            "value": 5.01
+          },
+          {
+            "name": "Huawei",
+            "value": 4.81
+          },
+          {
+            "name": "Lenovo",
+            "value": 4.52
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/turkey",
+        "data": [
+          {
+            "name": "Samsung",
+            "value": 50.36
+          },
+          {
+            "name": "Apple",
+            "value": 27.91
+          },
+          {
+            "name": "Unknown",
+            "value": 5.01
+          },
+          {
+            "name": "Huawei",
+            "value": 4.81
+          },
+          {
+            "name": "Lenovo",
+            "value": 4.52
+          }
+        ]
+      }
+    },
+    "search_engine_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/all/turkey",
+        "data": [
+          {
+            "name": "Google",
+            "value": 84.32
+          },
+          {
+            "name": "YANDEX",
+            "value": 13.34
+          },
+          {
+            "name": "bing",
+            "value": 1.17
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.81
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.27
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/mobile/turkey",
+        "data": [
+          {
+            "name": "Google",
+            "value": 84.42
+          },
+          {
+            "name": "YANDEX",
+            "value": 14.51
+          },
+          {
+            "name": "bing",
+            "value": 0.35
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.32
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.26
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/desktop/turkey",
+        "data": [
+          {
+            "name": "Google",
+            "value": 84.39
+          },
+          {
+            "name": "YANDEX",
+            "value": 11.74
+          },
+          {
+            "name": "bing",
+            "value": 2.14
+          },
+          {
+            "name": "Yahoo!",
+            "value": 1.46
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.22
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/tablet/turkey",
+        "data": [
+          {
+            "name": "Google",
+            "value": 77.39
+          },
+          {
+            "name": "YANDEX",
+            "value": 21.63
+          },
+          {
+            "name": "bing",
+            "value": 0.65
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.17
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.1
+          }
+        ]
+      }
+    },
+    "social_media_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/social-media-stats/all/turkey",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 42.1
+          },
+          {
+            "name": "Instagram",
+            "value": 24.29
+          },
+          {
+            "name": "YouTube",
+            "value": 17.71
+          },
+          {
+            "name": "Twitter",
+            "value": 9.53
+          },
+          {
+            "name": "Pinterest",
+            "value": 3.22
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/social-media-stats/mobile/turkey",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 46.62
+          },
+          {
+            "name": "Instagram",
+            "value": 27.99
+          },
+          {
+            "name": "YouTube",
+            "value": 14.18
+          },
+          {
+            "name": "Twitter",
+            "value": 8.41
+          },
+          {
+            "name": "Pinterest",
+            "value": 1.54
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/social-media-stats/desktop/turkey",
+        "data": [
+          {
+            "name": "YouTube",
+            "value": 40.22
+          },
+          {
+            "name": "Twitter",
+            "value": 16.69
+          },
+          {
+            "name": "Facebook",
+            "value": 13.18
+          },
+          {
+            "name": "Pinterest",
+            "value": 12.32
+          },
+          {
+            "name": "reddit",
+            "value": 7.06
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/social-media-stats/tablet/turkey",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 52.4
+          },
+          {
+            "name": "Pinterest",
+            "value": 21.01
+          },
+          {
+            "name": "YouTube",
+            "value": 10.94
+          },
+          {
+            "name": "Twitter",
+            "value": 6.78
+          },
+          {
+            "name": "Instagram",
+            "value": 6.44
+          }
+        ]
+      }
+    }
+  }
+}

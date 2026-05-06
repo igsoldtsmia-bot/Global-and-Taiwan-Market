@@ -1,0 +1,652 @@
+{
+  "country_code": "pt",
+  "country_name": "葡萄牙",
+  "update_time": "2026-05-05 07:48:36",
+  "data": {
+    "platform": {
+      "all": {
+        "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/portugal",
+        "data": [
+          {
+            "name": "Desktop",
+            "value": 58.02
+          },
+          {
+            "name": "Mobile",
+            "value": 40.87
+          },
+          {
+            "name": "Tablet",
+            "value": 1.11
+          }
+        ]
+      }
+    },
+    "os_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/os-market-share/all/portugal",
+        "data": [
+          {
+            "name": "Windows",
+            "value": 43.84
+          },
+          {
+            "name": "Android",
+            "value": 25.94
+          },
+          {
+            "name": "iOS",
+            "value": 16.01
+          },
+          {
+            "name": "Unknown",
+            "value": 6.54
+          },
+          {
+            "name": "OS X",
+            "value": 3.35
+          },
+          {
+            "name": "macOS",
+            "value": 2.66
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/os-market-share/mobile/portugal",
+        "data": [
+          {
+            "name": "Android",
+            "value": 62.06
+          },
+          {
+            "name": "iOS",
+            "value": 37.87
+          },
+          {
+            "name": "Samsung",
+            "value": 0.06
+          },
+          {
+            "name": "Windows",
+            "value": 0.01
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/os-market-share/desktop/portugal",
+        "data": [
+          {
+            "name": "Windows",
+            "value": 75.57
+          },
+          {
+            "name": "Unknown",
+            "value": 11.27
+          },
+          {
+            "name": "OS X",
+            "value": 5.77
+          },
+          {
+            "name": "macOS",
+            "value": 4.58
+          },
+          {
+            "name": "Linux",
+            "value": 2.17
+          },
+          {
+            "name": "Chrome OS",
+            "value": 0.64
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/os-market-share/tablet/portugal",
+        "data": [
+          {
+            "name": "Android",
+            "value": 51.95
+          },
+          {
+            "name": "iOS",
+            "value": 48.03
+          },
+          {
+            "name": "Unknown",
+            "value": 0.02
+          }
+        ]
+      }
+    },
+    "browser_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/browser-market-share/all/portugal",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 66.57
+          },
+          {
+            "name": "Safari",
+            "value": 14.92
+          },
+          {
+            "name": "Edge",
+            "value": 7.64
+          },
+          {
+            "name": "Opera",
+            "value": 4.53
+          },
+          {
+            "name": "Firefox",
+            "value": 2.72
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 1.86
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/browser-market-share/mobile/portugal",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 64.21
+          },
+          {
+            "name": "Safari",
+            "value": 29.31
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 3.35
+          },
+          {
+            "name": "Firefox",
+            "value": 0.76
+          },
+          {
+            "name": "Brave",
+            "value": 0.59
+          },
+          {
+            "name": "Opera",
+            "value": 0.52
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/browser-market-share/desktop/portugal",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 68.41
+          },
+          {
+            "name": "Edge",
+            "value": 12.94
+          },
+          {
+            "name": "Opera",
+            "value": 7.42
+          },
+          {
+            "name": "Safari",
+            "value": 4.54
+          },
+          {
+            "name": "Firefox",
+            "value": 4.16
+          },
+          {
+            "name": "Brave",
+            "value": 1.32
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/browser-market-share/tablet/portugal",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 59.55
+          },
+          {
+            "name": "Safari",
+            "value": 26.42
+          },
+          {
+            "name": "Android",
+            "value": 8.76
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 1.78
+          },
+          {
+            "name": "Instabridge",
+            "value": 1.58
+          },
+          {
+            "name": "Opera",
+            "value": 1.07
+          }
+        ]
+      }
+    },
+    "resolution_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/all/portugal",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 18.62
+          },
+          {
+            "name": "414x896",
+            "value": 7.59
+          },
+          {
+            "name": "1536x864",
+            "value": 7.5
+          },
+          {
+            "name": "384x832",
+            "value": 4.92
+          },
+          {
+            "name": "1366x768",
+            "value": 4.3
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/portugal",
+        "data": [
+          {
+            "name": "414x896",
+            "value": 17.82
+          },
+          {
+            "name": "390x844",
+            "value": 9.14
+          },
+          {
+            "name": "384x832",
+            "value": 7.03
+          },
+          {
+            "name": "393x873",
+            "value": 6.38
+          },
+          {
+            "name": "360x800",
+            "value": 5.76
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/portugal",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 33.01
+          },
+          {
+            "name": "1536x864",
+            "value": 13.31
+          },
+          {
+            "name": "1366x768",
+            "value": 7.63
+          },
+          {
+            "name": "2560x1440",
+            "value": 3.89
+          },
+          {
+            "name": "1280x720",
+            "value": 3.68
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/portugal",
+        "data": [
+          {
+            "name": "768x1024",
+            "value": 9.78
+          },
+          {
+            "name": "800x1280",
+            "value": 9.13
+          },
+          {
+            "name": "1280x800",
+            "value": 8.53
+          },
+          {
+            "name": "810x1080",
+            "value": 4.21
+          },
+          {
+            "name": "820x1180",
+            "value": 4.19
+          }
+        ]
+      }
+    },
+    "vendor_mobile": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/portugal",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 37.87
+          },
+          {
+            "name": "Samsung",
+            "value": 30.64
+          },
+          {
+            "name": "Xiaomi",
+            "value": 12.91
+          },
+          {
+            "name": "Unknown",
+            "value": 6.12
+          },
+          {
+            "name": "Oppo",
+            "value": 3.75
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/portugal",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 37.87
+          },
+          {
+            "name": "Samsung",
+            "value": 30.64
+          },
+          {
+            "name": "Xiaomi",
+            "value": 12.91
+          },
+          {
+            "name": "Unknown",
+            "value": 6.12
+          },
+          {
+            "name": "Oppo",
+            "value": 3.75
+          }
+        ]
+      }
+    },
+    "vendor_tablet": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/portugal",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 48.03
+          },
+          {
+            "name": "Samsung",
+            "value": 31.98
+          },
+          {
+            "name": "Lenovo",
+            "value": 5.52
+          },
+          {
+            "name": "Unknown",
+            "value": 5.0
+          },
+          {
+            "name": "Xiaomi",
+            "value": 4.04
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/portugal",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 48.03
+          },
+          {
+            "name": "Samsung",
+            "value": 31.98
+          },
+          {
+            "name": "Lenovo",
+            "value": 5.52
+          },
+          {
+            "name": "Unknown",
+            "value": 5.0
+          },
+          {
+            "name": "Xiaomi",
+            "value": 4.04
+          }
+        ]
+      }
+    },
+    "search_engine_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/all/portugal",
+        "data": [
+          {
+            "name": "Google",
+            "value": 89.23
+          },
+          {
+            "name": "bing",
+            "value": 8.08
+          },
+          {
+            "name": "Yahoo!",
+            "value": 1.05
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.84
+          },
+          {
+            "name": "Ecosia",
+            "value": 0.37
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/mobile/portugal",
+        "data": [
+          {
+            "name": "Google",
+            "value": 97.45
+          },
+          {
+            "name": "bing",
+            "value": 0.87
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.71
+          },
+          {
+            "name": "Ecosia",
+            "value": 0.44
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.26
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/desktop/portugal",
+        "data": [
+          {
+            "name": "Google",
+            "value": 83.05
+          },
+          {
+            "name": "bing",
+            "value": 13.52
+          },
+          {
+            "name": "Yahoo!",
+            "value": 1.75
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.94
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.33
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/tablet/portugal",
+        "data": [
+          {
+            "name": "Google",
+            "value": 95.83
+          },
+          {
+            "name": "bing",
+            "value": 1.96
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 1.08
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.43
+          },
+          {
+            "name": "Ecosia",
+            "value": 0.27
+          }
+        ]
+      }
+    },
+    "social_media_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/social-media-stats/all/portugal",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 76.45
+          },
+          {
+            "name": "Instagram",
+            "value": 15.69
+          },
+          {
+            "name": "YouTube",
+            "value": 3.43
+          },
+          {
+            "name": "Pinterest",
+            "value": 1.63
+          },
+          {
+            "name": "Twitter",
+            "value": 1.5
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/social-media-stats/mobile/portugal",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 79.05
+          },
+          {
+            "name": "Instagram",
+            "value": 16.77
+          },
+          {
+            "name": "YouTube",
+            "value": 2.39
+          },
+          {
+            "name": "Twitter",
+            "value": 0.99
+          },
+          {
+            "name": "Pinterest",
+            "value": 0.44
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/social-media-stats/desktop/portugal",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 38.0
+          },
+          {
+            "name": "YouTube",
+            "value": 18.58
+          },
+          {
+            "name": "Pinterest",
+            "value": 17.22
+          },
+          {
+            "name": "reddit",
+            "value": 8.88
+          },
+          {
+            "name": "Twitter",
+            "value": 8.84
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/social-media-stats/tablet/portugal",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 85.91
+          },
+          {
+            "name": "Instagram",
+            "value": 5.82
+          },
+          {
+            "name": "Pinterest",
+            "value": 5.41
+          },
+          {
+            "name": "Tumblr",
+            "value": 1.07
+          },
+          {
+            "name": "YouTube",
+            "value": 0.78
+          }
+        ]
+      }
+    }
+  }
+}

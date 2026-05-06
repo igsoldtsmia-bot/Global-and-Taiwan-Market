@@ -1,0 +1,656 @@
+{
+  "country_code": "th",
+  "country_name": "泰國",
+  "update_time": "2026-05-02 07:47:42",
+  "data": {
+    "platform": {
+      "all": {
+        "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/thailand",
+        "data": [
+          {
+            "name": "Mobile",
+            "value": 65.24
+          },
+          {
+            "name": "Desktop",
+            "value": 32.34
+          },
+          {
+            "name": "Tablet",
+            "value": 2.42
+          }
+        ]
+      }
+    },
+    "os_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/os-market-share/all/thailand",
+        "data": [
+          {
+            "name": "Android",
+            "value": 44.92
+          },
+          {
+            "name": "iOS",
+            "value": 22.64
+          },
+          {
+            "name": "Unknown",
+            "value": 19.67
+          },
+          {
+            "name": "Windows",
+            "value": 9.47
+          },
+          {
+            "name": "OS X",
+            "value": 1.49
+          },
+          {
+            "name": "Linux",
+            "value": 1.38
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/os-market-share/mobile/thailand",
+        "data": [
+          {
+            "name": "Android",
+            "value": 67.38
+          },
+          {
+            "name": "iOS",
+            "value": 32.46
+          },
+          {
+            "name": "Samsung",
+            "value": 0.09
+          },
+          {
+            "name": "Unknown",
+            "value": 0.04
+          },
+          {
+            "name": "Linux",
+            "value": 0.03
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/os-market-share/desktop/thailand",
+        "data": [
+          {
+            "name": "Unknown",
+            "value": 60.74
+          },
+          {
+            "name": "Windows",
+            "value": 29.29
+          },
+          {
+            "name": "OS X",
+            "value": 4.61
+          },
+          {
+            "name": "Linux",
+            "value": 4.2
+          },
+          {
+            "name": "macOS",
+            "value": 1.11
+          },
+          {
+            "name": "Chrome OS",
+            "value": 0.05
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/os-market-share/tablet/thailand",
+        "data": [
+          {
+            "name": "iOS",
+            "value": 60.38
+          },
+          {
+            "name": "Android",
+            "value": 39.6
+          },
+          {
+            "name": "Linux",
+            "value": 0.01
+          },
+          {
+            "name": "Unknown",
+            "value": 0.01
+          }
+        ]
+      }
+    },
+    "browser_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/browser-market-share/all/thailand",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 75.98
+          },
+          {
+            "name": "Safari",
+            "value": 16.85
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 3.61
+          },
+          {
+            "name": "Edge",
+            "value": 1.13
+          },
+          {
+            "name": "Firefox",
+            "value": 0.68
+          },
+          {
+            "name": "Opera",
+            "value": 0.52
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/browser-market-share/mobile/thailand",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 72.0
+          },
+          {
+            "name": "Safari",
+            "value": 22.8
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 3.62
+          },
+          {
+            "name": "UC Browser",
+            "value": 0.53
+          },
+          {
+            "name": "Opera",
+            "value": 0.39
+          },
+          {
+            "name": "Firefox",
+            "value": 0.34
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/browser-market-share/desktop/thailand",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 84.62
+          },
+          {
+            "name": "Safari",
+            "value": 4.05
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 3.7
+          },
+          {
+            "name": "Edge",
+            "value": 3.37
+          },
+          {
+            "name": "Firefox",
+            "value": 1.41
+          },
+          {
+            "name": "Pale Moon",
+            "value": 1.18
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/browser-market-share/tablet/thailand",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 68.0
+          },
+          {
+            "name": "Safari",
+            "value": 27.46
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 2.05
+          },
+          {
+            "name": "Android",
+            "value": 1.46
+          },
+          {
+            "name": "Opera",
+            "value": 0.62
+          },
+          {
+            "name": "UC Browser",
+            "value": 0.19
+          }
+        ]
+      }
+    },
+    "resolution_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/all/thailand",
+        "data": [
+          {
+            "name": "414x896",
+            "value": 11.15
+          },
+          {
+            "name": "360x800",
+            "value": 9.75
+          },
+          {
+            "name": "384x832",
+            "value": 5.74
+          },
+          {
+            "name": "390x844",
+            "value": 5.39
+          },
+          {
+            "name": "385x854",
+            "value": 4.09
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/thailand",
+        "data": [
+          {
+            "name": "414x896",
+            "value": 17.0
+          },
+          {
+            "name": "360x800",
+            "value": 12.17
+          },
+          {
+            "name": "390x844",
+            "value": 8.24
+          },
+          {
+            "name": "384x832",
+            "value": 4.68
+          },
+          {
+            "name": "360x806",
+            "value": 4.23
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/thailand",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 11.34
+          },
+          {
+            "name": "384x832",
+            "value": 8.35
+          },
+          {
+            "name": "360x800",
+            "value": 5.54
+          },
+          {
+            "name": "385x854",
+            "value": 5.07
+          },
+          {
+            "name": "1536x864",
+            "value": 4.7
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/thailand",
+        "data": [
+          {
+            "name": "820x1180",
+            "value": 8.57
+          },
+          {
+            "name": "768x1024",
+            "value": 6.27
+          },
+          {
+            "name": "601x1007",
+            "value": 6.19
+          },
+          {
+            "name": "810x1080",
+            "value": 5.73
+          },
+          {
+            "name": "1180x688",
+            "value": 2.86
+          }
+        ]
+      }
+    },
+    "vendor_mobile": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/thailand",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 32.46
+          },
+          {
+            "name": "Samsung",
+            "value": 20.42
+          },
+          {
+            "name": "Oppo",
+            "value": 17.42
+          },
+          {
+            "name": "Vivo",
+            "value": 10.94
+          },
+          {
+            "name": "Xiaomi",
+            "value": 6.84
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/thailand",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 32.46
+          },
+          {
+            "name": "Samsung",
+            "value": 20.42
+          },
+          {
+            "name": "Oppo",
+            "value": 17.42
+          },
+          {
+            "name": "Vivo",
+            "value": 10.94
+          },
+          {
+            "name": "Xiaomi",
+            "value": 6.84
+          }
+        ]
+      }
+    },
+    "vendor_tablet": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/thailand",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 60.38
+          },
+          {
+            "name": "Samsung",
+            "value": 30.24
+          },
+          {
+            "name": "Xiaomi",
+            "value": 3.52
+          },
+          {
+            "name": "Huawei",
+            "value": 2.23
+          },
+          {
+            "name": "Realme",
+            "value": 1.07
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/thailand",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 60.38
+          },
+          {
+            "name": "Samsung",
+            "value": 30.24
+          },
+          {
+            "name": "Xiaomi",
+            "value": 3.52
+          },
+          {
+            "name": "Huawei",
+            "value": 2.23
+          },
+          {
+            "name": "Realme",
+            "value": 1.07
+          }
+        ]
+      }
+    },
+    "search_engine_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/all/thailand",
+        "data": [
+          {
+            "name": "Google",
+            "value": 99.51
+          },
+          {
+            "name": "bing",
+            "value": 0.38
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.07
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.02
+          },
+          {
+            "name": "Petal Search",
+            "value": 0.01
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/mobile/thailand",
+        "data": [
+          {
+            "name": "Google",
+            "value": 99.84
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.08
+          },
+          {
+            "name": "bing",
+            "value": 0.04
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.02
+          },
+          {
+            "name": "Petal Search",
+            "value": 0.01
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/desktop/thailand",
+        "data": [
+          {
+            "name": "Google",
+            "value": 98.81
+          },
+          {
+            "name": "bing",
+            "value": 1.1
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.04
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.03
+          },
+          {
+            "name": "Ecosia",
+            "value": 0.01
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/tablet/thailand",
+        "data": [
+          {
+            "name": "Google",
+            "value": 99.85
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.06
+          },
+          {
+            "name": "bing",
+            "value": 0.05
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.04
+          }
+        ]
+      }
+    },
+    "social_media_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/social-media-stats/all/thailand",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 51.65
+          },
+          {
+            "name": "YouTube",
+            "value": 22.45
+          },
+          {
+            "name": "Twitter",
+            "value": 17.1
+          },
+          {
+            "name": "Instagram",
+            "value": 5.63
+          },
+          {
+            "name": "Pinterest",
+            "value": 1.5
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/social-media-stats/mobile/thailand",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 57.51
+          },
+          {
+            "name": "YouTube",
+            "value": 18.96
+          },
+          {
+            "name": "Twitter",
+            "value": 15.2
+          },
+          {
+            "name": "Instagram",
+            "value": 7.02
+          },
+          {
+            "name": "VKontakte",
+            "value": 0.5
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/social-media-stats/desktop/thailand",
+        "data": [
+          {
+            "name": "YouTube",
+            "value": 36.42
+          },
+          {
+            "name": "Facebook",
+            "value": 28.74
+          },
+          {
+            "name": "Twitter",
+            "value": 25.01
+          },
+          {
+            "name": "Pinterest",
+            "value": 4.79
+          },
+          {
+            "name": "reddit",
+            "value": 2.23
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/social-media-stats/tablet/thailand",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 70.44
+          },
+          {
+            "name": "YouTube",
+            "value": 8.42
+          },
+          {
+            "name": "Pinterest",
+            "value": 7.31
+          },
+          {
+            "name": "Twitter",
+            "value": 6.59
+          },
+          {
+            "name": "Instagram",
+            "value": 5.67
+          }
+        ]
+      }
+    }
+  }
+}

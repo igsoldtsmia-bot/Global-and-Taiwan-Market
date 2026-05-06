@@ -1,0 +1,652 @@
+{
+  "country_code": "jp",
+  "country_name": "日本",
+  "update_time": "2026-05-04 07:58:49",
+  "data": {
+    "platform": {
+      "all": {
+        "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/japan",
+        "data": [
+          {
+            "name": "Desktop",
+            "value": 51.98
+          },
+          {
+            "name": "Mobile",
+            "value": 45.99
+          },
+          {
+            "name": "Tablet",
+            "value": 2.03
+          }
+        ]
+      }
+    },
+    "os_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/os-market-share/all/japan",
+        "data": [
+          {
+            "name": "Windows",
+            "value": 32.61
+          },
+          {
+            "name": "iOS",
+            "value": 28.84
+          },
+          {
+            "name": "Android",
+            "value": 19.12
+          },
+          {
+            "name": "Unknown",
+            "value": 10.29
+          },
+          {
+            "name": "OS X",
+            "value": 5.75
+          },
+          {
+            "name": "macOS",
+            "value": 2.06
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/os-market-share/mobile/japan",
+        "data": [
+          {
+            "name": "iOS",
+            "value": 59.45
+          },
+          {
+            "name": "Android",
+            "value": 40.53
+          },
+          {
+            "name": "Samsung",
+            "value": 0.01
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/os-market-share/desktop/japan",
+        "data": [
+          {
+            "name": "Windows",
+            "value": 62.81
+          },
+          {
+            "name": "Unknown",
+            "value": 19.81
+          },
+          {
+            "name": "OS X",
+            "value": 11.08
+          },
+          {
+            "name": "macOS",
+            "value": 3.98
+          },
+          {
+            "name": "Linux",
+            "value": 1.89
+          },
+          {
+            "name": "Chrome OS",
+            "value": 0.43
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/os-market-share/tablet/japan",
+        "data": [
+          {
+            "name": "iOS",
+            "value": 75.28
+          },
+          {
+            "name": "Android",
+            "value": 24.55
+          },
+          {
+            "name": "Linux",
+            "value": 0.14
+          },
+          {
+            "name": "Unknown",
+            "value": 0.03
+          }
+        ]
+      }
+    },
+    "browser_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/browser-market-share/all/japan",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 56.98
+          },
+          {
+            "name": "Safari",
+            "value": 22.33
+          },
+          {
+            "name": "Edge",
+            "value": 14.14
+          },
+          {
+            "name": "Firefox",
+            "value": 2.79
+          },
+          {
+            "name": "Brave",
+            "value": 1.04
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 0.75
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/browser-market-share/mobile/japan",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 54.05
+          },
+          {
+            "name": "Safari",
+            "value": 41.32
+          },
+          {
+            "name": "Firefox",
+            "value": 0.91
+          },
+          {
+            "name": "Edge",
+            "value": 0.88
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 0.82
+          },
+          {
+            "name": "Brave",
+            "value": 0.8
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/browser-market-share/desktop/japan",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 60.14
+          },
+          {
+            "name": "Edge",
+            "value": 26.39
+          },
+          {
+            "name": "Safari",
+            "value": 4.89
+          },
+          {
+            "name": "Firefox",
+            "value": 4.57
+          },
+          {
+            "name": "Brave",
+            "value": 1.29
+          },
+          {
+            "name": "Opera",
+            "value": 0.79
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/browser-market-share/tablet/japan",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 45.08
+          },
+          {
+            "name": "Safari",
+            "value": 39.78
+          },
+          {
+            "name": "Android",
+            "value": 13.18
+          },
+          {
+            "name": "Edge",
+            "value": 1.17
+          },
+          {
+            "name": "Opera",
+            "value": 0.31
+          },
+          {
+            "name": "Sleipnir",
+            "value": 0.13
+          }
+        ]
+      }
+    },
+    "resolution_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/all/japan",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 12.0
+          },
+          {
+            "name": "375x812",
+            "value": 11.95
+          },
+          {
+            "name": "414x896",
+            "value": 9.66
+          },
+          {
+            "name": "390x844",
+            "value": 5.76
+          },
+          {
+            "name": "1536x864",
+            "value": 4.41
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/japan",
+        "data": [
+          {
+            "name": "375x812",
+            "value": 21.36
+          },
+          {
+            "name": "414x896",
+            "value": 20.84
+          },
+          {
+            "name": "390x844",
+            "value": 12.47
+          },
+          {
+            "name": "375x667",
+            "value": 5.41
+          },
+          {
+            "name": "393x852",
+            "value": 5.02
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/japan",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 23.02
+          },
+          {
+            "name": "1536x864",
+            "value": 8.54
+          },
+          {
+            "name": "2560x1440",
+            "value": 5.85
+          },
+          {
+            "name": "1366x768",
+            "value": 4.47
+          },
+          {
+            "name": "375x812",
+            "value": 4.02
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/japan",
+        "data": [
+          {
+            "name": "768x1024",
+            "value": 13.52
+          },
+          {
+            "name": "820x1180",
+            "value": 7.84
+          },
+          {
+            "name": "810x1080",
+            "value": 7.81
+          },
+          {
+            "name": "800x1280",
+            "value": 4.82
+          },
+          {
+            "name": "834x1194",
+            "value": 4.44
+          }
+        ]
+      }
+    },
+    "vendor_mobile": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/japan",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 59.45
+          },
+          {
+            "name": "Google",
+            "value": 13.16
+          },
+          {
+            "name": "Samsung",
+            "value": 7.91
+          },
+          {
+            "name": "Unknown",
+            "value": 5.39
+          },
+          {
+            "name": "Xiaomi",
+            "value": 3.91
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/japan",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 59.45
+          },
+          {
+            "name": "Google",
+            "value": 13.16
+          },
+          {
+            "name": "Samsung",
+            "value": 7.91
+          },
+          {
+            "name": "Unknown",
+            "value": 5.39
+          },
+          {
+            "name": "Xiaomi",
+            "value": 3.91
+          }
+        ]
+      }
+    },
+    "vendor_tablet": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/japan",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 75.28
+          },
+          {
+            "name": "Unknown",
+            "value": 7.74
+          },
+          {
+            "name": "Amazon",
+            "value": 6.51
+          },
+          {
+            "name": "Huawei",
+            "value": 3.99
+          },
+          {
+            "name": "Xiaomi",
+            "value": 2.58
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/japan",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 75.28
+          },
+          {
+            "name": "Unknown",
+            "value": 7.74
+          },
+          {
+            "name": "Amazon",
+            "value": 6.51
+          },
+          {
+            "name": "Huawei",
+            "value": 3.99
+          },
+          {
+            "name": "Xiaomi",
+            "value": 2.58
+          }
+        ]
+      }
+    },
+    "search_engine_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/all/japan",
+        "data": [
+          {
+            "name": "Google",
+            "value": 55.43
+          },
+          {
+            "name": "bing",
+            "value": 36.38
+          },
+          {
+            "name": "Yahoo!",
+            "value": 6.37
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.57
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.57
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/mobile/japan",
+        "data": [
+          {
+            "name": "Google",
+            "value": 84.05
+          },
+          {
+            "name": "Yahoo!",
+            "value": 12.19
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.91
+          },
+          {
+            "name": "CocCoc",
+            "value": 0.87
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.84
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/desktop/japan",
+        "data": [
+          {
+            "name": "bing",
+            "value": 52.4
+          },
+          {
+            "name": "Google",
+            "value": 42.68
+          },
+          {
+            "name": "Yahoo!",
+            "value": 3.65
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.45
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.41
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/tablet/japan",
+        "data": [
+          {
+            "name": "Google",
+            "value": 73.61
+          },
+          {
+            "name": "Yahoo!",
+            "value": 16.89
+          },
+          {
+            "name": "bing",
+            "value": 6.3
+          },
+          {
+            "name": "CocCoc",
+            "value": 1.23
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 1.03
+          }
+        ]
+      }
+    },
+    "social_media_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/social-media-stats/all/japan",
+        "data": [
+          {
+            "name": "Twitter",
+            "value": 52.62
+          },
+          {
+            "name": "Instagram",
+            "value": 16.8
+          },
+          {
+            "name": "Facebook",
+            "value": 14.81
+          },
+          {
+            "name": "Pinterest",
+            "value": 5.81
+          },
+          {
+            "name": "YouTube",
+            "value": 5.67
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/social-media-stats/mobile/japan",
+        "data": [
+          {
+            "name": "Twitter",
+            "value": 45.04
+          },
+          {
+            "name": "Instagram",
+            "value": 25.79
+          },
+          {
+            "name": "Facebook",
+            "value": 21.0
+          },
+          {
+            "name": "Pinterest",
+            "value": 3.59
+          },
+          {
+            "name": "YouTube",
+            "value": 2.42
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/social-media-stats/desktop/japan",
+        "data": [
+          {
+            "name": "Twitter",
+            "value": 66.82
+          },
+          {
+            "name": "YouTube",
+            "value": 11.43
+          },
+          {
+            "name": "Pinterest",
+            "value": 8.97
+          },
+          {
+            "name": "reddit",
+            "value": 4.96
+          },
+          {
+            "name": "Facebook",
+            "value": 3.37
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/social-media-stats/tablet/japan",
+        "data": [
+          {
+            "name": "Twitter",
+            "value": 30.99
+          },
+          {
+            "name": "Facebook",
+            "value": 29.15
+          },
+          {
+            "name": "Pinterest",
+            "value": 23.96
+          },
+          {
+            "name": "Instagram",
+            "value": 8.4
+          },
+          {
+            "name": "YouTube",
+            "value": 4.5
+          }
+        ]
+      }
+    }
+  }
+}

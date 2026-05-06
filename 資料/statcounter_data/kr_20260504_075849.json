@@ -1,0 +1,656 @@
+{
+  "country_code": "kr",
+  "country_name": "韓國",
+  "update_time": "2026-05-04 07:55:01",
+  "data": {
+    "platform": {
+      "all": {
+        "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/south-korea",
+        "data": [
+          {
+            "name": "Desktop",
+            "value": 55.4
+          },
+          {
+            "name": "Mobile",
+            "value": 43.63
+          },
+          {
+            "name": "Tablet",
+            "value": 0.97
+          }
+        ]
+      }
+    },
+    "os_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/os-market-share/all/south-korea",
+        "data": [
+          {
+            "name": "Windows",
+            "value": 42.45
+          },
+          {
+            "name": "Android",
+            "value": 29.95
+          },
+          {
+            "name": "iOS",
+            "value": 14.58
+          },
+          {
+            "name": "Unknown",
+            "value": 9.27
+          },
+          {
+            "name": "macOS",
+            "value": 1.71
+          },
+          {
+            "name": "OS X",
+            "value": 1.3
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/os-market-share/mobile/south-korea",
+        "data": [
+          {
+            "name": "Android",
+            "value": 67.7
+          },
+          {
+            "name": "iOS",
+            "value": 32.13
+          },
+          {
+            "name": "Samsung",
+            "value": 0.15
+          },
+          {
+            "name": "Unknown",
+            "value": 0.01
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/os-market-share/desktop/south-korea",
+        "data": [
+          {
+            "name": "Windows",
+            "value": 76.61
+          },
+          {
+            "name": "Unknown",
+            "value": 16.72
+          },
+          {
+            "name": "macOS",
+            "value": 3.09
+          },
+          {
+            "name": "OS X",
+            "value": 2.34
+          },
+          {
+            "name": "Linux",
+            "value": 1.14
+          },
+          {
+            "name": "Chrome OS",
+            "value": 0.1
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/os-market-share/tablet/south-korea",
+        "data": [
+          {
+            "name": "iOS",
+            "value": 57.51
+          },
+          {
+            "name": "Android",
+            "value": 42.44
+          },
+          {
+            "name": "Linux",
+            "value": 0.05
+          },
+          {
+            "name": "Unknown",
+            "value": 0.01
+          }
+        ]
+      }
+    },
+    "browser_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/browser-market-share/all/south-korea",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 55.85
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 13.31
+          },
+          {
+            "name": "Safari",
+            "value": 11.85
+          },
+          {
+            "name": "Whale Browser",
+            "value": 8.56
+          },
+          {
+            "name": "Edge",
+            "value": 8.07
+          },
+          {
+            "name": "Firefox",
+            "value": 0.68
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/browser-market-share/mobile/south-korea",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 38.81
+          },
+          {
+            "name": "Safari",
+            "value": 24.26
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 21.17
+          },
+          {
+            "name": "Whale Browser",
+            "value": 13.94
+          },
+          {
+            "name": "Coc Coc",
+            "value": 0.36
+          },
+          {
+            "name": "Firefox",
+            "value": 0.3
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/browser-market-share/desktop/south-korea",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 69.47
+          },
+          {
+            "name": "Edge",
+            "value": 14.36
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 7.31
+          },
+          {
+            "name": "Whale Browser",
+            "value": 4.47
+          },
+          {
+            "name": "Safari",
+            "value": 1.68
+          },
+          {
+            "name": "Firefox",
+            "value": 0.99
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/browser-market-share/tablet/south-korea",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 44.09
+          },
+          {
+            "name": "Safari",
+            "value": 34.27
+          },
+          {
+            "name": "Android",
+            "value": 16.31
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 2.89
+          },
+          {
+            "name": "Opera",
+            "value": 0.6
+          },
+          {
+            "name": "Ecosia",
+            "value": 0.57
+          }
+        ]
+      }
+    },
+    "resolution_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/all/south-korea",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 19.4
+          },
+          {
+            "name": "2560x1440",
+            "value": 7.46
+          },
+          {
+            "name": "414x896",
+            "value": 7.07
+          },
+          {
+            "name": "384x832",
+            "value": 6.78
+          },
+          {
+            "name": "360x780",
+            "value": 5.45
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/south-korea",
+        "data": [
+          {
+            "name": "414x896",
+            "value": 16.04
+          },
+          {
+            "name": "384x832",
+            "value": 9.58
+          },
+          {
+            "name": "360x780",
+            "value": 8.7
+          },
+          {
+            "name": "412x892",
+            "value": 7.8
+          },
+          {
+            "name": "390x844",
+            "value": 4.95
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/south-korea",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 35.13
+          },
+          {
+            "name": "2560x1440",
+            "value": 13.54
+          },
+          {
+            "name": "1024x768",
+            "value": 6.11
+          },
+          {
+            "name": "1536x864",
+            "value": 4.71
+          },
+          {
+            "name": "384x832",
+            "value": 4.67
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/south-korea",
+        "data": [
+          {
+            "name": "820x1180",
+            "value": 6.46
+          },
+          {
+            "name": "1205x753",
+            "value": 3.96
+          },
+          {
+            "name": "1334x800",
+            "value": 3.91
+          },
+          {
+            "name": "768x1024",
+            "value": 3.29
+          },
+          {
+            "name": "1280x800",
+            "value": 3.06
+          }
+        ]
+      }
+    },
+    "vendor_mobile": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/south-korea",
+        "data": [
+          {
+            "name": "Samsung",
+            "value": 54.45
+          },
+          {
+            "name": "Apple",
+            "value": 32.13
+          },
+          {
+            "name": "Unknown",
+            "value": 10.06
+          },
+          {
+            "name": "Google",
+            "value": 1.26
+          },
+          {
+            "name": "Xiaomi",
+            "value": 0.71
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/south-korea",
+        "data": [
+          {
+            "name": "Samsung",
+            "value": 54.45
+          },
+          {
+            "name": "Apple",
+            "value": 32.13
+          },
+          {
+            "name": "Unknown",
+            "value": 10.06
+          },
+          {
+            "name": "Google",
+            "value": 1.26
+          },
+          {
+            "name": "Xiaomi",
+            "value": 0.71
+          }
+        ]
+      }
+    },
+    "vendor_tablet": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/south-korea",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 57.51
+          },
+          {
+            "name": "Samsung",
+            "value": 28.98
+          },
+          {
+            "name": "Unknown",
+            "value": 11.24
+          },
+          {
+            "name": "Xiaomi",
+            "value": 1.15
+          },
+          {
+            "name": "Lenovo",
+            "value": 0.58
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/south-korea",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 57.51
+          },
+          {
+            "name": "Samsung",
+            "value": 28.98
+          },
+          {
+            "name": "Unknown",
+            "value": 11.24
+          },
+          {
+            "name": "Xiaomi",
+            "value": 1.15
+          },
+          {
+            "name": "Lenovo",
+            "value": 0.58
+          }
+        ]
+      }
+    },
+    "search_engine_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/all/south-korea",
+        "data": [
+          {
+            "name": "Google",
+            "value": 47.31
+          },
+          {
+            "name": "Naver",
+            "value": 42.47
+          },
+          {
+            "name": "bing",
+            "value": 6.14
+          },
+          {
+            "name": "Daum",
+            "value": 1.36
+          },
+          {
+            "name": "CocCoc",
+            "value": 1.21
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/mobile/south-korea",
+        "data": [
+          {
+            "name": "Naver",
+            "value": 64.88
+          },
+          {
+            "name": "Google",
+            "value": 31.44
+          },
+          {
+            "name": "CocCoc",
+            "value": 2.13
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.95
+          },
+          {
+            "name": "Baidu",
+            "value": 0.19
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/desktop/south-korea",
+        "data": [
+          {
+            "name": "Google",
+            "value": 61.35
+          },
+          {
+            "name": "Naver",
+            "value": 22.58
+          },
+          {
+            "name": "bing",
+            "value": 11.54
+          },
+          {
+            "name": "Daum",
+            "value": 2.58
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.79
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/tablet/south-korea",
+        "data": [
+          {
+            "name": "Naver",
+            "value": 53.33
+          },
+          {
+            "name": "Google",
+            "value": 41.95
+          },
+          {
+            "name": "CocCoc",
+            "value": 2.22
+          },
+          {
+            "name": "YANDEX",
+            "value": 1.57
+          },
+          {
+            "name": "Baidu",
+            "value": 0.38
+          }
+        ]
+      }
+    },
+    "social_media_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/social-media-stats/all/south-korea",
+        "data": [
+          {
+            "name": "YouTube",
+            "value": 80.84
+          },
+          {
+            "name": "Facebook",
+            "value": 7.51
+          },
+          {
+            "name": "Twitter",
+            "value": 5.58
+          },
+          {
+            "name": "Instagram",
+            "value": 2.86
+          },
+          {
+            "name": "Pinterest",
+            "value": 1.78
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/social-media-stats/mobile/south-korea",
+        "data": [
+          {
+            "name": "YouTube",
+            "value": 77.92
+          },
+          {
+            "name": "Facebook",
+            "value": 11.25
+          },
+          {
+            "name": "Twitter",
+            "value": 5.41
+          },
+          {
+            "name": "Instagram",
+            "value": 4.44
+          },
+          {
+            "name": "reddit",
+            "value": 0.46
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/social-media-stats/desktop/south-korea",
+        "data": [
+          {
+            "name": "YouTube",
+            "value": 85.85
+          },
+          {
+            "name": "Twitter",
+            "value": 5.83
+          },
+          {
+            "name": "Pinterest",
+            "value": 3.81
+          },
+          {
+            "name": "reddit",
+            "value": 2.29
+          },
+          {
+            "name": "Facebook",
+            "value": 1.34
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/social-media-stats/tablet/south-korea",
+        "data": [
+          {
+            "name": "YouTube",
+            "value": 61.6
+          },
+          {
+            "name": "Facebook",
+            "value": 14.05
+          },
+          {
+            "name": "Pinterest",
+            "value": 13.06
+          },
+          {
+            "name": "Twitter",
+            "value": 7.52
+          },
+          {
+            "name": "reddit",
+            "value": 2.57
+          }
+        ]
+      }
+    }
+  }
+}

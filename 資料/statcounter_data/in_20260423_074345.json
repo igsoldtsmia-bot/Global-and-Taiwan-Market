@@ -1,0 +1,660 @@
+{
+  "country_code": "in",
+  "country_name": "印度",
+  "update_time": "2026-04-23 07:40:02",
+  "data": {
+    "platform": {
+      "all": {
+        "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/india",
+        "data": [
+          {
+            "name": "Mobile",
+            "value": 70.1
+          },
+          {
+            "name": "Desktop",
+            "value": 29.34
+          },
+          {
+            "name": "Tablet",
+            "value": 0.55
+          }
+        ]
+      }
+    },
+    "os_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/os-market-share/all/india",
+        "data": [
+          {
+            "name": "Android",
+            "value": 66.27
+          },
+          {
+            "name": "Unknown",
+            "value": 15.48
+          },
+          {
+            "name": "Windows",
+            "value": 11.3
+          },
+          {
+            "name": "iOS",
+            "value": 4.29
+          },
+          {
+            "name": "Linux",
+            "value": 1.64
+          },
+          {
+            "name": "macOS",
+            "value": 0.47
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/os-market-share/mobile/india",
+        "data": [
+          {
+            "name": "Android",
+            "value": 93.9
+          },
+          {
+            "name": "iOS",
+            "value": 5.95
+          },
+          {
+            "name": "KaiOS",
+            "value": 0.05
+          },
+          {
+            "name": "Unknown",
+            "value": 0.05
+          },
+          {
+            "name": "Samsung",
+            "value": 0.03
+          },
+          {
+            "name": "Linux",
+            "value": 0.01
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/os-market-share/desktop/india",
+        "data": [
+          {
+            "name": "Unknown",
+            "value": 52.65
+          },
+          {
+            "name": "Windows",
+            "value": 38.51
+          },
+          {
+            "name": "Linux",
+            "value": 5.54
+          },
+          {
+            "name": "macOS",
+            "value": 1.61
+          },
+          {
+            "name": "OS X",
+            "value": 1.46
+          },
+          {
+            "name": "Chrome OS",
+            "value": 0.23
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/os-market-share/tablet/india",
+        "data": [
+          {
+            "name": "Android",
+            "value": 79.73
+          },
+          {
+            "name": "iOS",
+            "value": 20.21
+          },
+          {
+            "name": "Linux",
+            "value": 0.06
+          }
+        ]
+      }
+    },
+    "browser_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/browser-market-share/all/india",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 90.1
+          },
+          {
+            "name": "Opera",
+            "value": 3.03
+          },
+          {
+            "name": "Safari",
+            "value": 2.84
+          },
+          {
+            "name": "Edge",
+            "value": 1.15
+          },
+          {
+            "name": "UC Browser",
+            "value": 1.02
+          },
+          {
+            "name": "Firefox",
+            "value": 0.67
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/browser-market-share/mobile/india",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 89.82
+          },
+          {
+            "name": "Safari",
+            "value": 3.62
+          },
+          {
+            "name": "Opera",
+            "value": 3.59
+          },
+          {
+            "name": "UC Browser",
+            "value": 1.44
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 0.82
+          },
+          {
+            "name": "Brave",
+            "value": 0.33
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/browser-market-share/desktop/india",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 90.93
+          },
+          {
+            "name": "Edge",
+            "value": 3.84
+          },
+          {
+            "name": "Firefox",
+            "value": 1.84
+          },
+          {
+            "name": "Opera",
+            "value": 1.7
+          },
+          {
+            "name": "Safari",
+            "value": 0.9
+          },
+          {
+            "name": "Brave",
+            "value": 0.7
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/browser-market-share/tablet/india",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 81.21
+          },
+          {
+            "name": "Android",
+            "value": 7.58
+          },
+          {
+            "name": "Safari",
+            "value": 7.5
+          },
+          {
+            "name": "Opera",
+            "value": 2.8
+          },
+          {
+            "name": "UC Browser",
+            "value": 0.56
+          },
+          {
+            "name": "Edge",
+            "value": 0.16
+          }
+        ]
+      }
+    },
+    "resolution_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/all/india",
+        "data": [
+          {
+            "name": "360x800",
+            "value": 14.94
+          },
+          {
+            "name": "393x873",
+            "value": 5.94
+          },
+          {
+            "name": "385x854",
+            "value": 3.6
+          },
+          {
+            "name": "393x876",
+            "value": 3.56
+          },
+          {
+            "name": "360x804",
+            "value": 3.19
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/india",
+        "data": [
+          {
+            "name": "360x800",
+            "value": 19.19
+          },
+          {
+            "name": "393x873",
+            "value": 7.71
+          },
+          {
+            "name": "360x804",
+            "value": 4.04
+          },
+          {
+            "name": "393x876",
+            "value": 3.88
+          },
+          {
+            "name": "385x854",
+            "value": 3.79
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/india",
+        "data": [
+          {
+            "name": "1366x768",
+            "value": 9.39
+          },
+          {
+            "name": "1536x864",
+            "value": 8.13
+          },
+          {
+            "name": "1920x1080",
+            "value": 6.26
+          },
+          {
+            "name": "393x870",
+            "value": 5.89
+          },
+          {
+            "name": "360x802",
+            "value": 4.74
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/india",
+        "data": [
+          {
+            "name": "601x1007",
+            "value": 25.63
+          },
+          {
+            "name": "534x854",
+            "value": 5.31
+          },
+          {
+            "name": "800x1280",
+            "value": 4.86
+          },
+          {
+            "name": "686x1143",
+            "value": 4.39
+          },
+          {
+            "name": "1280x720",
+            "value": 4.29
+          }
+        ]
+      }
+    },
+    "vendor_mobile": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/india",
+        "data": [
+          {
+            "name": "Vivo",
+            "value": 17.74
+          },
+          {
+            "name": "Xiaomi",
+            "value": 16.02
+          },
+          {
+            "name": "Realme",
+            "value": 12.47
+          },
+          {
+            "name": "Samsung",
+            "value": 12.01
+          },
+          {
+            "name": "Oppo",
+            "value": 11.33
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/india",
+        "data": [
+          {
+            "name": "Vivo",
+            "value": 17.74
+          },
+          {
+            "name": "Xiaomi",
+            "value": 16.02
+          },
+          {
+            "name": "Realme",
+            "value": 12.47
+          },
+          {
+            "name": "Samsung",
+            "value": 12.01
+          },
+          {
+            "name": "Oppo",
+            "value": 11.33
+          }
+        ]
+      }
+    },
+    "vendor_tablet": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/india",
+        "data": [
+          {
+            "name": "Samsung",
+            "value": 49.31
+          },
+          {
+            "name": "Apple",
+            "value": 20.21
+          },
+          {
+            "name": "Realme",
+            "value": 8.94
+          },
+          {
+            "name": "Acer",
+            "value": 5.9
+          },
+          {
+            "name": "Unknown",
+            "value": 5.74
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/india",
+        "data": [
+          {
+            "name": "Samsung",
+            "value": 49.31
+          },
+          {
+            "name": "Apple",
+            "value": 20.21
+          },
+          {
+            "name": "Realme",
+            "value": 8.94
+          },
+          {
+            "name": "Acer",
+            "value": 5.9
+          },
+          {
+            "name": "Unknown",
+            "value": 5.74
+          }
+        ]
+      }
+    },
+    "search_engine_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/all/india",
+        "data": [
+          {
+            "name": "Google",
+            "value": 97.14
+          },
+          {
+            "name": "bing",
+            "value": 1.45
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.64
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.56
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.12
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/mobile/india",
+        "data": [
+          {
+            "name": "Google",
+            "value": 98.75
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.78
+          },
+          {
+            "name": "bing",
+            "value": 0.25
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.12
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.04
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/desktop/india",
+        "data": [
+          {
+            "name": "Google",
+            "value": 93.8
+          },
+          {
+            "name": "bing",
+            "value": 3.95
+          },
+          {
+            "name": "Yahoo!",
+            "value": 1.63
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.36
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.13
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/tablet/india",
+        "data": [
+          {
+            "name": "Google",
+            "value": 98.17
+          },
+          {
+            "name": "bing",
+            "value": 1.1
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.5
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.16
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.05
+          }
+        ]
+      }
+    },
+    "social_media_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/social-media-stats/all/india",
+        "data": [
+          {
+            "name": "Instagram",
+            "value": 43.93
+          },
+          {
+            "name": "YouTube",
+            "value": 26.27
+          },
+          {
+            "name": "Facebook",
+            "value": 21.2
+          },
+          {
+            "name": "Twitter",
+            "value": 4.68
+          },
+          {
+            "name": "Pinterest",
+            "value": 1.61
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/social-media-stats/mobile/india",
+        "data": [
+          {
+            "name": "Instagram",
+            "value": 49.58
+          },
+          {
+            "name": "Facebook",
+            "value": 23.47
+          },
+          {
+            "name": "YouTube",
+            "value": 21.79
+          },
+          {
+            "name": "Twitter",
+            "value": 3.86
+          },
+          {
+            "name": "Pinterest",
+            "value": 0.64
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/social-media-stats/desktop/india",
+        "data": [
+          {
+            "name": "YouTube",
+            "value": 60.35
+          },
+          {
+            "name": "Twitter",
+            "value": 10.84
+          },
+          {
+            "name": "LinkedIn",
+            "value": 10.32
+          },
+          {
+            "name": "Pinterest",
+            "value": 8.61
+          },
+          {
+            "name": "Facebook",
+            "value": 3.82
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/social-media-stats/tablet/india",
+        "data": [
+          {
+            "name": "YouTube",
+            "value": 31.8
+          },
+          {
+            "name": "Facebook",
+            "value": 23.12
+          },
+          {
+            "name": "Instagram",
+            "value": 17.92
+          },
+          {
+            "name": "Pinterest",
+            "value": 16.03
+          },
+          {
+            "name": "Twitter",
+            "value": 6.79
+          }
+        ]
+      }
+    }
+  }
+}

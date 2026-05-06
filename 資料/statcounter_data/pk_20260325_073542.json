@@ -1,0 +1,668 @@
+{
+  "country_code": "pk",
+  "country_name": "巴基斯坦",
+  "update_time": "2026-03-25 07:31:58",
+  "data": {
+    "platform": {
+      "all": {
+        "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/pakistan",
+        "data": [
+          {
+            "name": "Desktop",
+            "value": 50.81
+          },
+          {
+            "name": "Mobile",
+            "value": 48.69
+          },
+          {
+            "name": "Tablet",
+            "value": 0.5
+          }
+        ]
+      }
+    },
+    "os_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/os-market-share/all/pakistan",
+        "data": [
+          {
+            "name": "Android",
+            "value": 45.35
+          },
+          {
+            "name": "Windows",
+            "value": 40.02
+          },
+          {
+            "name": "Unknown",
+            "value": 8.5
+          },
+          {
+            "name": "iOS",
+            "value": 3.76
+          },
+          {
+            "name": "Linux",
+            "value": 0.81
+          },
+          {
+            "name": "macOS",
+            "value": 0.8
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/os-market-share/mobile/pakistan",
+        "data": [
+          {
+            "name": "Android",
+            "value": 92.37
+          },
+          {
+            "name": "iOS",
+            "value": 7.46
+          },
+          {
+            "name": "Samsung",
+            "value": 0.05
+          },
+          {
+            "name": "Unknown",
+            "value": 0.05
+          },
+          {
+            "name": "KaiOS",
+            "value": 0.03
+          },
+          {
+            "name": "Nokia Unknown",
+            "value": 0.01
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/os-market-share/desktop/pakistan",
+        "data": [
+          {
+            "name": "Windows",
+            "value": 78.77
+          },
+          {
+            "name": "Unknown",
+            "value": 16.69
+          },
+          {
+            "name": "Linux",
+            "value": 1.58
+          },
+          {
+            "name": "macOS",
+            "value": 1.57
+          },
+          {
+            "name": "OS X",
+            "value": 0.72
+          },
+          {
+            "name": "Chrome OS",
+            "value": 0.67
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/os-market-share/tablet/pakistan",
+        "data": [
+          {
+            "name": "Android",
+            "value": 75.1
+          },
+          {
+            "name": "iOS",
+            "value": 24.83
+          },
+          {
+            "name": "Linux",
+            "value": 0.04
+          },
+          {
+            "name": "Windows",
+            "value": 0.02
+          },
+          {
+            "name": "Unknown",
+            "value": 0.01
+          }
+        ]
+      }
+    },
+    "browser_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/browser-market-share/all/pakistan",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 88.5
+          },
+          {
+            "name": "Safari",
+            "value": 3.31
+          },
+          {
+            "name": "UC Browser",
+            "value": 2.86
+          },
+          {
+            "name": "Opera",
+            "value": 1.86
+          },
+          {
+            "name": "Edge",
+            "value": 1.51
+          },
+          {
+            "name": "Firefox",
+            "value": 0.75
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/browser-market-share/mobile/pakistan",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 83.82
+          },
+          {
+            "name": "Safari",
+            "value": 6.06
+          },
+          {
+            "name": "UC Browser",
+            "value": 5.84
+          },
+          {
+            "name": "Opera",
+            "value": 2.55
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 1.27
+          },
+          {
+            "name": "Brave",
+            "value": 0.11
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/browser-market-share/desktop/pakistan",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 93.38
+          },
+          {
+            "name": "Edge",
+            "value": 2.93
+          },
+          {
+            "name": "Firefox",
+            "value": 1.38
+          },
+          {
+            "name": "Opera",
+            "value": 1.19
+          },
+          {
+            "name": "Safari",
+            "value": 0.54
+          },
+          {
+            "name": "Brave",
+            "value": 0.28
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/browser-market-share/tablet/pakistan",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 48.59
+          },
+          {
+            "name": "Android",
+            "value": 31.96
+          },
+          {
+            "name": "Safari",
+            "value": 16.07
+          },
+          {
+            "name": "Opera",
+            "value": 1.82
+          },
+          {
+            "name": "UC Browser",
+            "value": 0.97
+          },
+          {
+            "name": "Instabridge",
+            "value": 0.2
+          }
+        ]
+      }
+    },
+    "resolution_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/all/pakistan",
+        "data": [
+          {
+            "name": "1280x1200",
+            "value": 15.71
+          },
+          {
+            "name": "360x800",
+            "value": 12.58
+          },
+          {
+            "name": "1366x768",
+            "value": 5.78
+          },
+          {
+            "name": "360x820",
+            "value": 5.04
+          },
+          {
+            "name": "360x806",
+            "value": 4.74
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/pakistan",
+        "data": [
+          {
+            "name": "360x800",
+            "value": 21.18
+          },
+          {
+            "name": "360x820",
+            "value": 9.01
+          },
+          {
+            "name": "360x806",
+            "value": 8.98
+          },
+          {
+            "name": "385x854",
+            "value": 6.11
+          },
+          {
+            "name": "393x873",
+            "value": 4.1
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/pakistan",
+        "data": [
+          {
+            "name": "1280x1200",
+            "value": 31.06
+          },
+          {
+            "name": "1366x768",
+            "value": 11.37
+          },
+          {
+            "name": "1920x1080",
+            "value": 7.1
+          },
+          {
+            "name": "800x600",
+            "value": 7.06
+          },
+          {
+            "name": "1280x720",
+            "value": 6.12
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/pakistan",
+        "data": [
+          {
+            "name": "1280x720",
+            "value": 18.0
+          },
+          {
+            "name": "601x962",
+            "value": 12.97
+          },
+          {
+            "name": "768x1024",
+            "value": 9.63
+          },
+          {
+            "name": "800x1280",
+            "value": 8.9
+          },
+          {
+            "name": "601x1007",
+            "value": 5.83
+          }
+        ]
+      }
+    },
+    "vendor_mobile": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/pakistan",
+        "data": [
+          {
+            "name": "Infinix",
+            "value": 14.79
+          },
+          {
+            "name": "Samsung",
+            "value": 12.95
+          },
+          {
+            "name": "Vivo",
+            "value": 12.23
+          },
+          {
+            "name": "Unknown",
+            "value": 11.66
+          },
+          {
+            "name": "Oppo",
+            "value": 9.76
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/pakistan",
+        "data": [
+          {
+            "name": "Infinix",
+            "value": 14.79
+          },
+          {
+            "name": "Samsung",
+            "value": 12.95
+          },
+          {
+            "name": "Vivo",
+            "value": 12.23
+          },
+          {
+            "name": "Unknown",
+            "value": 11.66
+          },
+          {
+            "name": "Oppo",
+            "value": 9.76
+          }
+        ]
+      }
+    },
+    "vendor_tablet": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/pakistan",
+        "data": [
+          {
+            "name": "Samsung",
+            "value": 38.25
+          },
+          {
+            "name": "Apple",
+            "value": 24.83
+          },
+          {
+            "name": "Unknown",
+            "value": 19.68
+          },
+          {
+            "name": "Amazon",
+            "value": 7.66
+          },
+          {
+            "name": "Lenovo",
+            "value": 2.33
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/pakistan",
+        "data": [
+          {
+            "name": "Samsung",
+            "value": 38.25
+          },
+          {
+            "name": "Apple",
+            "value": 24.83
+          },
+          {
+            "name": "Unknown",
+            "value": 19.68
+          },
+          {
+            "name": "Amazon",
+            "value": 7.66
+          },
+          {
+            "name": "Lenovo",
+            "value": 2.33
+          }
+        ]
+      }
+    },
+    "search_engine_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/all/pakistan",
+        "data": [
+          {
+            "name": "Google",
+            "value": 96.39
+          },
+          {
+            "name": "bing",
+            "value": 2.14
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.68
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.5
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.25
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/mobile/pakistan",
+        "data": [
+          {
+            "name": "Google",
+            "value": 98.43
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.75
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.37
+          },
+          {
+            "name": "bing",
+            "value": 0.32
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.09
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/desktop/pakistan",
+        "data": [
+          {
+            "name": "Google",
+            "value": 93.99
+          },
+          {
+            "name": "bing",
+            "value": 4.28
+          },
+          {
+            "name": "Yahoo!",
+            "value": 1.39
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.21
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.12
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/tablet/pakistan",
+        "data": [
+          {
+            "name": "Google",
+            "value": 94.7
+          },
+          {
+            "name": "bing",
+            "value": 4.67
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.25
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.25
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.11
+          }
+        ]
+      }
+    },
+    "social_media_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/social-media-stats/all/pakistan",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 95.57
+          },
+          {
+            "name": "YouTube",
+            "value": 1.71
+          },
+          {
+            "name": "Twitter",
+            "value": 1.46
+          },
+          {
+            "name": "Instagram",
+            "value": 0.92
+          },
+          {
+            "name": "Pinterest",
+            "value": 0.23
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/social-media-stats/mobile/pakistan",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 96.81
+          },
+          {
+            "name": "Twitter",
+            "value": 1.12
+          },
+          {
+            "name": "YouTube",
+            "value": 1.08
+          },
+          {
+            "name": "Instagram",
+            "value": 0.91
+          },
+          {
+            "name": "Pinterest",
+            "value": 0.07
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/social-media-stats/desktop/pakistan",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 57.78
+          },
+          {
+            "name": "YouTube",
+            "value": 20.65
+          },
+          {
+            "name": "Twitter",
+            "value": 12.11
+          },
+          {
+            "name": "Pinterest",
+            "value": 5.04
+          },
+          {
+            "name": "LinkedIn",
+            "value": 2.63
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/social-media-stats/tablet/pakistan",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 84.02
+          },
+          {
+            "name": "YouTube",
+            "value": 8.94
+          },
+          {
+            "name": "Twitter",
+            "value": 2.49
+          },
+          {
+            "name": "Instagram",
+            "value": 2.49
+          },
+          {
+            "name": "Pinterest",
+            "value": 2.05
+          }
+        ]
+      }
+    }
+  }
+}
