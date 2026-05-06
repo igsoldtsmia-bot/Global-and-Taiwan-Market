@@ -1,0 +1,652 @@
+{
+  "country_code": "gb",
+  "country_name": "英國",
+  "update_time": "2026-05-04 07:40:10",
+  "data": {
+    "platform": {
+      "all": {
+        "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/united-kingdom",
+        "data": [
+          {
+            "name": "Mobile",
+            "value": 48.98
+          },
+          {
+            "name": "Desktop",
+            "value": 46.75
+          },
+          {
+            "name": "Tablet",
+            "value": 4.27
+          }
+        ]
+      }
+    },
+    "os_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/os-market-share/all/united-kingdom",
+        "data": [
+          {
+            "name": "iOS",
+            "value": 27.38
+          },
+          {
+            "name": "Windows",
+            "value": 26.78
+          },
+          {
+            "name": "Android",
+            "value": 25.77
+          },
+          {
+            "name": "OS X",
+            "value": 7.9
+          },
+          {
+            "name": "Unknown",
+            "value": 6.25
+          },
+          {
+            "name": "macOS",
+            "value": 3.03
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/os-market-share/mobile/united-kingdom",
+        "data": [
+          {
+            "name": "iOS",
+            "value": 51.3
+          },
+          {
+            "name": "Android",
+            "value": 48.58
+          },
+          {
+            "name": "Samsung",
+            "value": 0.11
+          },
+          {
+            "name": "Windows",
+            "value": 0.01
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/os-market-share/desktop/united-kingdom",
+        "data": [
+          {
+            "name": "Windows",
+            "value": 57.31
+          },
+          {
+            "name": "OS X",
+            "value": 16.9
+          },
+          {
+            "name": "Unknown",
+            "value": 13.37
+          },
+          {
+            "name": "macOS",
+            "value": 6.48
+          },
+          {
+            "name": "Chrome OS",
+            "value": 3.16
+          },
+          {
+            "name": "Linux",
+            "value": 2.77
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/os-market-share/tablet/united-kingdom",
+        "data": [
+          {
+            "name": "iOS",
+            "value": 53.23
+          },
+          {
+            "name": "Android",
+            "value": 46.73
+          },
+          {
+            "name": "Linux",
+            "value": 0.04
+          }
+        ]
+      }
+    },
+    "browser_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/browser-market-share/all/united-kingdom",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 50.96
+          },
+          {
+            "name": "Safari",
+            "value": 29.51
+          },
+          {
+            "name": "Edge",
+            "value": 11.06
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 3.77
+          },
+          {
+            "name": "Firefox",
+            "value": 1.91
+          },
+          {
+            "name": "Opera",
+            "value": 1.03
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/browser-market-share/mobile/united-kingdom",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 47.84
+          },
+          {
+            "name": "Safari",
+            "value": 44.32
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 5.49
+          },
+          {
+            "name": "Firefox",
+            "value": 0.76
+          },
+          {
+            "name": "Edge",
+            "value": 0.48
+          },
+          {
+            "name": "Opera",
+            "value": 0.26
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/browser-market-share/desktop/united-kingdom",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 55.21
+          },
+          {
+            "name": "Edge",
+            "value": 23.03
+          },
+          {
+            "name": "Safari",
+            "value": 13.38
+          },
+          {
+            "name": "Firefox",
+            "value": 3.28
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 2.21
+          },
+          {
+            "name": "Opera",
+            "value": 1.91
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/browser-market-share/tablet/united-kingdom",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 40.95
+          },
+          {
+            "name": "Safari",
+            "value": 36.63
+          },
+          {
+            "name": "Android",
+            "value": 20.28
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 1.07
+          },
+          {
+            "name": "Edge",
+            "value": 0.55
+          },
+          {
+            "name": "Opera",
+            "value": 0.28
+          }
+        ]
+      }
+    },
+    "resolution_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/all/united-kingdom",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 13.27
+          },
+          {
+            "name": "414x896",
+            "value": 10.07
+          },
+          {
+            "name": "390x844",
+            "value": 6.17
+          },
+          {
+            "name": "384x832",
+            "value": 4.8
+          },
+          {
+            "name": "1536x864",
+            "value": 4.39
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/united-kingdom",
+        "data": [
+          {
+            "name": "414x896",
+            "value": 20.38
+          },
+          {
+            "name": "390x844",
+            "value": 12.54
+          },
+          {
+            "name": "375x812",
+            "value": 7.0
+          },
+          {
+            "name": "375x667",
+            "value": 5.78
+          },
+          {
+            "name": "384x832",
+            "value": 5.2
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/united-kingdom",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 28.48
+          },
+          {
+            "name": "1536x864",
+            "value": 9.45
+          },
+          {
+            "name": "384x832",
+            "value": 4.83
+          },
+          {
+            "name": "1280x720",
+            "value": 4.59
+          },
+          {
+            "name": "1440x900",
+            "value": 4.01
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/united-kingdom",
+        "data": [
+          {
+            "name": "768x1024",
+            "value": 13.22
+          },
+          {
+            "name": "800x1280",
+            "value": 10.01
+          },
+          {
+            "name": "1280x800",
+            "value": 8.56
+          },
+          {
+            "name": "810x1080",
+            "value": 6.49
+          },
+          {
+            "name": "601x962",
+            "value": 4.97
+          }
+        ]
+      }
+    },
+    "vendor_mobile": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/united-kingdom",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 51.3
+          },
+          {
+            "name": "Samsung",
+            "value": 29.66
+          },
+          {
+            "name": "Google",
+            "value": 6.14
+          },
+          {
+            "name": "Motorola",
+            "value": 3.73
+          },
+          {
+            "name": "Unknown",
+            "value": 2.34
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/united-kingdom",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 51.3
+          },
+          {
+            "name": "Samsung",
+            "value": 29.66
+          },
+          {
+            "name": "Google",
+            "value": 6.14
+          },
+          {
+            "name": "Motorola",
+            "value": 3.73
+          },
+          {
+            "name": "Unknown",
+            "value": 2.34
+          }
+        ]
+      }
+    },
+    "vendor_tablet": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/united-kingdom",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 53.23
+          },
+          {
+            "name": "Samsung",
+            "value": 21.53
+          },
+          {
+            "name": "Amazon",
+            "value": 11.39
+          },
+          {
+            "name": "Unknown",
+            "value": 9.11
+          },
+          {
+            "name": "Lenovo",
+            "value": 2.59
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/united-kingdom",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 53.23
+          },
+          {
+            "name": "Samsung",
+            "value": 21.53
+          },
+          {
+            "name": "Amazon",
+            "value": 11.39
+          },
+          {
+            "name": "Unknown",
+            "value": 9.11
+          },
+          {
+            "name": "Lenovo",
+            "value": 2.59
+          }
+        ]
+      }
+    },
+    "search_engine_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/all/united-kingdom",
+        "data": [
+          {
+            "name": "Google",
+            "value": 91.47
+          },
+          {
+            "name": "bing",
+            "value": 5.88
+          },
+          {
+            "name": "Yahoo!",
+            "value": 1.37
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.65
+          },
+          {
+            "name": "Ecosia",
+            "value": 0.3
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/mobile/united-kingdom",
+        "data": [
+          {
+            "name": "Google",
+            "value": 97.76
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.62
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.55
+          },
+          {
+            "name": "bing",
+            "value": 0.44
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.29
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/desktop/united-kingdom",
+        "data": [
+          {
+            "name": "Google",
+            "value": 83.34
+          },
+          {
+            "name": "bing",
+            "value": 12.3
+          },
+          {
+            "name": "Yahoo!",
+            "value": 2.79
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.83
+          },
+          {
+            "name": "Ecosia",
+            "value": 0.38
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/tablet/united-kingdom",
+        "data": [
+          {
+            "name": "Google",
+            "value": 79.54
+          },
+          {
+            "name": "bing",
+            "value": 19.14
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.57
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.54
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.13
+          }
+        ]
+      }
+    },
+    "social_media_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/social-media-stats/all/united-kingdom",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 68.98
+          },
+          {
+            "name": "Instagram",
+            "value": 9.73
+          },
+          {
+            "name": "Twitter",
+            "value": 8.12
+          },
+          {
+            "name": "YouTube",
+            "value": 4.29
+          },
+          {
+            "name": "Pinterest",
+            "value": 4.12
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/social-media-stats/mobile/united-kingdom",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 75.04
+          },
+          {
+            "name": "Instagram",
+            "value": 11.74
+          },
+          {
+            "name": "Twitter",
+            "value": 6.91
+          },
+          {
+            "name": "YouTube",
+            "value": 2.18
+          },
+          {
+            "name": "Pinterest",
+            "value": 2.05
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/social-media-stats/desktop/united-kingdom",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 30.75
+          },
+          {
+            "name": "Twitter",
+            "value": 17.73
+          },
+          {
+            "name": "YouTube",
+            "value": 16.96
+          },
+          {
+            "name": "reddit",
+            "value": 11.89
+          },
+          {
+            "name": "Pinterest",
+            "value": 11.49
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/social-media-stats/tablet/united-kingdom",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 78.77
+          },
+          {
+            "name": "Pinterest",
+            "value": 12.43
+          },
+          {
+            "name": "Instagram",
+            "value": 3.23
+          },
+          {
+            "name": "YouTube",
+            "value": 2.21
+          },
+          {
+            "name": "Twitter",
+            "value": 2.08
+          }
+        ]
+      }
+    }
+  }
+}

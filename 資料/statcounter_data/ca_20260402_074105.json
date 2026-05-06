@@ -1,0 +1,652 @@
+{
+  "country_code": "ca",
+  "country_name": "加拿大",
+  "update_time": "2026-04-02 07:37:23",
+  "data": {
+    "platform": {
+      "all": {
+        "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/canada",
+        "data": [
+          {
+            "name": "Desktop",
+            "value": 52.05
+          },
+          {
+            "name": "Mobile",
+            "value": 44.74
+          },
+          {
+            "name": "Tablet",
+            "value": 3.21
+          }
+        ]
+      }
+    },
+    "os_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/os-market-share/all/canada",
+        "data": [
+          {
+            "name": "iOS",
+            "value": 31.29
+          },
+          {
+            "name": "Windows",
+            "value": 30.83
+          },
+          {
+            "name": "Android",
+            "value": 16.5
+          },
+          {
+            "name": "OS X",
+            "value": 9.83
+          },
+          {
+            "name": "Unknown",
+            "value": 4.1
+          },
+          {
+            "name": "macOS",
+            "value": 4.03
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/os-market-share/mobile/canada",
+        "data": [
+          {
+            "name": "iOS",
+            "value": 65.1
+          },
+          {
+            "name": "Android",
+            "value": 34.56
+          },
+          {
+            "name": "Samsung",
+            "value": 0.33
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/os-market-share/desktop/canada",
+        "data": [
+          {
+            "name": "Windows",
+            "value": 59.24
+          },
+          {
+            "name": "OS X",
+            "value": 18.88
+          },
+          {
+            "name": "Unknown",
+            "value": 7.87
+          },
+          {
+            "name": "macOS",
+            "value": 7.75
+          },
+          {
+            "name": "Chrome OS",
+            "value": 3.47
+          },
+          {
+            "name": "Linux",
+            "value": 2.77
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/os-market-share/tablet/canada",
+        "data": [
+          {
+            "name": "iOS",
+            "value": 67.41
+          },
+          {
+            "name": "Android",
+            "value": 32.45
+          },
+          {
+            "name": "Linux",
+            "value": 0.13
+          },
+          {
+            "name": "Unknown",
+            "value": 0.01
+          }
+        ]
+      }
+    },
+    "browser_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/browser-market-share/all/canada",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 46.49
+          },
+          {
+            "name": "Safari",
+            "value": 35.66
+          },
+          {
+            "name": "Edge",
+            "value": 8.6
+          },
+          {
+            "name": "Firefox",
+            "value": 3.54
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 2.48
+          },
+          {
+            "name": "Brave",
+            "value": 1.5
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/browser-market-share/mobile/canada",
+        "data": [
+          {
+            "name": "Safari",
+            "value": 56.45
+          },
+          {
+            "name": "Chrome",
+            "value": 35.11
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 5.54
+          },
+          {
+            "name": "Firefox",
+            "value": 1.08
+          },
+          {
+            "name": "Brave",
+            "value": 0.75
+          },
+          {
+            "name": "Edge",
+            "value": 0.38
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/browser-market-share/desktop/canada",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 56.37
+          },
+          {
+            "name": "Safari",
+            "value": 17.22
+          },
+          {
+            "name": "Edge",
+            "value": 16.17
+          },
+          {
+            "name": "Firefox",
+            "value": 5.88
+          },
+          {
+            "name": "Brave",
+            "value": 2.24
+          },
+          {
+            "name": "Opera",
+            "value": 1.77
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/browser-market-share/tablet/canada",
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 45.11
+          },
+          {
+            "name": "Safari",
+            "value": 45.04
+          },
+          {
+            "name": "Android",
+            "value": 8.55
+          },
+          {
+            "name": "Edge",
+            "value": 0.64
+          },
+          {
+            "name": "Opera",
+            "value": 0.27
+          },
+          {
+            "name": "Kindle",
+            "value": 0.12
+          }
+        ]
+      }
+    },
+    "resolution_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/all/canada",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 11.82
+          },
+          {
+            "name": "414x896",
+            "value": 9.55
+          },
+          {
+            "name": "390x844",
+            "value": 6.43
+          },
+          {
+            "name": "1536x864",
+            "value": 5.01
+          },
+          {
+            "name": "393x852",
+            "value": 3.19
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/canada",
+        "data": [
+          {
+            "name": "414x896",
+            "value": 21.14
+          },
+          {
+            "name": "390x844",
+            "value": 14.3
+          },
+          {
+            "name": "393x852",
+            "value": 7.1
+          },
+          {
+            "name": "360x780",
+            "value": 5.46
+          },
+          {
+            "name": "375x812",
+            "value": 4.55
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/canada",
+        "data": [
+          {
+            "name": "1920x1080",
+            "value": 22.74
+          },
+          {
+            "name": "1536x864",
+            "value": 9.67
+          },
+          {
+            "name": "1366x768",
+            "value": 6.04
+          },
+          {
+            "name": "1440x900",
+            "value": 4.44
+          },
+          {
+            "name": "1280x720",
+            "value": 4.26
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/canada",
+        "data": [
+          {
+            "name": "768x1024",
+            "value": 14.4
+          },
+          {
+            "name": "810x1080",
+            "value": 8.63
+          },
+          {
+            "name": "820x1180",
+            "value": 6.4
+          },
+          {
+            "name": "1280x800",
+            "value": 5.3
+          },
+          {
+            "name": "800x1280",
+            "value": 4.75
+          }
+        ]
+      }
+    },
+    "vendor_mobile": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/canada",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 65.1
+          },
+          {
+            "name": "Samsung",
+            "value": 22.08
+          },
+          {
+            "name": "Google",
+            "value": 5.26
+          },
+          {
+            "name": "Unknown",
+            "value": 3.16
+          },
+          {
+            "name": "Motorola",
+            "value": 1.93
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/vendor-market-share/mobile/canada",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 65.1
+          },
+          {
+            "name": "Samsung",
+            "value": 22.08
+          },
+          {
+            "name": "Google",
+            "value": 5.26
+          },
+          {
+            "name": "Unknown",
+            "value": 3.16
+          },
+          {
+            "name": "Motorola",
+            "value": 1.93
+          }
+        ]
+      }
+    },
+    "vendor_tablet": {
+      "all": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/canada",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 67.41
+          },
+          {
+            "name": "Samsung",
+            "value": 23.02
+          },
+          {
+            "name": "Unknown",
+            "value": 4.33
+          },
+          {
+            "name": "Amazon",
+            "value": 3.24
+          },
+          {
+            "name": "Lenovo",
+            "value": 1.27
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/vendor-market-share/tablet/canada",
+        "data": [
+          {
+            "name": "Apple",
+            "value": 67.41
+          },
+          {
+            "name": "Samsung",
+            "value": 23.02
+          },
+          {
+            "name": "Unknown",
+            "value": 4.33
+          },
+          {
+            "name": "Amazon",
+            "value": 3.24
+          },
+          {
+            "name": "Lenovo",
+            "value": 1.27
+          }
+        ]
+      }
+    },
+    "search_engine_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/all/canada",
+        "data": [
+          {
+            "name": "Google",
+            "value": 86.23
+          },
+          {
+            "name": "bing",
+            "value": 9.43
+          },
+          {
+            "name": "Yahoo!",
+            "value": 2.39
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 1.36
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.29
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/mobile/canada",
+        "data": [
+          {
+            "name": "Google",
+            "value": 96.24
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 1.53
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.8
+          },
+          {
+            "name": "bing",
+            "value": 0.72
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.32
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/desktop/canada",
+        "data": [
+          {
+            "name": "Google",
+            "value": 78.18
+          },
+          {
+            "name": "bing",
+            "value": 16.32
+          },
+          {
+            "name": "Yahoo!",
+            "value": 3.73
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 1.25
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.27
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/search-engine-market-share/tablet/canada",
+        "data": [
+          {
+            "name": "Google",
+            "value": 91.4
+          },
+          {
+            "name": "bing",
+            "value": 6.72
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.97
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.59
+          },
+          {
+            "name": "YANDEX",
+            "value": 0.23
+          }
+        ]
+      }
+    },
+    "social_media_all": {
+      "all": {
+        "url": "https://gs.statcounter.com/social-media-stats/all/canada",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 56.38
+          },
+          {
+            "name": "Twitter",
+            "value": 16.7
+          },
+          {
+            "name": "Pinterest",
+            "value": 11.49
+          },
+          {
+            "name": "Instagram",
+            "value": 5.73
+          },
+          {
+            "name": "YouTube",
+            "value": 3.98
+          }
+        ]
+      },
+      "mobile": {
+        "url": "https://gs.statcounter.com/social-media-stats/mobile/canada",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 61.65
+          },
+          {
+            "name": "Twitter",
+            "value": 16.48
+          },
+          {
+            "name": "Instagram",
+            "value": 8.5
+          },
+          {
+            "name": "Pinterest",
+            "value": 6.96
+          },
+          {
+            "name": "YouTube",
+            "value": 3.04
+          }
+        ]
+      },
+      "desktop": {
+        "url": "https://gs.statcounter.com/social-media-stats/desktop/canada",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 34.35
+          },
+          {
+            "name": "Twitter",
+            "value": 24.85
+          },
+          {
+            "name": "Pinterest",
+            "value": 17.29
+          },
+          {
+            "name": "reddit",
+            "value": 9.08
+          },
+          {
+            "name": "YouTube",
+            "value": 7.78
+          }
+        ]
+      },
+      "tablet": {
+        "url": "https://gs.statcounter.com/social-media-stats/tablet/canada",
+        "data": [
+          {
+            "name": "Facebook",
+            "value": 70.7
+          },
+          {
+            "name": "Pinterest",
+            "value": 23.66
+          },
+          {
+            "name": "Twitter",
+            "value": 2.6
+          },
+          {
+            "name": "YouTube",
+            "value": 1.65
+          },
+          {
+            "name": "Tumblr",
+            "value": 0.53
+          }
+        ]
+      }
+    }
+  }
+}
