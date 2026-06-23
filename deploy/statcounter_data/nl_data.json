@@ -1,7 +1,7 @@
 {
   "country_code": "nl",
   "country_name": "荷蘭",
-  "update_time": "2026-06-22 08:44:36",
+  "update_time": "2026-06-23 08:41:46",
   "data": {
     "platform": {
       "all": {
@@ -160,32 +160,7 @@
       },
       "mobile": {
         "url": "https://gs.statcounter.com/browser-market-share/mobile/netherlands",
-        "data": [
-          {
-            "name": "Chrome",
-            "value": 53.25
-          },
-          {
-            "name": "Safari",
-            "value": 33.05
-          },
-          {
-            "name": "Samsung Internet",
-            "value": 5.46
-          },
-          {
-            "name": "Yandex Browser",
-            "value": 2.94
-          },
-          {
-            "name": "Firefox",
-            "value": 1.83
-          },
-          {
-            "name": "Opera",
-            "value": 1.09
-          }
-        ]
+        "data": []
       },
       "desktop": {
         "url": "https://gs.statcounter.com/browser-market-share/desktop/netherlands",
