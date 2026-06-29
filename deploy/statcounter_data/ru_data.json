@@ -1,7 +1,7 @@
 {
   "country_code": "ru",
   "country_name": "俄羅斯",
-  "update_time": "2026-06-28 08:28:14",
+  "update_time": "2026-06-29 08:33:50",
   "data": {
     "platform": {
       "all": {
@@ -553,11 +553,53 @@
     "social_media_all": {
       "all": {
         "url": "https://gs.statcounter.com/social-media-stats/all/russian-federation",
-        "data": []
+        "data": [
+          {
+            "name": "VKontakte",
+            "value": 30.91
+          },
+          {
+            "name": "reddit",
+            "value": 18.33
+          },
+          {
+            "name": "Pinterest",
+            "value": 17.03
+          },
+          {
+            "name": "YouTube",
+            "value": 14.33
+          },
+          {
+            "name": "Facebook",
+            "value": 7.47
+          }
+        ]
       },
       "mobile": {
         "url": "https://gs.statcounter.com/social-media-stats/mobile/russian-federation",
-        "data": []
+        "data": [
+          {
+            "name": "Pinterest",
+            "value": 22.74
+          },
+          {
+            "name": "Facebook",
+            "value": 21.68
+          },
+          {
+            "name": "reddit",
+            "value": 18.06
+          },
+          {
+            "name": "YouTube",
+            "value": 9.9
+          },
+          {
+            "name": "VKontakte",
+            "value": 9.75
+          }
+        ]
       },
       "desktop": {
         "url": "https://gs.statcounter.com/social-media-stats/desktop/russian-federation",
