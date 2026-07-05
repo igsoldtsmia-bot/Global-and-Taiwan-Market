@@ -1,7 +1,7 @@
 {
   "country_code": "ph",
   "country_name": "菲律賓",
-  "update_time": "2026-07-04 08:12:22",
+  "update_time": "2026-07-05 08:07:10",
   "data": {
     "platform": {
       "all": {
@@ -399,21 +399,105 @@
     "vendor_tablet": {
       "all": {
         "url": "https://gs.statcounter.com/vendor-market-share/tablet/philippines",
-        "data": []
+        "data": [
+          {
+            "name": "Unknown",
+            "value": 34.21
+          },
+          {
+            "name": "Apple",
+            "value": 26.11
+          },
+          {
+            "name": "Samsung",
+            "value": 25.5
+          },
+          {
+            "name": "Xiaomi",
+            "value": 4.95
+          },
+          {
+            "name": "Realme",
+            "value": 3.8
+          }
+        ]
       },
       "tablet": {
         "url": "https://gs.statcounter.com/vendor-market-share/tablet/philippines",
-        "data": []
+        "data": [
+          {
+            "name": "Unknown",
+            "value": 34.21
+          },
+          {
+            "name": "Apple",
+            "value": 26.11
+          },
+          {
+            "name": "Samsung",
+            "value": 25.5
+          },
+          {
+            "name": "Xiaomi",
+            "value": 4.95
+          },
+          {
+            "name": "Realme",
+            "value": 3.8
+          }
+        ]
       }
     },
     "search_engine_all": {
       "all": {
         "url": "https://gs.statcounter.com/search-engine-market-share/all/philippines",
-        "data": []
+        "data": [
+          {
+            "name": "Google",
+            "value": 90.3
+          },
+          {
+            "name": "bing",
+            "value": 6.16
+          },
+          {
+            "name": "Yahoo!",
+            "value": 2.85
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.28
+          },
+          {
+            "name": "Ecosia",
+            "value": 0.18
+          }
+        ]
       },
       "mobile": {
         "url": "https://gs.statcounter.com/search-engine-market-share/mobile/philippines",
-        "data": []
+        "data": [
+          {
+            "name": "Google",
+            "value": 97.54
+          },
+          {
+            "name": "bing",
+            "value": 1.25
+          },
+          {
+            "name": "DuckDuckGo",
+            "value": 0.39
+          },
+          {
+            "name": "Yahoo!",
+            "value": 0.26
+          },
+          {
+            "name": "Ecosia",
+            "value": 0.18
+          }
+        ]
       },
       "desktop": {
         "url": "https://gs.statcounter.com/search-engine-market-share/desktop/philippines",

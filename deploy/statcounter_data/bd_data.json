@@ -1,26 +1,114 @@
 {
   "country_code": "bd",
   "country_name": "孟加拉國",
-  "update_time": "2026-07-04 08:18:12",
+  "update_time": "2026-07-05 08:10:49",
   "data": {
     "platform": {
       "all": {
         "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/bangladesh",
-        "data": []
+        "data": [
+          {
+            "name": "Mobile",
+            "value": 50.75
+          },
+          {
+            "name": "Desktop",
+            "value": 48.84
+          },
+          {
+            "name": "Tablet",
+            "value": 0.41
+          }
+        ]
       }
     },
     "os_all": {
       "all": {
         "url": "https://gs.statcounter.com/os-market-share/all/bangladesh",
-        "data": []
+        "data": [
+          {
+            "name": "Android",
+            "value": 46.24
+          },
+          {
+            "name": "Windows",
+            "value": 33.83
+          },
+          {
+            "name": "Unknown",
+            "value": 9.13
+          },
+          {
+            "name": "iOS",
+            "value": 4.9
+          },
+          {
+            "name": "macOS",
+            "value": 2.2
+          },
+          {
+            "name": "OS X",
+            "value": 2.09
+          }
+        ]
       },
       "mobile": {
         "url": "https://gs.statcounter.com/os-market-share/mobile/bangladesh",
-        "data": []
+        "data": [
+          {
+            "name": "Android",
+            "value": 90.71
+          },
+          {
+            "name": "iOS",
+            "value": 9.24
+          },
+          {
+            "name": "Linux",
+            "value": 0.02
+          },
+          {
+            "name": "Unknown",
+            "value": 0.01
+          },
+          {
+            "name": "Windows",
+            "value": 0.01
+          },
+          {
+            "name": "KaiOS",
+            "value": 0.01
+          }
+        ]
       },
       "desktop": {
         "url": "https://gs.statcounter.com/os-market-share/desktop/bangladesh",
-        "data": []
+        "data": [
+          {
+            "name": "Windows",
+            "value": 69.25
+          },
+          {
+            "name": "Unknown",
+            "value": 18.67
+          },
+          {
+            "name": "macOS",
+            "value": 4.5
+          },
+          {
+            "name": "OS X",
+            "value": 4.29
+          },
+          {
+            "name": "Linux",
+            "value": 3.2
+          },
+          {
+            "name": "Chrome OS",
+            "value": 0.09
+          }
+        ]
       },
       "tablet": {
         "url": "https://gs.statcounter.com/os-market-share/tablet/bangladesh",

@@ -1,7 +1,7 @@
 {
   "country_code": "th",
   "country_name": "泰國",
-  "update_time": "2026-07-04 08:18:04",
+  "update_time": "2026-07-05 08:10:55",
   "data": {
     "platform": {
       "all": {
@@ -25,15 +25,82 @@
     "os_all": {
       "all": {
         "url": "https://gs.statcounter.com/os-market-share/all/thailand",
-        "data": []
+        "data": [
+          {
+            "name": "Android",
+            "value": 41.99
+          },
+          {
+            "name": "iOS",
+            "value": 22.34
+          },
+          {
+            "name": "Unknown",
+            "value": 22.3
+          },
+          {
+            "name": "Windows",
+            "value": 9.26
+          },
+          {
+            "name": "Linux",
+            "value": 1.98
+          },
+          {
+            "name": "OS X",
+            "value": 1.73
+          }
+        ]
       },
       "mobile": {
         "url": "https://gs.statcounter.com/os-market-share/mobile/thailand",
-        "data": []
+        "data": [
+          {
+            "name": "Android",
+            "value": 66.55
+          },
+          {
+            "name": "iOS",
+            "value": 33.38
+          },
+          {
+            "name": "Linux",
+            "value": 0.04
+          },
+          {
+            "name": "Unknown",
+            "value": 0.03
+          }
+        ]
       },
       "desktop": {
         "url": "https://gs.statcounter.com/os-market-share/desktop/thailand",
-        "data": []
+        "data": [
+          {
+            "name": "Unknown",
+            "value": 62.55
+          },
+          {
+            "name": "Windows",
+            "value": 25.99
+          },
+          {
+            "name": "Linux",
+            "value": 5.5
+          },
+          {
+            "name": "OS X",
+            "value": 4.86
+          },
+          {
+            "name": "macOS",
+            "value": 0.96
+          },
+          {
+            "name": "Chrome OS",
+            "value": 0.14
+          }
+        ]
       },
       "tablet": {
         "url": "https://gs.statcounter.com/os-market-share/tablet/thailand",
@@ -357,7 +424,28 @@
       },
       "tablet": {
         "url": "https://gs.statcounter.com/vendor-market-share/tablet/thailand",
-        "data": []
+        "data": [
+          {
+            "name": "Apple",
+            "value": 70.38
+          },
+          {
+            "name": "Samsung",
+            "value": 19.57
+          },
+          {
+            "name": "Xiaomi",
+            "value": 3.69
+          },
+          {
+            "name": "Huawei",
+            "value": 2.2
+          },
+          {
+            "name": "Realme",
+            "value": 1.17
+          }
+        ]
       }
     },
     "search_engine_all": {

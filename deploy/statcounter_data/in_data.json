@@ -1,7 +1,7 @@
 {
   "country_code": "in",
   "country_name": "印度",
-  "update_time": "2026-07-04 08:12:20",
+  "update_time": "2026-07-05 08:07:05",
   "data": {
     "platform": {
       "all": {
@@ -557,15 +557,78 @@
     "social_media_all": {
       "all": {
         "url": "https://gs.statcounter.com/social-media-stats/all/india",
-        "data": []
+        "data": [
+          {
+            "name": "Instagram",
+            "value": 42.44
+          },
+          {
+            "name": "Facebook",
+            "value": 21.67
+          },
+          {
+            "name": "YouTube",
+            "value": 20.94
+          },
+          {
+            "name": "Twitter",
+            "value": 10.58
+          },
+          {
+            "name": "LinkedIn",
+            "value": 1.88
+          }
+        ]
       },
       "mobile": {
         "url": "https://gs.statcounter.com/social-media-stats/mobile/india",
-        "data": []
+        "data": [
+          {
+            "name": "Instagram",
+            "value": 48.85
+          },
+          {
+            "name": "Facebook",
+            "value": 24.43
+          },
+          {
+            "name": "YouTube",
+            "value": 16.59
+          },
+          {
+            "name": "Twitter",
+            "value": 8.66
+          },
+          {
+            "name": "reddit",
+            "value": 0.58
+          }
+        ]
       },
       "desktop": {
         "url": "https://gs.statcounter.com/social-media-stats/desktop/india",
-        "data": []
+        "data": [
+          {
+            "name": "YouTube",
+            "value": 49.32
+          },
+          {
+            "name": "Twitter",
+            "value": 23.0
+          },
+          {
+            "name": "LinkedIn",
+            "value": 11.87
+          },
+          {
+            "name": "Pinterest",
+            "value": 6.43
+          },
+          {
+            "name": "reddit",
+            "value": 4.36
+          }
+        ]
       },
       "tablet": {
         "url": "https://gs.statcounter.com/social-media-stats/tablet/india",
