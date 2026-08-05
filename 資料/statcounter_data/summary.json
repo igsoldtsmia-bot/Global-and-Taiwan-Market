@@ -2,7 +2,7 @@
   "ph": {
     "country_code": "ph",
     "country_name": "菲律賓",
-    "update_time": "2026-08-04 08:12:55",
+    "update_time": "2026-08-05 08:10:29",
     "data": {
       "platform": {
         "all": {
@@ -646,7 +646,7 @@
   "th": {
     "country_code": "th",
     "country_name": "泰國",
-    "update_time": "2026-08-04 08:16:38",
+    "update_time": "2026-08-05 08:14:15",
     "data": {
       "platform": {
         "all": {
@@ -1290,7 +1290,7 @@
   "vn": {
     "country_code": "vn",
     "country_name": "越南",
-    "update_time": "2026-08-04 08:20:21",
+    "update_time": "2026-08-05 08:18:00",
     "data": {
       "platform": {
         "all": {
@@ -1934,7 +1934,7 @@
   "id": {
     "country_code": "id",
     "country_name": "印尼",
-    "update_time": "2026-08-04 08:24:03",
+    "update_time": "2026-08-05 08:21:44",
     "data": {
       "platform": {
         "all": {
@@ -2578,7 +2578,7 @@
   "mm": {
     "country_code": "mm",
     "country_name": "緬甸",
-    "update_time": "2026-08-04 08:27:46",
+    "update_time": "2026-08-05 08:25:29",
     "data": {
       "platform": {
         "all": {
@@ -3222,7 +3222,7 @@
   "my": {
     "country_code": "my",
     "country_name": "馬來西亞",
-    "update_time": "2026-08-04 08:31:34",
+    "update_time": "2026-08-05 08:29:13",
     "data": {
       "platform": {
         "all": {
