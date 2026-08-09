@@ -2,7 +2,7 @@
   "asia": {
     "country_code": "asia",
     "country_name": "亞洲",
-    "update_time": "2026-08-08 07:39:27",
+    "update_time": "2026-08-09 07:35:18",
     "data": {
       "platform": {
         "all": {
@@ -658,7 +658,7 @@
   "europe": {
     "country_code": "europe",
     "country_name": "歐洲",
-    "update_time": "2026-08-08 07:43:11",
+    "update_time": "2026-08-09 07:39:02",
     "data": {
       "platform": {
         "all": {
@@ -1306,7 +1306,7 @@
   "africa": {
     "country_code": "africa",
     "country_name": "非洲",
-    "update_time": "2026-08-08 07:46:53",
+    "update_time": "2026-08-09 07:42:45",
     "data": {
       "platform": {
         "all": {
@@ -1958,7 +1958,7 @@
   "north-america": {
     "country_code": "north-america",
     "country_name": "北美洲",
-    "update_time": "2026-08-08 07:50:36",
+    "update_time": "2026-08-09 07:46:28",
     "data": {
       "platform": {
         "all": {
@@ -2602,7 +2602,7 @@
   "tr": {
     "country_code": "tr",
     "country_name": "土耳其",
-    "update_time": "2026-08-08 07:54:18",
+    "update_time": "2026-08-09 07:50:11",
     "data": {
       "platform": {
         "all": {
@@ -3242,7 +3242,7 @@
   "ru": {
     "country_code": "ru",
     "country_name": "俄羅斯",
-    "update_time": "2026-08-08 07:58:00",
+    "update_time": "2026-08-09 07:53:53",
     "data": {
       "platform": {
         "all": {
@@ -3467,237 +3467,227 @@
           ]
         }
       },
-      "res,
+      "resolution_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/all/russian-federation",
+          "data": [
+            {
+              "name": "1920x1080",
+              "value": 23.56
+            },
             {
               "name": "1536x864",
-              "value": 8.11
+              "value": 6.27
+            },
+            {
+              "name": "1280x1200",
+              "value": 5.13
+            },
+            {
+              "name": "1366x768",
+              "value": 5.13
             },
             {
               "name": "414x896",
-              "value": 7.72
-            },
-            {
-              "name": "1280x720",
-              "value": 4.22
+              "value": 4.51
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/malaysia",
+          "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/russian-federation",
           "data": [
             {
               "name": "414x896",
-              "value": 22.34
-            },
-            {
-              "name": "360x800",
-              "value": 8.56
-            },
-            {
-              "name": "390x844",
-              "value": 8.18
+              "value": 17.09
             },
             {
               "name": "393x873",
-              "value": 4.33
+              "value": 9.79
             },
             {
-              "name": "384x832",
-              "value": 2.78
+              "name": "360x800",
+              "value": 9.0
+            },
+            {
+              "name": "390x844",
+              "value": 6.73
+            },
+            {
+              "name": "375x812",
+              "value": 4.32
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/malaysia",
+          "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/russian-federation",
           "data": [
             {
               "name": "1920x1080",
-              "value": 22.67
-            },
-            {
-              "name": "1366x768",
-              "value": 13.05
+              "value": 32.29
             },
             {
               "name": "1536x864",
-              "value": 12.55
-            },
-            {
-              "name": "1280x720",
-              "value": 6.51
+              "value": 8.59
             },
             {
               "name": "1280x1200",
-              "value": 4.05
+              "value": 7.05
+            },
+            {
+              "name": "1366x768",
+              "value": 7.03
+            },
+            {
+              "name": "2560x1440",
+              "value": 5.21
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/malaysia",
+          "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/russian-federation",
           "data": [
             {
-              "name": "820x1180",
-              "value": 9.33
+              "name": "768x1024",
+              "value": 10.87
             },
             {
               "name": "1280x800",
-              "value": 6.52
+              "value": 6.54
             },
             {
-              "name": "768x1024",
-              "value": 5.01
+              "name": "1143x686",
+              "value": 6.44
             },
             {
-              "name": "800x1280",
-              "value": 3.6
+              "name": "686x1143",
+              "value": 4.45
             },
             {
-              "name": "810x1080",
-              "value": 3.5
+              "name": "686x1098",
+              "value": 4.12
             }
           ]
         }
       },
       "vendor_mobile": {
         "all": {
-          "url": "https://gs.statcounter.com/vendor-market-share/mobile/malaysia",
+          "url": "https://gs.statcounter.com/vendor-market-share/mobile/russian-federation",
           "data": [
             {
               "name": "Apple",
-              "value": 45.41
-            },
-            {
-              "name": "Samsung",
-              "value": 10.11
-            },
-            {
-              "name": "Unknown",
-              "value": 9.14
-            },
-            {
-              "name": "Oppo",
-              "value": 8.28
+              "value": 33.49
             },
             {
               "name": "Xiaomi",
-              "value": 7.06
+              "value": 19.23
+            },
+            {
+              "name": "Samsung",
+              "value": 17.24
+            },
+            {
+              "name": "Unknown",
+              "value": 5.29
+            },
+            {
+              "name": "Realme",
+              "value": 4.93
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/vendor-market-share/mobile/malaysia",
+          "url": "https://gs.statcounter.com/vendor-market-share/mobile/russian-federation",
           "data": [
             {
               "name": "Apple",
-              "value": 45.41
-            },
-            {
-              "name": "Samsung",
-              "value": 10.11
-            },
-            {
-              "name": "Unknown",
-              "value": 9.14
-            },
-            {
-              "name": "Oppo",
-              "value": 8.28
+              "value": 33.49
             },
             {
               "name": "Xiaomi",
-              "value": 7.06
+              "value": 19.23
+            },
+            {
+              "name": "Samsung",
+              "value": 17.24
+            },
+            {
+              "name": "Unknown",
+              "value": 5.29
+            },
+            {
+              "name": "Realme",
+              "value": 4.93
             }
           ]
         }
       },
       "vendor_tablet": {
         "all": {
-          "url": "https://gs.statcounter.com/vendor-market-share/tablet/malaysia",
+          "url": "https://gs.statcounter.com/vendor-market-share/tablet/russian-federation",
           "data": [
             {
               "name": "Apple",
-              "value": 54.02
+              "value": 33.44
             },
             {
               "name": "Samsung",
-              "value": 27.73
+              "value": 27.95
             },
             {
               "name": "Xiaomi",
-              "value": 6.77
+              "value": 17.45
+            },
+            {
+              "name": "Huawei",
+              "value": 8.94
             },
             {
               "name": "Unknown",
-              "value": 2.55
-            },
-            {
-              "name": "Honor",
-              "value": 2.49
+              "value": 6.6
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/vendor-market-share/tablet/malaysia",
+          "url": "https://gs.statcounter.com/vendor-market-share/tablet/russian-federation",
           "data": [
             {
               "name": "Apple",
-              "value": 54.02
+              "value": 33.44
             },
             {
               "name": "Samsung",
-              "value": 27.73
+              "value": 27.95
             },
             {
               "name": "Xiaomi",
-              "value": 6.77
+              "value": 17.45
+            },
+            {
+              "name": "Huawei",
+              "value": 8.94
             },
             {
               "name": "Unknown",
-              "value": 2.55
-            },
-            {
-              "name": "Honor",
-              "value": 2.49
+              "value": 6.6
             }
           ]
         }
       },
       "search_engine_all": {
         "all": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/all/malaysia",
+          "url": "https://gs.statcounter.com/search-engine-market-share/all/russian-federation",
           "data": [
             {
-              "name": "Google",
-              "value": 92.47
-            },
-            {
-              "name": "bing",
-              "value": 4.68
-            },
-            {
-              "name": "Yahoo!",
-              "value": 1.82
-            },
-            {
               "name": "YANDEX",
-              "value": 0.58
+              "value": 72.85
             },
-            {
-              "name": "DuckDuckGo",
-              "value": 0.3
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/mobile/malaysia",
-          "data": [
             {
               "name": "Google",
-              "value": 97.57
+              "value": 25.48
             },
             {
-              "name": "YANDEX",
-              "value": 0.9
+              "name": "Mail.ru",
+              "value": 0.69
             },
             {
               "name": "bing",
@@ -3705,170 +3695,165 @@
             },
             {
               "name": "DuckDuckGo",
-              "value": 0.45
+              "value": 0.22
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/search-engine-market-share/mobile/russian-federation",
+          "data": [
+            {
+              "name": "YANDEX",
+              "value": 71.92
             },
             {
-              "name": "Yahoo!",
-              "value": 0.16
+              "name": "Google",
+              "value": 26.21
+            },
+            {
+              "name": "Mail.ru",
+              "value": 1.48
+            },
+            {
+              "name": "bing",
+              "value": 0.18
+            },
+            {
+              "name": "DuckDuckGo",
+              "value": 0.13
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/desktop/malaysia",
+          "url": "https://gs.statcounter.com/search-engine-market-share/desktop/russian-federation",
           "data": [
             {
+              "name": "YANDEX",
+              "value": 73.37
+            },
+            {
               "name": "Google",
-              "value": 88.48
+              "value": 25.06
             },
             {
               "name": "bing",
-              "value": 7.81
-            },
-            {
-              "name": "Yahoo!",
-              "value": 3.11
-            },
-            {
-              "name": "YANDEX",
-              "value": 0.33
+              "value": 0.98
             },
             {
               "name": "DuckDuckGo",
-              "value": 0.18
+              "value": 0.28
+            },
+            {
+              "name": "Mail.ru",
+              "value": 0.27
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/tablet/malaysia",
+          "url": "https://gs.statcounter.com/search-engine-market-share/tablet/russian-federation",
           "data": [
             {
+              "name": "YANDEX",
+              "value": 72.93
+            },
+            {
               "name": "Google",
-              "value": 97.78
+              "value": 26.55
             },
             {
               "name": "bing",
-              "value": 0.86
-            },
-            {
-              "name": "YANDEX",
-              "value": 0.64
+              "value": 0.19
             },
             {
               "name": "DuckDuckGo",
-              "value": 0.33
+              "value": 0.14
             },
             {
-              "name": "Yahoo!",
-              "value": 0.24
+              "name": "Mail.ru",
+              "value": 0.1
             }
           ]
         }
       },
       "social_media_all": {
         "all": {
-          "url": "https://gs.statcounter.com/social-media-stats/all/malaysia",
+          "url": "https://gs.statcounter.com/social-media-stats/all/russian-federation",
           "data": [
             {
-              "name": "Facebook",
-              "value": 76.61
+              "name": "Pinterest",
+              "value": 25.51
+            },
+            {
+              "name": "reddit",
+              "value": 25.29
+            },
+            {
+              "name": "VKontakte",
+              "value": 18.21
             },
             {
               "name": "YouTube",
-              "value": 12.99
+              "value": 17.22
             },
             {
-              "name": "Twitter",
-              "value": 2.99
-            },
-            {
-              "name": "Pinterest",
-              "value": 2.89
-            },
-            {
-              "name": "Instagram",
-              "value": 2.33
+              "name": "Facebook",
+              "value": 4.77
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/social-media-stats/mobile/malaysia",
+          "url": "https://gs.statcounter.com/social-media-stats/mobile/russian-federation",
           "data": [
             {
-              "name": "Facebook",
-              "value": 85.47
-            },
-            {
-              "name": "YouTube",
-              "value": 8.58
-            },
-            {
-              "name": "Instagram",
-              "value": 2.58
-            },
-            {
-              "name": "Twitter",
-              "value": 1.62
+              "name": "Pinterest",
+              "value": 35.44
             },
             {
               "name": "reddit",
-              "value": 0.79
+              "value": 21.73
+            },
+            {
+              "name": "YouTube",
+              "value": 15.11
+            },
+            {
+              "name": "Facebook",
+              "value": 7.95
+            },
+            {
+              "name": "VKontakte",
+              "value": 7.13
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/social-media-stats/desktop/malaysia",
+          "url": "https://gs.statcounter.com/social-media-stats/desktop/russian-federation",
           "data": [
             {
-              "name": "YouTube",
-              "value": 37.92
-            },
-            {
-              "name": "Facebook",
-              "value": 27.62
+              "name": "reddit",
+              "value": 26.48
             },
             {
               "name": "Pinterest",
-              "value": 14.16
+              "value": 22.37
             },
             {
-              "name": "Twitter",
-              "value": 10.65
+              "name": "VKontakte",
+              "value": 21.32
             },
             {
-              "name": "reddit",
-              "value": 6.07
+              "name": "YouTube",
+              "value": 17.95
+            },
+            {
+              "name": "Facebook",
+              "value": 3.96
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/social-media-stats/tablet/malaysia",
+          "url": "https://gs.statcounter.com/social-media-stats/tablet/russian-federation",
           "data": [
-            {
-              "name": "Facebook",
-              "value": 70.3
-            },
-            {
-              "name": "Pinterest",
-              "value": 16.24
-            },
-            {
-              "name": "YouTube",
-              "value": 7.47
-            },
-            {
-              "name": "Twitter",
-              "value": 2.51
-            },
-            {
-              "name": "Instagram",
-              "value": 1.96
-            }
-          ]
-        }
-      }
-    }
-  }
-}data": [
             {
               "name": "Pinterest",
               "value": 66.67
@@ -3897,7 +3882,7 @@
   "br": {
     "country_code": "br",
     "country_name": "巴西",
-    "update_time": "2026-08-08 08:01:43",
+    "update_time": "2026-08-09 07:57:36",
     "data": {
       "platform": {
         "all": {
