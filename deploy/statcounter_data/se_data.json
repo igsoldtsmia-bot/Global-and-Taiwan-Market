@@ -1,7 +1,7 @@
 {
   "country_code": "se",
   "country_name": "瑞典",
-  "update_time": "2026-09-27 09:28:06",
+  "update_time": "2026-09-28 09:41:55",
   "data": {
     "platform": {
       "all": {
@@ -439,53 +439,11 @@
     "search_engine_all": {
       "all": {
         "url": "https://gs.statcounter.com/search-engine-market-share/all/sweden",
-        "data": [
-          {
-            "name": "Google",
-            "value": 86.39
-          },
-          {
-            "name": "bing",
-            "value": 7.44
-          },
-          {
-            "name": "DuckDuckGo",
-            "value": 2.35
-          },
-          {
-            "name": "Yahoo!",
-            "value": 1.98
-          },
-          {
-            "name": "YANDEX",
-            "value": 1.22
-          }
-        ]
+        "data": []
       },
       "mobile": {
         "url": "https://gs.statcounter.com/search-engine-market-share/mobile/sweden",
-        "data": [
-          {
-            "name": "Google",
-            "value": 94.74
-          },
-          {
-            "name": "DuckDuckGo",
-            "value": 2.13
-          },
-          {
-            "name": "YANDEX",
-            "value": 1.15
-          },
-          {
-            "name": "bing",
-            "value": 0.65
-          },
-          {
-            "name": "Yahoo!",
-            "value": 0.62
-          }
-        ]
+        "data": []
       },
       "desktop": {
         "url": "https://gs.statcounter.com/search-engine-market-share/desktop/sweden",
