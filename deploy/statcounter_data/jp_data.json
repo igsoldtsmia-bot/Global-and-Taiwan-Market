@@ -1,7 +1,7 @@
 {
   "country_code": "jp",
   "country_name": "日本",
-  "update_time": "2026-10-02 10:29:13",
+  "update_time": "2026-10-03 10:13:17",
   "data": {
     "platform": {
       "all": {
@@ -566,7 +566,28 @@
       },
       "mobile": {
         "url": "https://gs.statcounter.com/social-media-stats/mobile/japan",
-        "data": []
+        "data": [
+          {
+            "name": "Twitter",
+            "value": 49.25
+          },
+          {
+            "name": "Instagram",
+            "value": 28.99
+          },
+          {
+            "name": "Facebook",
+            "value": 16.99
+          },
+          {
+            "name": "Pinterest",
+            "value": 1.49
+          },
+          {
+            "name": "YouTube",
+            "value": 1.33
+          }
+        ]
       },
       "desktop": {
         "url": "https://gs.statcounter.com/social-media-stats/desktop/japan",
