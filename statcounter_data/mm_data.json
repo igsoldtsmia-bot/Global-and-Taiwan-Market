@@ -1,7 +1,7 @@
 {
   "country_code": "mm",
   "country_name": "緬甸",
-  "update_time": "2026-11-05 11:37:11",
+  "update_time": "2026-11-06 11:34:38",
   "data": {
     "platform": {
       "all": {
@@ -111,32 +111,7 @@
     "browser_all": {
       "all": {
         "url": "https://gs.statcounter.com/browser-market-share/all/myanmar",
-        "data": [
-          {
-            "name": "Chrome",
-            "value": 83.39
-          },
-          {
-            "name": "Safari",
-            "value": 8.74
-          },
-          {
-            "name": "Edge",
-            "value": 2.72
-          },
-          {
-            "name": "Firefox",
-            "value": 2.22
-          },
-          {
-            "name": "UC Browser",
-            "value": 1.15
-          },
-          {
-            "name": "Opera",
-            "value": 0.62
-          }
-        ]
+        "data": []
       },
       "mobile": {
         "url": "https://gs.statcounter.com/browser-market-share/mobile/myanmar",
@@ -169,32 +144,7 @@
       },
       "desktop": {
         "url": "https://gs.statcounter.com/browser-market-share/desktop/myanmar",
-        "data": [
-          {
-            "name": "Chrome",
-            "value": 78.67
-          },
-          {
-            "name": "Edge",
-            "value": 8.8
-          },
-          {
-            "name": "Firefox",
-            "value": 7.1
-          },
-          {
-            "name": "Safari",
-            "value": 3.32
-          },
-          {
-            "name": "Opera",
-            "value": 1.21
-          },
-          {
-            "name": "Brave",
-            "value": 0.36
-          }
-        ]
+        "data": []
       },
       "tablet": {
         "url": "https://gs.statcounter.com/browser-market-share/tablet/myanmar",

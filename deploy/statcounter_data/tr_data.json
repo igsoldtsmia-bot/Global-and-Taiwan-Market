@@ -1,7 +1,7 @@
 {
   "country_code": "tr",
   "country_name": "土耳其",
-  "update_time": "2026-11-05 11:37:06",
+  "update_time": "2026-11-06 11:34:26",
   "data": {
     "platform": {
       "all": {
@@ -144,90 +144,15 @@
       },
       "mobile": {
         "url": "https://gs.statcounter.com/browser-market-share/mobile/turkey",
-        "data": [
-          {
-            "name": "Chrome",
-            "value": 78.85
-          },
-          {
-            "name": "Safari",
-            "value": 15.76
-          },
-          {
-            "name": "Samsung Internet",
-            "value": 2.82
-          },
-          {
-            "name": "Opera",
-            "value": 1.25
-          },
-          {
-            "name": "Yandex Browser",
-            "value": 0.9
-          },
-          {
-            "name": "UC Browser",
-            "value": 0.18
-          }
-        ]
+        "data": []
       },
       "desktop": {
         "url": "https://gs.statcounter.com/browser-market-share/desktop/turkey",
-        "data": [
-          {
-            "name": "Chrome",
-            "value": 76.95
-          },
-          {
-            "name": "Opera",
-            "value": 7.34
-          },
-          {
-            "name": "Edge",
-            "value": 6.93
-          },
-          {
-            "name": "Firefox",
-            "value": 3.24
-          },
-          {
-            "name": "Safari",
-            "value": 2.75
-          },
-          {
-            "name": "Yandex Browser",
-            "value": 0.93
-          }
-        ]
+        "data": []
       },
       "tablet": {
         "url": "https://gs.statcounter.com/browser-market-share/tablet/turkey",
-        "data": [
-          {
-            "name": "Chrome",
-            "value": 70.77
-          },
-          {
-            "name": "Safari",
-            "value": 13.6
-          },
-          {
-            "name": "Opera",
-            "value": 5.89
-          },
-          {
-            "name": "Yandex Browser",
-            "value": 4.67
-          },
-          {
-            "name": "Android",
-            "value": 3.04
-          },
-          {
-            "name": "Samsung Internet",
-            "value": 1.43
-          }
-        ]
+        "data": []
       }
     },
     "resolution_all": {

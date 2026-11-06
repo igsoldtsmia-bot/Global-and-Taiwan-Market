@@ -1,7 +1,7 @@
 {
   "country_code": "de",
   "country_name": "德國",
-  "update_time": "2026-11-05 11:37:30",
+  "update_time": "2026-11-06 11:34:42",
   "data": {
     "platform": {
       "all": {
@@ -115,61 +115,11 @@
     "browser_all": {
       "all": {
         "url": "https://gs.statcounter.com/browser-market-share/all/germany",
-        "data": [
-          {
-            "name": "Chrome",
-            "value": 57.94
-          },
-          {
-            "name": "Safari",
-            "value": 17.68
-          },
-          {
-            "name": "Firefox",
-            "value": 7.54
-          },
-          {
-            "name": "Edge",
-            "value": 7.39
-          },
-          {
-            "name": "Samsung Internet",
-            "value": 4.36
-          },
-          {
-            "name": "Opera",
-            "value": 3.22
-          }
-        ]
+        "data": []
       },
       "mobile": {
         "url": "https://gs.statcounter.com/browser-market-share/mobile/germany",
-        "data": [
-          {
-            "name": "Chrome",
-            "value": 67.86
-          },
-          {
-            "name": "Safari",
-            "value": 21.25
-          },
-          {
-            "name": "Samsung Internet",
-            "value": 6.54
-          },
-          {
-            "name": "Firefox",
-            "value": 1.7
-          },
-          {
-            "name": "Opera",
-            "value": 1.26
-          },
-          {
-            "name": "Yandex Browser",
-            "value": 0.5
-          }
-        ]
+        "data": []
       },
       "desktop": {
         "url": "https://gs.statcounter.com/browser-market-share/desktop/germany",
