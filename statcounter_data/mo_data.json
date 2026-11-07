@@ -1,7 +1,7 @@
 {
   "country_code": "mo",
   "country_name": "澳門",
-  "update_time": "2026-11-06 11:34:25",
+  "update_time": "2026-11-07 10:53:54",
   "data": {
     "platform": {
       "all": {
@@ -194,7 +194,32 @@
       },
       "tablet": {
         "url": "https://gs.statcounter.com/browser-market-share/tablet/macao",
-        "data": []
+        "data": [
+          {
+            "name": "Chrome",
+            "value": 76.11
+          },
+          {
+            "name": "Safari",
+            "value": 14.84
+          },
+          {
+            "name": "Android",
+            "value": 6.48
+          },
+          {
+            "name": "Edge",
+            "value": 2.46
+          },
+          {
+            "name": "Samsung Internet",
+            "value": 0.09
+          },
+          {
+            "name": "Whale Browser",
+            "value": 0.01
+          }
+        ]
       }
     },
     "resolution_all": {
