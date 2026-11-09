@@ -2,7 +2,7 @@
   "es": {
     "country_code": "es",
     "country_name": "西班牙",
-    "update_time": "2026-11-08 10:14:21",
+    "update_time": "2026-11-09 10:31:23",
     "data": {
       "platform": {
         "all": {
@@ -642,7 +642,7 @@
   "pt": {
     "country_code": "pt",
     "country_name": "葡萄牙",
-    "update_time": "2026-11-08 10:18:05",
+    "update_time": "2026-11-09 10:35:07",
     "data": {
       "platform": {
         "all": {
@@ -1278,7 +1278,7 @@
   "it": {
     "country_code": "it",
     "country_name": "義大利",
-    "update_time": "2026-11-08 10:21:47",
+    "update_time": "2026-11-09 10:38:48",
     "data": {
       "platform": {
         "all": {
@@ -1922,7 +1922,7 @@
   "se": {
     "country_code": "se",
     "country_name": "瑞典",
-    "update_time": "2026-11-08 10:25:29",
+    "update_time": "2026-11-09 10:42:28",
     "data": {
       "platform": {
         "all": {
@@ -2558,7 +2558,7 @@
   "de": {
     "country_code": "de",
     "country_name": "德國",
-    "update_time": "2026-11-08 10:29:12",
+    "update_time": "2026-11-09 10:46:09",
     "data": {
       "platform": {
         "all": {
@@ -3202,7 +3202,7 @@
   "dk": {
     "country_code": "dk",
     "country_name": "丹麥",
-    "update_time": "2026-11-08 10:32:54",
+    "update_time": "2026-11-09 10:49:50",
     "data": {
       "platform": {
         "all": {
@@ -3846,7 +3846,7 @@
   "ro": {
     "country_code": "ro",
     "country_name": "羅馬尼亞",
-    "update_time": "2026-11-08 10:36:37",
+    "update_time": "2026-11-09 10:53:31",
     "data": {
       "platform": {
         "all": {
@@ -4502,7 +4502,7 @@
   "nl": {
     "country_code": "nl",
     "country_name": "荷蘭",
-    "update_time": "2026-11-08 10:40:19",
+    "update_time": "2026-11-09 10:57:13",
     "data": {
       "platform": {
         "all": {
@@ -5150,7 +5150,7 @@
   "gr": {
     "country_code": "gr",
     "country_name": "希臘",
-    "update_time": "2026-11-08 10:44:02",
+    "update_time": "2026-11-09 11:00:54",
     "data": {
       "platform": {
         "all": {
@@ -5794,7 +5794,7 @@
   "fr": {
     "country_code": "fr",
     "country_name": "法國",
-    "update_time": "2026-11-08 10:47:44",
+    "update_time": "2026-11-09 11:04:35",
     "data": {
       "platform": {
         "all": {
