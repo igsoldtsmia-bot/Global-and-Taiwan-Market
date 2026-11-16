@@ -2,7 +2,7 @@
   "in": {
     "country_code": "in",
     "country_name": "印度",
-    "update_time": "2026-11-15 10:29:34",
+    "update_time": "2026-11-16 10:39:40",
     "data": {
       "platform": {
         "all": {
@@ -654,7 +654,7 @@
   "bd": {
     "country_code": "bd",
     "country_name": "孟加拉國",
-    "update_time": "2026-11-15 10:33:19",
+    "update_time": "2026-11-16 10:43:23",
     "data": {
       "platform": {
         "all": {
@@ -1310,7 +1310,7 @@
   "pk": {
     "country_code": "pk",
     "country_name": "巴基斯坦",
-    "update_time": "2026-11-15 10:37:01",
+    "update_time": "2026-11-16 10:47:05",
     "data": {
       "platform": {
         "all": {
@@ -1963,2015 +1963,698 @@
       }
     }
   }
-}": {
-          "url": "https://gs.statcounter.com/os-market-share/all/indonesia",
-          "data": [
-            {
-              "name": "Windows",
-              "value": 50.74
-            },
-            {
-              "name": "Android",
-              "value": 32.85
-            },
-            {
-              "name": "iOS",
-              "value": 8.99
-            },
-            {
-              "name": "OS X",
-              "value": 3.54
-            },
-            {
-              "name": "Linux",
-              "value": 2.34
-            },
-            {
-              "name": "macOS",
-              "value": 1.42
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/os-market-share/mobile/indonesia",
-          "data": [
-            {
-              "name": "Android",
-              "value": 78.68
-            },
-            {
-              "name": "iOS",
-              "value": 21.28
-            },
-            {
-              "name": "Linux",
-              "value": 0.03
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/os-market-share/desktop/indonesia",
-          "data": [
-            {
-              "name": "Windows",
-              "value": 87.28
-            },
-            {
-              "name": "OS X",
-              "value": 6.1
-            },
-            {
-              "name": "Linux",
-              "value": 3.99
-            },
-            {
-              "name": "macOS",
-              "value": 2.45
+}: 3.22
             },
             {
               "name": "Chrome OS",
-              "value": 0.19
+              "value": 2.71
             }
           ]
         },
-        "tablet": {
-          "url": "https://gs.statcounter.com/os-market-share/tablet/indonesia",
+        "mobile": {
+          "url": "https://gs.statcounter.com/os-market-share/mobile/sweden",
           "data": [
-            {
-              "name": "Android",
-              "value": 61.91
-            },
             {
               "name": "iOS",
-              "value": 38.06
-            },
-            {
-              "name": "Linux",
-              "value": 0.03
-            }
-          ]
-        }
-      },
-      "browser_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/browser-market-share/all/indonesia",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 76.89
-            },
-            {
-              "name": "Safari",
-              "value": 9.5
-            },
-            {
-              "name": "Edge",
-              "value": 6.81
-            },
-            {
-              "name": "Firefox",
-              "value": 3.4
-            },
-            {
-              "name": "Samsung Internet",
-              "value": 1.52
-            },
-            {
-              "name": "Opera",
-              "value": 0.9
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/browser-market-share/mobile/indonesia",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 75.49
-            },
-            {
-              "name": "Safari",
-              "value": 18.04
-            },
-            {
-              "name": "Samsung Internet",
-              "value": 3.48
-            },
-            {
-              "name": "UC Browser",
-              "value": 1.34
-            },
-            {
-              "name": "Opera",
-              "value": 1.11
-            },
-            {
-              "name": "Firefox",
-              "value": 0.22
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/browser-market-share/desktop/indonesia",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 77.92
-            },
-            {
-              "name": "Edge",
-              "value": 11.58
-            },
-            {
-              "name": "Firefox",
-              "value": 5.67
-            },
-            {
-              "name": "Safari",
-              "value": 3.4
-            },
-            {
-              "name": "Opera",
-              "value": 0.75
-            },
-            {
-              "name": "Brave",
-              "value": 0.35
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/browser-market-share/tablet/indonesia",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 71.14
-            },
-            {
-              "name": "Safari",
-              "value": 19.86
+              "value": 55.59
             },
             {
               "name": "Android",
-              "value": 4.25
-            },
-            {
-              "name": "Samsung Internet",
-              "value": 1.79
-            },
-            {
-              "name": "Opera",
-              "value": 1.56
-            },
-            {
-              "name": "UC Browser",
-              "value": 0.72
-            }
-          ]
-        }
-      },
-      "resolution_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/all/indonesia",
-          "data": [
-            {
-              "name": "1280x720",
-              "value": 7.89
-            },
-            {
-              "name": "1366x768",
-              "value": 7.61
-            },
-            {
-              "name": "1920x1080",
-              "value": 6.78
-            },
-            {
-              "name": "1536x864",
-              "value": 5.38
-            },
-            {
-              "name": "360x800",
-              "value": 4.96
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/indonesia",
-          "data": [
-            {
-              "name": "360x800",
-              "value": 8.7
-            },
-            {
-              "name": "414x896",
-              "value": 4.57
-            },
-            {
-              "name": "384x832",
-              "value": 4.53
-            },
-            {
-              "name": "393x873",
-              "value": 3.54
-            },
-            {
-              "name": "390x844",
-              "value": 3.35
+              "value": 44.4
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/indonesia",
+          "url": "https://gs.statcounter.com/os-market-share/desktop/sweden",
           "data": [
-            {
-              "name": "1280x720",
-              "value": 17.87
-            },
-            {
-              "name": "1366x768",
-              "value": 17.07
-            },
-            {
-              "name": "1920x1080",
-              "value": 15.22
-            },
-            {
-              "name": "1536x864",
-              "value": 12.17
-            },
-            {
-              "name": "800x600",
-              "value": 7.52
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/indonesia",
-          "data": [
-            {
-              "name": "1138x712",
-              "value": 6.64
-            },
-            {
-              "name": "820x1180",
-              "value": 6.49
-            },
-            {
-              "name": "1098x686",
-              "value": 5.72
-            },
-            {
-              "name": "712x1138",
-              "value": 5.38
-            },
-            {
-              "name": "601x1007",
-              "value": 4.38
-            }
-          ]
-        }
-      },
-      "vendor_mobile": {
-        "all": {
-          "url": "https://gs.statcounter.com/vendor-market-share/mobile/indonesia",
-          "data": [
-            {
-              "name": "Unknown",
-              "value": 21.81
-            },
-            {
-              "name": "Apple",
-              "value": 21.27
-            },
-            {
-              "name": "Samsung",
-              "value": 13.9
-            },
-            {
-              "name": "Oppo",
-              "value": 11.61
-            },
-            {
-              "name": "Xiaomi",
-              "value": 10.76
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/vendor-market-share/mobile/indonesia",
-          "data": [
-            {
-              "name": "Unknown",
-              "value": 21.81
-            },
-            {
-              "name": "Apple",
-              "value": 21.27
-            },
-            {
-              "name": "Samsung",
-              "value": 13.9
-            },
-            {
-              "name": "Oppo",
-              "value": 11.61
-            },
-            {
-              "name": "Xiaomi",
-              "value": 10.76
-            }
-          ]
-        }
-      },
-      "vendor_tablet": {
-        "all": {
-          "url": "https://gs.statcounter.com/vendor-market-share/tablet/indonesia",
-          "data": [
-            {
-              "name": "Apple",
-              "value": 38.06
-            },
-            {
-              "name": "Samsung",
-              "value": 25.28
-            },
-            {
-              "name": "Xiaomi",
-              "value": 22.69
-            },
-            {
-              "name": "Huawei",
-              "value": 4.94
-            },
-            {
-              "name": "Infinix",
-              "value": 3.68
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/vendor-market-share/tablet/indonesia",
-          "data": [
-            {
-              "name": "Apple",
-              "value": 38.06
-            },
-            {
-              "name": "Samsung",
-              "value": 25.28
-            },
-            {
-              "name": "Xiaomi",
-              "value": 22.69
-            },
-            {
-              "name": "Huawei",
-              "value": 4.94
-            },
-            {
-              "name": "Infinix",
-              "value": 3.68
-            }
-          ]
-        }
-      },
-      "search_engine_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/all/indonesia",
-          "data": [
-            {
-              "name": "Google",
-              "value": 91.42
-            },
-            {
-              "name": "bing",
-              "value": 3.44
-            },
-            {
-              "name": "DuckDuckGo",
-              "value": 2.32
-            },
-            {
-              "name": "Yahoo!",
-              "value": 1.87
-            },
-            {
-              "name": "YANDEX",
-              "value": 0.9
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/mobile/indonesia",
-          "data": [
-            {
-              "name": "Google",
-              "value": 93.31
-            },
-            {
-              "name": "DuckDuckGo",
-              "value": 3.98
-            },
-            {
-              "name": "YANDEX",
-              "value": 1.54
-            },
-            {
-              "name": "bing",
-              "value": 0.84
-            },
-            {
-              "name": "Yahoo!",
-              "value": 0.27
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/desktop/indonesia",
-          "data": [
-            {
-              "name": "Google",
-              "value": 88.9
-            },
-            {
-              "name": "bing",
-              "value": 6.81
-            },
-            {
-              "name": "Yahoo!",
-              "value": 3.97
-            },
-            {
-              "name": "DuckDuckGo",
-              "value": 0.21
-            },
-            {
-              "name": "YANDEX",
-              "value": 0.09
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/tablet/indonesia",
-          "data": [
-            {
-              "name": "Google",
-              "value": 97.26
-            },
-            {
-              "name": "DuckDuckGo",
-              "value": 1.25
-            },
-            {
-              "name": "bing",
-              "value": 0.75
-            },
-            {
-              "name": "YANDEX",
-              "value": 0.48
-            },
-            {
-              "name": "Yahoo!",
-              "value": 0.22
-            }
-          ]
-        }
-      },
-      "social_media_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/social-media-stats/all/indonesia",
-          "data": [
-            {
-              "name": "Facebook",
-              "value": 71.38
-            },
-            {
-              "name": "YouTube",
-              "value": 17.0
-            },
-            {
-              "name": "Instagram",
-              "value": 8.57
-            },
-            {
-              "name": "Twitter",
-              "value": 1.56
-            },
-            {
-              "name": "Pinterest",
-              "value": 0.84
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/social-media-stats/mobile/indonesia",
-          "data": [
-            {
-              "name": "Facebook",
-              "value": 74.25
-            },
-            {
-              "name": "YouTube",
-              "value": 15.28
-            },
-            {
-              "name": "Instagram",
-              "value": 8.74
-            },
-            {
-              "name": "Twitter",
-              "value": 1.24
-            },
-            {
-              "name": "Pinterest",
-              "value": 0.23
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/social-media-stats/desktop/indonesia",
-          "data": [
-            {
-              "name": "YouTube",
-              "value": 48.61
-            },
-            {
-              "name": "Pinterest",
-              "value": 15.87
-            },
-            {
-              "name": "Facebook",
-              "value": 10.09
-            },
-            {
-              "name": "Twitter",
-              "value": 9.54
-            },
-            {
-              "name": "LinkedIn",
-              "value": 7.06
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/social-media-stats/tablet/indonesia",
-          "data": [
-            {
-              "name": "YouTube",
-              "value": 60.97
-            },
-            {
-              "name": "Facebook",
-              "value": 29.61
-            },
-            {
-              "name": "Instagram",
-              "value": 4.35
-            },
-            {
-              "name": "Pinterest",
-              "value": 2.43
-            },
-            {
-              "name": "Twitter",
-              "value": 2.14
-            }
-          ]
-        }
-      }
-    }
-  },
-  "mm": {
-    "country_code": "mm",
-    "country_name": "緬甸",
-    "update_time": "2026-11-15 10:44:30",
-    "data": {
-      "platform": {
-        "all": {
-          "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/myanmar",
-          "data": [
-            {
-              "name": "Mobile",
-              "value": 69.18
-            },
-            {
-              "name": "Desktop",
-              "value": 29.43
-            },
-            {
-              "name": "Tablet",
-              "value": 1.4
-            }
-          ]
-        }
-      },
-      "os_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/os-market-share/all/myanmar",
-          "data": [
-            {
-              "name": "Android",
-              "value": 60.72
-            },
             {
               "name": "Windows",
-              "value": 24.05
-            },
-            {
-              "name": "iOS",
-              "value": 11.04
-            },
-            {
-              "name": "Linux",
-              "value": 2.08
+              "value": 70.27
             },
             {
               "name": "OS X",
-              "value": 1.19
+              "value": 12.03
             },
             {
               "name": "macOS",
-              "value": 0.9
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/os-market-share/mobile/myanmar",
-          "data": [
-            {
-              "name": "Android",
-              "value": 85.01
-            },
-            {
-              "name": "iOS",
-              "value": 14.98
-            },
-            {
-              "name": "Linux",
-              "value": 0.01
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/os-market-share/desktop/myanmar",
-          "data": [
-            {
-              "name": "Windows",
-              "value": 85.18
-            },
-            {
-              "name": "Linux",
-              "value": 7.34
-            },
-            {
-              "name": "OS X",
-              "value": 4.22
-            },
-            {
-              "name": "macOS",
-              "value": 3.2
+              "value": 7.53
             },
             {
               "name": "Chrome OS",
-              "value": 0.06
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/os-market-share/tablet/myanmar",
-          "data": [
-            {
-              "name": "Android",
-              "value": 64.78
-            },
-            {
-              "name": "iOS",
-              "value": 35.21
-            }
-          ]
-        }
-      },
-      "browser_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/browser-market-share/all/myanmar",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 83.39
-            },
-            {
-              "name": "Safari",
-              "value": 8.74
-            },
-            {
-              "name": "Edge",
-              "value": 2.72
-            },
-            {
-              "name": "Firefox",
-              "value": 2.22
-            },
-            {
-              "name": "UC Browser",
-              "value": 1.15
-            },
-            {
-              "name": "Opera",
-              "value": 0.62
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/browser-market-share/mobile/myanmar",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 85.68
-            },
-            {
-              "name": "Safari",
-              "value": 10.91
-            },
-            {
-              "name": "UC Browser",
-              "value": 1.65
-            },
-            {
-              "name": "Samsung Internet",
-              "value": 0.76
-            },
-            {
-              "name": "Opera",
-              "value": 0.38
-            },
-            {
-              "name": "Firefox",
-              "value": 0.18
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/browser-market-share/desktop/myanmar",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 78.67
-            },
-            {
-              "name": "Edge",
-              "value": 8.8
-            },
-            {
-              "name": "Firefox",
-              "value": 7.1
-            },
-            {
-              "name": "Safari",
-              "value": 3.32
-            },
-            {
-              "name": "Opera",
-              "value": 1.21
-            },
-            {
-              "name": "Brave",
-              "value": 0.36
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/browser-market-share/tablet/myanmar",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 69.83
-            },
-            {
-              "name": "Safari",
-              "value": 15.67
-            },
-            {
-              "name": "Android",
-              "value": 12.42
-            },
-            {
-              "name": "Edge",
-              "value": 0.68
-            },
-            {
-              "name": "Samsung Internet",
-              "value": 0.61
-            },
-            {
-              "name": "UC Browser",
-              "value": 0.58
-            }
-          ]
-        }
-      },
-      "resolution_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/all/myanmar",
-          "data": [
-            {
-              "name": "360x800",
-              "value": 9.5
-            },
-            {
-              "name": "393x873",
-              "value": 7.71
-            },
-            {
-              "name": "414x896",
-              "value": 6.15
-            },
-            {
-              "name": "1920x1080",
-              "value": 4.9
-            },
-            {
-              "name": "360x806",
-              "value": 3.9
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/myanmar",
-          "data": [
-            {
-              "name": "360x800",
-              "value": 13.34
-            },
-            {
-              "name": "393x873",
-              "value": 10.58
-            },
-            {
-              "name": "414x896",
-              "value": 8.84
-            },
-            {
-              "name": "360x806",
-              "value": 5.5
-            },
-            {
-              "name": "407x904",
-              "value": 3.99
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/myanmar",
-          "data": [
-            {
-              "name": "1920x1080",
-              "value": 16.78
-            },
-            {
-              "name": "1280x1200",
-              "value": 12.99
-            },
-            {
-              "name": "1536x864",
-              "value": 12.94
-            },
-            {
-              "name": "800x600",
-              "value": 12.31
-            },
-            {
-              "name": "1366x768",
-              "value": 9.57
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/myanmar",
-          "data": [
-            {
-              "name": "686x1143",
-              "value": 9.74
-            },
-            {
-              "name": "712x1138",
-              "value": 8.38
-            },
-            {
-              "name": "601x1007",
-              "value": 5.81
-            },
-            {
-              "name": "534x854",
-              "value": 4.59
-            },
-            {
-              "name": "820x1180",
-              "value": 4.29
-            }
-          ]
-        }
-      },
-      "vendor_mobile": {
-        "all": {
-          "url": "https://gs.statcounter.com/vendor-market-share/mobile/myanmar",
-          "data": [
-            {
-              "name": "Xiaomi",
-              "value": 42.56
-            },
-            {
-              "name": "Apple",
-              "value": 14.98
-            },
-            {
-              "name": "Oppo",
-              "value": 9.59
-            },
-            {
-              "name": "Samsung",
-              "value": 7.17
-            },
-            {
-              "name": "Vivo",
-              "value": 7.07
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/vendor-market-share/mobile/myanmar",
-          "data": [
-            {
-              "name": "Xiaomi",
-              "value": 42.56
-            },
-            {
-              "name": "Apple",
-              "value": 14.98
-            },
-            {
-              "name": "Oppo",
-              "value": 9.59
-            },
-            {
-              "name": "Samsung",
-              "value": 7.17
-            },
-            {
-              "name": "Vivo",
-              "value": 7.07
-            }
-          ]
-        }
-      },
-      "vendor_tablet": {
-        "all": {
-          "url": "https://gs.statcounter.com/vendor-market-share/tablet/myanmar",
-          "data": [
-            {
-              "name": "Apple",
-              "value": 35.21
-            },
-            {
-              "name": "Xiaomi",
-              "value": 30.06
-            },
-            {
-              "name": "Samsung",
-              "value": 22.54
-            },
-            {
-              "name": "Huawei",
-              "value": 3.82
-            },
-            {
-              "name": "Honor",
-              "value": 2.97
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/vendor-market-share/tablet/myanmar",
-          "data": [
-            {
-              "name": "Apple",
-              "value": 35.21
-            },
-            {
-              "name": "Xiaomi",
-              "value": 30.06
-            },
-            {
-              "name": "Samsung",
-              "value": 22.54
-            },
-            {
-              "name": "Huawei",
-              "value": 3.82
-            },
-            {
-              "name": "Honor",
-              "value": 2.97
-            }
-          ]
-        }
-      },
-      "search_engine_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/all/myanmar",
-          "data": [
-            {
-              "name": "Google",
-              "value": 97.11
-            },
-            {
-              "name": "bing",
-              "value": 2.13
-            },
-            {
-              "name": "Baidu",
-              "value": 0.37
-            },
-            {
-              "name": "Yahoo!",
-              "value": 0.2
-            },
-            {
-              "name": "DuckDuckGo",
-              "value": 0.08
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/mobile/myanmar",
-          "data": [
-            {
-              "name": "Google",
-              "value": 99.07
-            },
-            {
-              "name": "Baidu",
-              "value": 0.44
-            },
-            {
-              "name": "bing",
-              "value": 0.23
-            },
-            {
-              "name": "DuckDuckGo",
-              "value": 0.08
-            },
-            {
-              "name": "YANDEX",
-              "value": 0.05
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/desktop/myanmar",
-          "data": [
-            {
-              "name": "Google",
-              "value": 89.87
-            },
-            {
-              "name": "bing",
-              "value": 9.11
-            },
-            {
-              "name": "Yahoo!",
-              "value": 0.79
-            },
-            {
-              "name": "Baidu",
-              "value": 0.09
-            },
-            {
-              "name": "DuckDuckGo",
-              "value": 0.08
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/tablet/myanmar",
-          "data": [
-            {
-              "name": "Google",
-              "value": 99.47
-            },
-            {
-              "name": "bing",
-              "value": 0.36
-            },
-            {
-              "name": "Baidu",
-              "value": 0.06
-            },
-            {
-              "name": "YANDEX",
-              "value": 0.06
-            },
-            {
-              "name": "DuckDuckGo",
-              "value": 0.06
-            }
-          ]
-        }
-      },
-      "social_media_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/social-media-stats/all/myanmar",
-          "data": [
-            {
-              "name": "Facebook",
-              "value": 48.33
-            },
-            {
-              "name": "YouTube",
-              "value": 20.43
-            },
-            {
-              "name": "Pinterest",
-              "value": 17.17
-            },
-            {
-              "name": "Twitter",
-              "value": 5.72
-            },
-            {
-              "name": "reddit",
-              "value": 4.35
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/social-media-stats/mobile/myanmar",
-          "data": [
-            {
-              "name": "Facebook",
-              "value": 62.93
-            },
-            {
-              "name": "YouTube",
-              "value": 20.91
-            },
-            {
-              "name": "Twitter",
-              "value": 6.47
-            },
-            {
-              "name": "Pinterest",
-              "value": 5.6
-            },
-            {
-              "name": "reddit",
-              "value": 2.48
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/social-media-stats/desktop/myanmar",
-          "data": [
-            {
-              "name": "Pinterest",
-              "value": 41.94
-            },
-            {
-              "name": "YouTube",
-              "value": 18.96
-            },
-            {
-              "name": "Facebook",
-              "value": 16.59
-            },
-            {
-              "name": "LinkedIn",
-              "value": 9.24
-            },
-            {
-              "name": "reddit",
-              "value": 8.77
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/social-media-stats/tablet/myanmar",
-          "data": [
-            {
-              "name": "Facebook",
-              "value": 43.33
-            },
-            {
-              "name": "YouTube",
-              "value": 26.67
-            },
-            {
-              "name": "Pinterest",
-              "value": 26.67
-            },
-            {
-              "name": "Twitter",
-              "value": 3.33
-            }
-          ]
-        }
-      }
-    }
-  },
-  "my": {
-    "country_code": "my",
-    "country_name": "馬來西亞",
-    "update_time": "2026-11-15 10:48:13",
-    "data": {
-      "platform": {
-        "all": {
-          "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/malaysia",
-          "data": [
-            {
-              "name": "Desktop",
-              "value": 53.15
-            },
-            {
-              "name": "Mobile",
-              "value": 45.54
-            },
-            {
-              "name": "Tablet",
-              "value": 1.31
-            }
-          ]
-        }
-      },
-      "os_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/os-market-share/all/malaysia",
-          "data": [
-            {
-              "name": "Windows",
-              "value": 42.03
-            },
-            {
-              "name": "Android",
-              "value": 29.66
-            },
-            {
-              "name": "iOS",
-              "value": 17.49
-            },
-            {
-              "name": "OS X",
-              "value": 3.69
-            },
-            {
-              "name": "Chrome OS",
-              "value": 3.2
+              "value": 6.35
             },
             {
               "name": "Linux",
-              "value": 2.48
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/os-market-share/mobile/malaysia",
-          "data": [
-            {
-              "name": "Android",
-              "value": 63.14
-            },
-            {
-              "name": "iOS",
-              "value": 36.85
-            },
-            {
-              "name": "Linux",
-              "value": 0.01
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/os-market-share/desktop/malaysia",
-          "data": [
-            {
-              "name": "Windows",
-              "value": 79.53
-            },
-            {
-              "name": "OS X",
-              "value": 6.99
-            },
-            {
-              "name": "Chrome OS",
-              "value": 6.06
-            },
-            {
-              "name": "Linux",
-              "value": 4.68
-            },
-            {
-              "name": "macOS",
-              "value": 2.74
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/os-market-share/tablet/malaysia",
-          "data": [
-            {
-              "name": "Android",
-              "value": 54.72
-            },
-            {
-              "name": "iOS",
-              "value": 45.26
-            },
-            {
-              "name": "Linux",
-              "value": 0.01
-            }
-          ]
-        }
-      },
-      "browser_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/browser-market-share/all/malaysia",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 72.36
-            },
-            {
-              "name": "Safari",
-              "value": 16.6
-            },
-            {
-              "name": "Edge",
-              "value": 4.74
-            },
-            {
-              "name": "Firefox",
-              "value": 2.18
-            },
-            {
-              "name": "Opera",
-              "value": 1.52
-            },
-            {
-              "name": "Samsung Internet",
-              "value": 1.16
-            }
-          ]
-        },
-        "mobile": {
-          "url": "https://gs.statcounter.com/browser-market-share/mobile/malaysia",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 63.11
-            },
-            {
-              "name": "Safari",
-              "value": 30.37
-            },
-            {
-              "name": "Samsung Internet",
-              "value": 2.18
-            },
-            {
-              "name": "Opera",
-              "value": 1.73
-            },
-            {
-              "name": "UC Browser",
-              "value": 1.72
-            },
-            {
-              "name": "Firefox",
-              "value": 0.48
-            }
-          ]
-        },
-        "desktop": {
-          "url": "https://gs.statcounter.com/browser-market-share/desktop/malaysia",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 80.33
-            },
-            {
-              "name": "Edge",
-              "value": 8.74
-            },
-            {
-              "name": "Safari",
-              "value": 4.67
-            },
-            {
-              "name": "Firefox",
-              "value": 3.69
-            },
-            {
-              "name": "Opera",
-              "value": 1.34
-            },
-            {
-              "name": "Brave",
-              "value": 0.73
-            }
-          ]
-        },
-        "tablet": {
-          "url": "https://gs.statcounter.com/browser-market-share/tablet/malaysia",
-          "data": [
-            {
-              "name": "Chrome",
-              "value": 71.14
-            },
-            {
-              "name": "Safari",
-              "value": 22.08
-            },
-            {
-              "name": "Samsung Internet",
-              "value": 2.46
-            },
-            {
-              "name": "Opera",
-              "value": 1.58
-            },
-            {
-              "name": "Android",
-              "value": 1.47
-            },
-            {
-              "name": "UC Browser",
-              "value": 0.69
-            }
-          ]
-        }
-      },
-      "resolution_all": {
-        "all": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/all/malaysia",
-          "data": [
-            {
-              "name": "1920x1080",
-              "value": 12.42
-            },
-            {
-              "name": "414x896",
-              "value": 8.35
-            },
-            {
-              "name": "1536x864",
-              "value": 7.44
-            },
-            {
-              "name": "1366x768",
-              "value": 6.81
-            },
-            {
-              "name": "360x800",
               "value": 3.83
             }
           ]
         },
-        "mobile": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/malaysia",
+        "tablet": {
+          "url": "https://gs.statcounter.com/os-market-share/tablet/sweden",
           "data": [
             {
-              "name": "414x896",
-              "value": 17.82
+              "name": "iOS",
+              "value": 59.29
             },
             {
-              "name": "360x800",
-              "value": 7.8
+              "name": "Android",
+              "value": 40.71
+            }
+          ]
+        }
+      },
+      "browser_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/browser-market-share/all/sweden",
+          "data": [
+            {
+              "name": "Chrome",
+              "value": 50.44
             },
             {
-              "name": "390x844",
-              "value": 6.83
+              "name": "Safari",
+              "value": 30.81
             },
             {
-              "name": "384x832",
-              "value": 4.65
+              "name": "Edge",
+              "value": 8.46
             },
             {
-              "name": "393x873",
-              "value": 3.58
+              "name": "Samsung Internet",
+              "value": 4.16
+            },
+            {
+              "name": "Firefox",
+              "value": 3.25
+            },
+            {
+              "name": "Opera",
+              "value": 1.3
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/browser-market-share/mobile/sweden",
+          "data": [
+            {
+              "name": "Safari",
+              "value": 46.37
+            },
+            {
+              "name": "Chrome",
+              "value": 43.57
+            },
+            {
+              "name": "Samsung Internet",
+              "value": 6.98
+            },
+            {
+              "name": "Firefox",
+              "value": 1.16
+            },
+            {
+              "name": "Yandex Browser",
+              "value": 0.59
+            },
+            {
+              "name": "Edge",
+              "value": 0.51
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/malaysia",
+          "url": "https://gs.statcounter.com/browser-market-share/desktop/sweden",
           "data": [
             {
-              "name": "1920x1080",
-              "value": 23.85
+              "name": "Chrome",
+              "value": 59.03
             },
             {
-              "name": "1536x864",
-              "value": 14.29
+              "name": "Edge",
+              "value": 18.93
             },
             {
-              "name": "1366x768",
-              "value": 13.08
+              "name": "Safari",
+              "value": 10.66
             },
             {
-              "name": "1280x720",
-              "value": 6.22
+              "name": "Firefox",
+              "value": 6.07
             },
             {
-              "name": "1280x1200",
-              "value": 5.54
+              "name": "Opera",
+              "value": 2.37
+            },
+            {
+              "name": "Brave",
+              "value": 1.64
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/malaysia",
+          "url": "https://gs.statcounter.com/browser-market-share/tablet/sweden",
           "data": [
             {
-              "name": "820x1180",
-              "value": 10.03
+              "name": "Chrome",
+              "value": 57.61
+            },
+            {
+              "name": "Safari",
+              "value": 34.21
+            },
+            {
+              "name": "Samsung Internet",
+              "value": 2.83
+            },
+            {
+              "name": "Android",
+              "value": 2.08
+            },
+            {
+              "name": "Edge",
+              "value": 1.53
+            },
+            {
+              "name": "Opera",
+              "value": 1.1
+            }
+          ]
+        }
+      },
+      "resolution_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/all/sweden",
+          "data": [
+            {
+              "name": "414x896",
+              "value": 13.38
+            },
+            {
+              "name": "1920x1080",
+              "value": 13.05
+            },
+            {
+              "name": "390x844",
+              "value": 8.12
+            },
+            {
+              "name": "384x832",
+              "value": 4.9
+            },
+            {
+              "name": "360x780",
+              "value": 4.66
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/sweden",
+          "data": [
+            {
+              "name": "414x896",
+              "value": 24.01
+            },
+            {
+              "name": "390x844",
+              "value": 14.57
+            },
+            {
+              "name": "384x832",
+              "value": 8.68
+            },
+            {
+              "name": "360x780",
+              "value": 8.28
+            },
+            {
+              "name": "393x852",
+              "value": 3.93
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/sweden",
+          "data": [
+            {
+              "name": "1920x1080",
+              "value": 30.44
+            },
+            {
+              "name": "2560x1440",
+              "value": 7.32
+            },
+            {
+              "name": "1536x864",
+              "value": 7.07
+            },
+            {
+              "name": "1366x768",
+              "value": 6.54
+            },
+            {
+              "name": "1280x720",
+              "value": 5.52
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/sweden",
+          "data": [
+            {
+              "name": "768x1024",
+              "value": 9.5
             },
             {
               "name": "1280x800",
-              "value": 8.58
-            },
-            {
-              "name": "601x1007",
-              "value": 5.63
+              "value": 9.03
             },
             {
               "name": "800x1280",
-              "value": 5.15
+              "value": 8.72
             },
             {
-              "name": "768x1024",
-              "value": 3.61
+              "name": "810x1080",
+              "value": 7.29
+            },
+            {
+              "name": "820x1180",
+              "value": 6.18
             }
           ]
         }
       },
       "vendor_mobile": {
         "all": {
-          "url": "https://gs.statcounter.com/vendor-market-share/mobile/malaysia",
+          "url": "https://gs.statcounter.com/vendor-market-share/mobile/sweden",
           "data": [
             {
               "name": "Apple",
-              "value": 36.8
+              "value": 55.59
             },
             {
               "name": "Samsung",
-              "value": 11.7
-            },
-            {
-              "name": "Oppo",
-              "value": 9.96
+              "value": 29.91
             },
             {
               "name": "Xiaomi",
-              "value": 9.85
+              "value": 4.08
             },
             {
-              "name": "Honor",
-              "value": 9.09
+              "name": "Google",
+              "value": 2.96
+            },
+            {
+              "name": "OnePlus",
+              "value": 1.74
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/vendor-market-share/mobile/malaysia",
+          "url": "https://gs.statcounter.com/vendor-market-share/mobile/sweden",
           "data": [
             {
               "name": "Apple",
-              "value": 36.8
+              "value": 55.59
             },
             {
               "name": "Samsung",
-              "value": 11.7
-            },
-            {
-              "name": "Oppo",
-              "value": 9.96
+              "value": 29.91
             },
             {
               "name": "Xiaomi",
-              "value": 9.85
+              "value": 4.08
             },
             {
-              "name": "Honor",
-              "value": 9.09
+              "name": "Google",
+              "value": 2.96
+            },
+            {
+              "name": "OnePlus",
+              "value": 1.74
             }
           ]
         }
       },
       "vendor_tablet": {
         "all": {
-          "url": "https://gs.statcounter.com/vendor-market-share/tablet/malaysia",
+          "url": "https://gs.statcounter.com/vendor-market-share/tablet/sweden",
           "data": [
             {
               "name": "Apple",
-              "value": 45.26
+              "value": 59.29
             },
             {
               "name": "Samsung",
-              "value": 31.3
+              "value": 30.94
             },
             {
-              "name": "Xiaomi",
-              "value": 9.3
-            },
-            {
-              "name": "Honor",
-              "value": 5.32
+              "name": "Lenovo",
+              "value": 5.51
             },
             {
               "name": "Huawei",
-              "value": 2.59
+              "value": 2.28
+            },
+            {
+              "name": "Xiaomi",
+              "value": 1.05
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/vendor-market-share/tablet/malaysia",
+          "url": "https://gs.statcounter.com/vendor-market-share/tablet/sweden",
           "data": [
             {
               "name": "Apple",
-              "value": 45.26
+              "value": 59.29
             },
             {
               "name": "Samsung",
-              "value": 31.3
+              "value": 30.94
             },
             {
-              "name": "Xiaomi",
-              "value": 9.3
-            },
-            {
-              "name": "Honor",
-              "value": 5.32
+              "name": "Lenovo",
+              "value": 5.51
             },
             {
               "name": "Huawei",
-              "value": 2.59
+              "value": 2.28
+            },
+            {
+              "name": "Xiaomi",
+              "value": 1.05
             }
           ]
         }
       },
       "search_engine_all": {
         "all": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/all/malaysia",
+          "url": "https://gs.statcounter.com/search-engine-market-share/all/sweden",
           "data": [
             {
               "name": "Google",
-              "value": 91.59
+              "value": 85.82
             },
             {
               "name": "bing",
-              "value": 5.48
-            },
-            {
-              "name": "Yahoo!",
-              "value": 1.91
-            },
-            {
-              "name": "YANDEX",
-              "value": 0.56
+              "value": 8.68
             },
             {
               "name": "DuckDuckGo",
-              "value": 0.35
+              "value": 1.87
+            },
+            {
+              "name": "Yahoo!",
+              "value": 1.79
+            },
+            {
+              "name": "YANDEX",
+              "value": 1.28
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/mobile/malaysia",
+          "url": "https://gs.statcounter.com/search-engine-market-share/mobile/sweden",
           "data": [
             {
               "name": "Google",
-              "value": 97.77
-            },
-            {
-              "name": "YANDEX",
-              "value": 0.86
-            },
-            {
-              "name": "bing",
-              "value": 0.63
+              "value": 95.38
             },
             {
               "name": "DuckDuckGo",
-              "value": 0.48
+              "value": 1.51
             },
             {
-              "name": "Yahoo!",
-              "value": 0.11
+              "name": "YANDEX",
+              "value": 1.41
+            },
+            {
+              "name": "bing",
+              "value": 0.6
+            },
+            {
+              "name": "Ecosia",
+              "value": 0.51
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/desktop/malaysia",
+          "url": "https://gs.statcounter.com/search-engine-market-share/desktop/sweden",
           "data": [
             {
               "name": "Google",
-              "value": 82.42
+              "value": 72.23
             },
             {
               "name": "bing",
-              "value": 12.66
+              "value": 20.1
             },
             {
               "name": "Yahoo!",
-              "value": 4.57
+              "value": 3.67
             },
             {
               "name": "DuckDuckGo",
-              "value": 0.15
+              "value": 2.41
             },
             {
               "name": "YANDEX",
-              "value": 0.12
+              "value": 1.14
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/tablet/malaysia",
+          "url": "https://gs.statcounter.com/search-engine-market-share/tablet/sweden",
           "data": [
             {
               "name": "Google",
-              "value": 97.24
+              "value": 96.06
             },
             {
               "name": "bing",
-              "value": 1.09
-            },
-            {
-              "name": "YANDEX",
-              "value": 0.94
+              "value": 1.21
             },
             {
               "name": "DuckDuckGo",
-              "value": 0.44
+              "value": 1.06
+            },
+            {
+              "name": "YANDEX",
+              "value": 0.68
             },
             {
               "name": "Yahoo!",
-              "value": 0.16
+              "value": 0.65
             }
           ]
         }
       },
       "social_media_all": {
         "all": {
-          "url": "https://gs.statcounter.com/social-media-stats/all/malaysia",
+          "url": "https://gs.statcounter.com/social-media-stats/all/sweden",
           "data": [
             {
               "name": "Facebook",
-              "value": 81.17
-            },
-            {
-              "name": "Twitter",
-              "value": 5.36
-            },
-            {
-              "name": "Pinterest",
-              "value": 3.64
+              "value": 65.35
             },
             {
               "name": "Instagram",
-              "value": 3.55
+              "value": 21.02
             },
             {
-              "name": "YouTube",
-              "value": 2.96
+              "name": "Twitter",
+              "value": 6.12
+            },
+            {
+              "name": "reddit",
+              "value": 2.42
+            },
+            {
+              "name": "Pinterest",
+              "value": 2.17
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/social-media-stats/mobile/malaysia",
+          "url": "https://gs.statcounter.com/social-media-stats/mobile/sweden",
           "data": [
             {
               "name": "Facebook",
-              "value": 86.8
-            },
-            {
-              "name": "Twitter",
-              "value": 4.72
+              "value": 67.66
             },
             {
               "name": "Instagram",
-              "value": 3.55
+              "value": 23.2
             },
             {
-              "name": "YouTube",
-              "value": 2.18
+              "name": "Twitter",
+              "value": 5.01
             },
             {
               "name": "reddit",
-              "value": 1.38
+              "value": 1.82
+            },
+            {
+              "name": "YouTube",
+              "value": 1.09
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/social-media-stats/desktop/malaysia",
+          "url": "https://gs.statcounter.com/social-media-stats/desktop/sweden",
           "data": [
             {
               "name": "Facebook",
-              "value": 40.39
-            },
-            {
-              "name": "Pinterest",
-              "value": 22.86
+              "value": 38.33
             },
             {
               "name": "Twitter",
-              "value": 9.71
+              "value": 18.14
             },
             {
-              "name": "YouTube",
-              "value": 8.46
+              "name": "Pinterest",
+              "value": 15.07
             },
             {
               "name": "reddit",
-              "value": 7.95
+              "value": 9.14
+            },
+            {
+              "name": "LinkedIn",
+              "value": 8.33
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/social-media-stats/tablet/malaysia",
+          "url": "https://gs.statcounter.com/social-media-stats/tablet/sweden",
           "data": [
             {
               "name": "Facebook",
-              "value": 66.16
-            },
-            {
-              "name": "Pinterest",
-              "value": 12.24
-            },
-            {
-              "name": "Twitter",
-              "value": 8.87
-            },
-            {
-              "name": "YouTube",
-              "value": 6.09
+              "value": 72.8
             },
             {
               "name": "Instagram",
-              "value": 3.05
+              "value": 12.15
+            },
+            {
+              "name": "Pinterest",
+              "value": 6.19
+            },
+            {
+              "name": "Twitter",
+              "value": 5.05
+            },
+            {
+              "name": "YouTube",
+              "value": 2.4
             }
           ]
         }
       }
     }
-  }
-}    }
-      }
-    }
   },
-  "jp": {
-    "country_code": "jp",
-    "country_name": "日本",
-    "update_time": "2026-11-15 10:51:34",
+  "de": {
+    "country_code": "de",
+    "country_name": "德國",
+    "update_time": "2026-11-16 10:54:25",
     "data": {
       "platform": {
         "all": {
-          "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/japan",
+          "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/germany",
           "data": [
             {
-              "name": "Desktop",
-              "value": 49.42
+              "name": "Mobile",
+              "value": 60.21
             },
             {
-              "name": "Mobile",
-              "value": 48.3
+              "name": "Desktop",
+              "value": 38.13
             },
             {
               "name": "Tablet",
-              "value": 2.27
+              "value": 1.66
             }
           ]
         }
       },
       "os_all": {
         "all": {
-          "url": "https://gs.statcounter.com/os-market-share/all/japan",
+          "url": "https://gs.statcounter.com/os-market-share/all/germany",
           "data": [
             {
+              "name": "Android",
+              "value": 44.87
+            },
+            {
               "name": "Windows",
-              "value": 36.25
+              "value": 28.44
             },
             {
               "name": "iOS",
-              "value": 28.98
-            },
-            {
-              "name": "Android",
-              "value": 24.21
+              "value": 17.4
             },
             {
               "name": "OS X",
-              "value": 4.73
-            },
-            {
-              "name": "macOS",
-              "value": 2.73
+              "value": 4.32
             },
             {
               "name": "Linux",
-              "value": 2.59
+              "value": 2.5
+            },
+            {
+              "name": "macOS",
+              "value": 2.24
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/os-market-share/mobile/japan",
+          "url": "https://gs.statcounter.com/os-market-share/mobile/germany",
           "data": [
             {
-              "name": "iOS",
-              "value": 53.8
-            },
-            {
               "name": "Android",
-              "value": 46.18
+              "value": 72.29
             },
             {
-              "name": "Windows",
-              "value": 0.01
+              "name": "iOS",
+              "value": 27.7
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/os-market-share/desktop/japan",
+          "url": "https://gs.statcounter.com/os-market-share/desktop/germany",
           "data": [
             {
               "name": "Windows",
-              "value": 77.6
+              "value": 75.48
             },
             {
               "name": "OS X",
-              "value": 10.13
-            },
-            {
-              "name": "macOS",
-              "value": 5.84
+              "value": 11.45
             },
             {
               "name": "Linux",
-              "value": 5.53
+              "value": 6.64
+            },
+            {
+              "name": "macOS",
+              "value": 5.96
             },
             {
               "name": "Chrome OS",
-              "value": 0.89
+              "value": 0.46
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/os-market-share/tablet/japan",
+          "url": "https://gs.statcounter.com/os-market-share/tablet/germany",
           "data": [
             {
-              "name": "iOS",
-              "value": 68.77
+              "name": "Android",
+              "value": 63.37
             },
             {
-              "name": "Android",
-              "value": 31.18
+              "name": "iOS",
+              "value": 36.57
             },
             {
               "name": "Linux",
@@ -3979,6 +2662,1306 @@
             },
             {
               "name": "Windows",
+              "value": 0.02
+            }
+          ]
+        }
+      },
+      "browser_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/browser-market-share/all/germany",
+          "data": [
+            {
+              "name": "Chrome",
+              "value": 57.94
+            },
+            {
+              "name": "Safari",
+              "value": 17.68
+            },
+            {
+              "name": "Firefox",
+              "value": 7.54
+            },
+            {
+              "name": "Edge",
+              "value": 7.39
+            },
+            {
+              "name": "Samsung Internet",
+              "value": 4.36
+            },
+            {
+              "name": "Opera",
+              "value": 3.22
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/browser-market-share/mobile/germany",
+          "data": [
+            {
+              "name": "Chrome",
+              "value": 67.86
+            },
+            {
+              "name": "Safari",
+              "value": 21.25
+            },
+            {
+              "name": "Samsung Internet",
+              "value": 6.54
+            },
+            {
+              "name": "Firefox",
+              "value": 1.7
+            },
+            {
+              "name": "Opera",
+              "value": 1.26
+            },
+            {
+              "name": "Yandex Browser",
+              "value": 0.5
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/browser-market-share/desktop/germany",
+          "data": [
+            {
+              "name": "Chrome",
+              "value": 42.21
+            },
+            {
+              "name": "Edge",
+              "value": 18.97
+            },
+            {
+              "name": "Firefox",
+              "value": 17.1
+            },
+            {
+              "name": "Safari",
+              "value": 11.94
+            },
+            {
+              "name": "Opera",
+              "value": 6.37
+            },
+            {
+              "name": "Brave",
+              "value": 1.35
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/browser-market-share/tablet/germany",
+          "data": [
+            {
+              "name": "Chrome",
+              "value": 61.53
+            },
+            {
+              "name": "Safari",
+              "value": 20.78
+            },
+            {
+              "name": "Android",
+              "value": 9.27
+            },
+            {
+              "name": "Samsung Internet",
+              "value": 3.7
+            },
+            {
+              "name": "Opera",
+              "value": 2.24
+            },
+            {
+              "name": "Edge",
+              "value": 0.91
+            }
+          ]
+        }
+      },
+      "resolution_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/all/germany",
+          "data": [
+            {
+              "name": "1920x1080",
+              "value": 13.27
+            },
+            {
+              "name": "414x896",
+              "value": 8.57
+            },
+            {
+              "name": "384x832",
+              "value": 7.24
+            },
+            {
+              "name": "393x873",
+              "value": 5.89
+            },
+            {
+              "name": "390x844",
+              "value": 3.37
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/germany",
+          "data": [
+            {
+              "name": "414x896",
+              "value": 14.13
+            },
+            {
+              "name": "384x832",
+              "value": 11.84
+            },
+            {
+              "name": "393x873",
+              "value": 9.63
+            },
+            {
+              "name": "390x844",
+              "value": 5.57
+            },
+            {
+              "name": "360x780",
+              "value": 4.63
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/germany",
+          "data": [
+            {
+              "name": "1920x1080",
+              "value": 34.96
+            },
+            {
+              "name": "2560x1440",
+              "value": 8.37
+            },
+            {
+              "name": "1536x864",
+              "value": 7.47
+            },
+            {
+              "name": "1728x1117",
+              "value": 2.79
+            },
+            {
+              "name": "1280x720",
+              "value": 2.6
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/germany",
+          "data": [
+            {
+              "name": "1280x800",
+              "value": 14.66
+            },
+            {
+              "name": "800x1280",
+              "value": 10.13
+            },
+            {
+              "name": "768x1024",
+              "value": 5.01
+            },
+            {
+              "name": "1334x800",
+              "value": 3.99
+            },
+            {
+              "name": "601x1007",
+              "value": 2.94
+            }
+          ]
+        }
+      },
+      "vendor_mobile": {
+        "all": {
+          "url": "https://gs.statcounter.com/vendor-market-share/mobile/germany",
+          "data": [
+            {
+              "name": "Samsung",
+              "value": 39.74
+            },
+            {
+              "name": "Apple",
+              "value": 27.7
+            },
+            {
+              "name": "Xiaomi",
+              "value": 21.34
+            },
+            {
+              "name": "Unknown",
+              "value": 3.29
+            },
+            {
+              "name": "Google",
+              "value": 1.61
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/vendor-market-share/mobile/germany",
+          "data": [
+            {
+              "name": "Samsung",
+              "value": 39.74
+            },
+            {
+              "name": "Apple",
+              "value": 27.7
+            },
+            {
+              "name": "Xiaomi",
+              "value": 21.34
+            },
+            {
+              "name": "Unknown",
+              "value": 3.29
+            },
+            {
+              "name": "Google",
+              "value": 1.61
+            }
+          ]
+        }
+      },
+      "vendor_tablet": {
+        "all": {
+          "url": "https://gs.statcounter.com/vendor-market-share/tablet/germany",
+          "data": [
+            {
+              "name": "Samsung",
+              "value": 43.99
+            },
+            {
+              "name": "Apple",
+              "value": 36.56
+            },
+            {
+              "name": "Amazon",
+              "value": 5.26
+            },
+            {
+              "name": "Lenovo",
+              "value": 3.72
+            },
+            {
+              "name": "Unknown",
+              "value": 3.65
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/vendor-market-share/tablet/germany",
+          "data": [
+            {
+              "name": "Samsung",
+              "value": 43.99
+            },
+            {
+              "name": "Apple",
+              "value": 36.56
+            },
+            {
+              "name": "Amazon",
+              "value": 5.26
+            },
+            {
+              "name": "Lenovo",
+              "value": 3.72
+            },
+            {
+              "name": "Unknown",
+              "value": 3.65
+            }
+          ]
+        }
+      },
+      "search_engine_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/search-engine-market-share/all/germany",
+          "data": [
+            {
+              "name": "Google",
+              "value": 88.47
+            },
+            {
+              "name": "bing",
+              "value": 6.41
+            },
+            {
+              "name": "Yahoo!",
+              "value": 1.61
+            },
+            {
+              "name": "YANDEX",
+              "value": 1.34
+            },
+            {
+              "name": "DuckDuckGo",
+              "value": 0.98
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/search-engine-market-share/mobile/germany",
+          "data": [
+            {
+              "name": "Google",
+              "value": 96.65
+            },
+            {
+              "name": "YANDEX",
+              "value": 1.4
+            },
+            {
+              "name": "Ecosia",
+              "value": 0.76
+            },
+            {
+              "name": "DuckDuckGo",
+              "value": 0.59
+            },
+            {
+              "name": "bing",
+              "value": 0.39
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/search-engine-market-share/desktop/germany",
+          "data": [
+            {
+              "name": "Google",
+              "value": 70.26
+            },
+            {
+              "name": "bing",
+              "value": 19.74
+            },
+            {
+              "name": "Yahoo!",
+              "value": 5.02
+            },
+            {
+              "name": "DuckDuckGo",
+              "value": 1.85
+            },
+            {
+              "name": "Ecosia",
+              "value": 1.25
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/search-engine-market-share/tablet/germany",
+          "data": [
+            {
+              "name": "Google",
+              "value": 88.38
+            },
+            {
+              "name": "bing",
+              "value": 7.27
+            },
+            {
+              "name": "YANDEX",
+              "value": 1.38
+            },
+            {
+              "name": "Ecosia",
+              "value": 1.3
+            },
+            {
+              "name": "DuckDuckGo",
+              "value": 1.06
+            }
+          ]
+        }
+      },
+      "social_media_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/social-media-stats/all/germany",
+          "data": [
+            {
+              "name": "Facebook",
+              "value": 59.75
+            },
+            {
+              "name": "Twitter",
+              "value": 13.52
+            },
+            {
+              "name": "Instagram",
+              "value": 7.86
+            },
+            {
+              "name": "Pinterest",
+              "value": 6.97
+            },
+            {
+              "name": "reddit",
+              "value": 6.23
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/social-media-stats/mobile/germany",
+          "data": [
+            {
+              "name": "Facebook",
+              "value": 63.01
+            },
+            {
+              "name": "Twitter",
+              "value": 14.3
+            },
+            {
+              "name": "Instagram",
+              "value": 10.28
+            },
+            {
+              "name": "reddit",
+              "value": 5.45
+            },
+            {
+              "name": "Pinterest",
+              "value": 3.85
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/social-media-stats/desktop/germany",
+          "data": [
+            {
+              "name": "Facebook",
+              "value": 53.58
+            },
+            {
+              "name": "Pinterest",
+              "value": 12.03
+            },
+            {
+              "name": "Twitter",
+              "value": 10.82
+            },
+            {
+              "name": "reddit",
+              "value": 8.78
+            },
+            {
+              "name": "YouTube",
+              "value": 7.18
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/social-media-stats/tablet/germany",
+          "data": [
+            {
+              "name": "Facebook",
+              "value": 36.16
+            },
+            {
+              "name": "Pinterest",
+              "value": 36.14
+            },
+            {
+              "name": "Twitter",
+              "value": 16.84
+            },
+            {
+              "name": "reddit",
+              "value": 4.01
+            },
+            {
+              "name": "YouTube",
+              "value": 3.16
+            }
+          ]
+        }
+      }
+    }
+  },
+  "dk": {
+    "country_code": "dk",
+    "country_name": "丹麥",
+    "update_time": "2026-11-16 10:58:04",
+    "data": {
+      "platform": {
+        "all": {
+          "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/denmark",
+          "data": [
+            {
+              "name": "Desktop",
+              "value": 62.53
+            },
+            {
+              "name": "Mobile",
+              "value": 35.86
+            },
+            {
+              "name": "Tablet",
+              "value": 1.6
+            }
+          ]
+        }
+      },
+      "os_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/os-market-share/all/denmark",
+          "data": [
+            {
+              "name": "Windows",
+              "value": 39.67
+            },
+            {
+              "name": "iOS",
+              "value": 25.27
+            },
+            {
+              "name": "Android",
+              "value": 12.27
+            },
+            {
+              "name": "OS X",
+              "value": 10.21
+            },
+            {
+              "name": "macOS",
+              "value": 10.18
+            },
+            {
+              "name": "Linux",
+              "value": 1.34
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/os-market-share/mobile/denmark",
+          "data": [
+            {
+              "name": "iOS",
+              "value": 67.06
+            },
+            {
+              "name": "Android",
+              "value": 32.92
+            },
+            {
+              "name": "Linux",
+              "value": 0.01
+            },
+            {
+              "name": "Windows",
+              "value": 0.01
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/os-market-share/desktop/denmark",
+          "data": [
+            {
+              "name": "Windows",
+              "value": 63.54
+            },
+            {
+              "name": "OS X",
+              "value": 16.36
+            },
+            {
+              "name": "macOS",
+              "value": 16.3
+            },
+            {
+              "name": "Linux",
+              "value": 2.14
+            },
+            {
+              "name": "Chrome OS",
+              "value": 1.66
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/os-market-share/tablet/denmark",
+          "data": [
+            {
+              "name": "iOS",
+              "value": 72.82
+            },
+            {
+              "name": "Android",
+              "value": 27.18
+            }
+          ]
+        }
+      },
+      "browser_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/browser-market-share/all/denmark",
+          "data": [
+            {
+              "name": "Chrome",
+              "value": 53.86
+            },
+            {
+              "name": "Safari",
+              "value": 30.07
+            },
+            {
+              "name": "Edge",
+              "value": 8.4
+            },
+            {
+              "name": "Firefox",
+              "value": 2.77
+            },
+            {
+              "name": "Opera",
+              "value": 1.64
+            },
+            {
+              "name": "Samsung Internet",
+              "value": 1.57
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/browser-market-share/mobile/denmark",
+          "data": [
+            {
+              "name": "Safari",
+              "value": 56.81
+            },
+            {
+              "name": "Chrome",
+              "value": 36.87
+            },
+            {
+              "name": "Samsung Internet",
+              "value": 3.97
+            },
+            {
+              "name": "Firefox",
+              "value": 0.98
+            },
+            {
+              "name": "Edge",
+              "value": 0.45
+            },
+            {
+              "name": "Opera",
+              "value": 0.44
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/browser-market-share/desktop/denmark",
+          "data": [
+            {
+              "name": "Chrome",
+              "value": 63.76
+            },
+            {
+              "name": "Safari",
+              "value": 14.38
+            },
+            {
+              "name": "Edge",
+              "value": 13.12
+            },
+            {
+              "name": "Firefox",
+              "value": 3.87
+            },
+            {
+              "name": "Opera",
+              "value": 2.35
+            },
+            {
+              "name": "Mozilla",
+              "value": 1.22
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/browser-market-share/tablet/denmark",
+          "data": [
+            {
+              "name": "Chrome",
+              "value": 48.78
+            },
+            {
+              "name": "Safari",
+              "value": 44.55
+            },
+            {
+              "name": "Android",
+              "value": 2.82
+            },
+            {
+              "name": "Opera",
+              "value": 1.17
+            },
+            {
+              "name": "Edge",
+              "value": 1.16
+            },
+            {
+              "name": "Samsung Internet",
+              "value": 1.14
+            }
+          ]
+        }
+      },
+      "resolution_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/all/denmark",
+          "data": [
+            {
+              "name": "1920x1080",
+              "value": 19.65
+            },
+            {
+              "name": "414x896",
+              "value": 12.5
+            },
+            {
+              "name": "390x844",
+              "value": 7.22
+            },
+            {
+              "name": "1440x900",
+              "value": 4.89
+            },
+            {
+              "name": "2560x1440",
+              "value": 4.34
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/denmark",
+          "data": [
+            {
+              "name": "414x896",
+              "value": 34.31
+            },
+            {
+              "name": "390x844",
+              "value": 19.87
+            },
+            {
+              "name": "384x832",
+              "value": 6.38
+            },
+            {
+              "name": "360x780",
+              "value": 5.95
+            },
+            {
+              "name": "375x667",
+              "value": 3.77
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/denmark",
+          "data": [
+            {
+              "name": "1920x1080",
+              "value": 31.47
+            },
+            {
+              "name": "1440x900",
+              "value": 7.86
+            },
+            {
+              "name": "2560x1440",
+              "value": 6.98
+            },
+            {
+              "name": "1470x956",
+              "value": 6.84
+            },
+            {
+              "name": "1536x864",
+              "value": 6.78
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/denmark",
+          "data": [
+            {
+              "name": "768x1024",
+              "value": 7.89
+            },
+            {
+              "name": "810x1080",
+              "value": 7.24
+            },
+            {
+              "name": "1280x800",
+              "value": 6.78
+            },
+            {
+              "name": "820x1180",
+              "value": 5.71
+            },
+            {
+              "name": "1920x1080",
+              "value": 5.56
+            }
+          ]
+        }
+      },
+      "vendor_mobile": {
+        "all": {
+          "url": "https://gs.statcounter.com/vendor-market-share/mobile/denmark",
+          "data": [
+            {
+              "name": "Apple",
+              "value": 67.06
+            },
+            {
+              "name": "Samsung",
+              "value": 20.41
+            },
+            {
+              "name": "OnePlus",
+              "value": 3.59
+            },
+            {
+              "name": "Motorola",
+              "value": 2.27
+            },
+            {
+              "name": "Google",
+              "value": 1.84
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/vendor-market-share/mobile/denmark",
+          "data": [
+            {
+              "name": "Apple",
+              "value": 67.06
+            },
+            {
+              "name": "Samsung",
+              "value": 20.41
+            },
+            {
+              "name": "OnePlus",
+              "value": 3.59
+            },
+            {
+              "name": "Motorola",
+              "value": 2.27
+            },
+            {
+              "name": "Google",
+              "value": 1.84
+            }
+          ]
+        }
+      },
+      "vendor_tablet": {
+        "all": {
+          "url": "https://gs.statcounter.com/vendor-market-share/tablet/denmark",
+          "data": [
+            {
+              "name": "Apple",
+              "value": 72.82
+            },
+            {
+              "name": "Samsung",
+              "value": 19.05
+            },
+            {
+              "name": "Lenovo",
+              "value": 3.84
+            },
+            {
+              "name": "Huawei",
+              "value": 2.7
+            },
+            {
+              "name": "Unknown",
+              "value": 0.83
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/vendor-market-share/tablet/denmark",
+          "data": [
+            {
+              "name": "Apple",
+              "value": 72.82
+            },
+            {
+              "name": "Samsung",
+              "value": 19.05
+            },
+            {
+              "name": "Lenovo",
+              "value": 3.84
+            },
+            {
+              "name": "Huawei",
+              "value": 2.7
+            },
+            {
+              "name": "Unknown",
+              "value": 0.83
+            }
+          ]
+        }
+      },
+      "search_engine_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/search-engine-market-share/all/denmark",
+          "data": [
+            {
+              "name": "Google",
+              "value": 84.9
+            },
+            {
+              "name": "bing",
+              "value": 9.68
+            },
+            {
+              "name": "Yahoo!",
+              "value": 2.74
+            },
+            {
+              "name": "DuckDuckGo",
+              "value": 1.58
+            },
+            {
+              "name": "Ecosia",
+              "value": 0.48
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/search-engine-market-share/mobile/denmark",
+          "data": [
+            {
+              "name": "Google",
+              "value": 96.01
+            },
+            {
+              "name": "DuckDuckGo",
+              "value": 1.57
+            },
+            {
+              "name": "Ecosia",
+              "value": 0.77
+            },
+            {
+              "name": "bing",
+              "value": 0.64
+            },
+            {
+              "name": "YANDEX",
+              "value": 0.41
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/search-engine-market-share/desktop/denmark",
+          "data": [
+            {
+              "name": "Google",
+              "value": 77.68
+            },
+            {
+              "name": "bing",
+              "value": 15.56
+            },
+            {
+              "name": "Yahoo!",
+              "value": 4.32
+            },
+            {
+              "name": "DuckDuckGo",
+              "value": 1.59
+            },
+            {
+              "name": "YANDEX",
+              "value": 0.31
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/search-engine-market-share/tablet/denmark",
+          "data": [
+            {
+              "name": "Google",
+              "value": 95.44
+            },
+            {
+              "name": "DuckDuckGo",
+              "value": 1.71
+            },
+            {
+              "name": "bing",
+              "value": 1.35
+            },
+            {
+              "name": "YANDEX",
+              "value": 0.7
+            },
+            {
+              "name": "Yahoo!",
+              "value": 0.32
+            }
+          ]
+        }
+      },
+      "social_media_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/social-media-stats/all/denmark",
+          "data": [
+            {
+              "name": "Facebook",
+              "value": 80.3
+            },
+            {
+              "name": "Pinterest",
+              "value": 4.98
+            },
+            {
+              "name": "reddit",
+              "value": 4.68
+            },
+            {
+              "name": "Instagram",
+              "value": 4.09
+            },
+            {
+              "name": "Twitter",
+              "value": 4.0
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/social-media-stats/mobile/denmark",
+          "data": [
+            {
+              "name": "Facebook",
+              "value": 84.26
+            },
+            {
+              "name": "Instagram",
+              "value": 4.71
+            },
+            {
+              "name": "reddit",
+              "value": 4.04
+            },
+            {
+              "name": "Twitter",
+              "value": 3.83
+            },
+            {
+              "name": "Pinterest",
+              "value": 2.44
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/social-media-stats/desktop/denmark",
+          "data": [
+            {
+              "name": "Facebook",
+              "value": 55.58
+            },
+            {
+              "name": "Pinterest",
+              "value": 16.01
+            },
+            {
+              "name": "reddit",
+              "value": 10.44
+            },
+            {
+              "name": "Twitter",
+              "value": 6.08
+            },
+            {
+              "name": "YouTube",
+              "value": 5.39
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/social-media-stats/tablet/denmark",
+          "data": [
+            {
+              "name": "Facebook",
+              "value": 78.63
+            },
+            {
+              "name": "Pinterest",
+              "value": 16.16
+            },
+            {
+              "name": "Twitter",
+              "value": 1.89
+            },
+            {
+              "name": "Instagram",
+              "value": 1.82
+            },
+            {
+              "name": "reddit",
+              "value": 1.17
+            }
+          ]
+        }
+      }
+    }
+  },
+  "ro": {
+    "country_code": "ro",
+    "country_name": "羅馬尼亞",
+    "update_time": "2026-11-16 11:01:46",
+    "data": {
+      "platform": {
+        "all": {
+          "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/romania",
+          "data": [
+            {
+              "name": "Mobile",
+              "value": 55.25
+            },
+            {
+              "name": "Desktop",
+              "value": 43.98
+            },
+            {
+              "name": "Tablet",
+              "value": 0.78
+            }
+          ]
+        }
+      },
+      "os_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/os-market-share/all/romania",
+          "data": [
+            {
+              "name": "Android",
+              "value": 41.5
+            },
+            {
+              "name": "Windows",
+              "value": 39.85
+            },
+            {
+              "name": "iOS",
+              "value": 14.83
+            },
+            {
+              "name": "Linux",
+              "value": 1.5
+            },
+            {
+              "name": "macOS",
+              "value": 1.28
+            },
+            {
+              "name": "OS X",
+              "value": 0.99
+            }
+          ]
+        },
+        "mobile": {
+          "url": "https://gs.statcounter.com/os-market-share/mobile/romania",
+          "data": [
+            {
+              "name": "Android",
+              "value": 73.8
+            },
+            {
+              "name": "iOS",
+              "value": 26.17
+            },
+            {
+              "name": "Samsung",
+              "value": 0.02
+            },
+            {
+              "name": "Linux",
+              "value": 0.01
+            }
+          ]
+        },
+        "desktop": {
+          "url": "https://gs.statcounter.com/os-market-share/desktop/romania",
+          "data": [
+            {
+              "name": "Windows",
+              "value": 91.3
+            },
+            {
+              "name": "Linux",
+              "value": 3.42
+            },
+            {
+              "name": "macOS",
+              "value": 2.93
+            },
+            {
+              "name": "OS X",
+              "value": 2.27
+            },
+            {
+              "name": "Chrome OS",
+              "value": 0.08
+            }
+          ]
+        },
+        "tablet": {
+          "url": "https://gs.statcounter.com/os-market-share/tablet/romania",
+          "data": [
+            {
+              "name": "Android",
+              "value": 63.34
+            },
+            {
+              "name": "iOS",
+              "value": 36.6
+            },
+            {
+              "name": "Linux",
+              "value": 0.04
+            },
+            {
+              "name": "BlackBerry OS",
+              "value": 0.01
+            },
+            {
+              "name": "Windows",
               "value": 0.01
             }
           ]
@@ -3986,586 +3969,590 @@
       },
       "browser_all": {
         "all": {
-          "url": "https://gs.statcounter.com/browser-market-share/all/japan",
+          "url": "https://gs.statcounter.com/browser-market-share/all/romania",
           "data": [
             {
               "name": "Chrome",
-              "value": 54.27
+              "value": 75.96
             },
             {
               "name": "Safari",
-              "value": 23.12
-            },
-            {
-              "name": "Edge",
-              "value": 14.7
-            },
-            {
-              "name": "Firefox",
-              "value": 3.53
-            },
-            {
-              "name": "Opera",
-              "value": 0.89
+              "value": 12.44
             },
             {
               "name": "Samsung Internet",
-              "value": 0.88
+              "value": 3.17
+            },
+            {
+              "name": "Firefox",
+              "value": 2.61
+            },
+            {
+              "name": "Edge",
+              "value": 2.53
+            },
+            {
+              "name": "Opera",
+              "value": 2.02
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/browser-market-share/mobile/japan",
+          "url": "https://gs.statcounter.com/browser-market-share/mobile/romania",
           "data": [
             {
               "name": "Chrome",
-              "value": 54.85
+              "value": 71.85
             },
             {
               "name": "Safari",
-              "value": 40.43
+              "value": 20.6
             },
             {
               "name": "Samsung Internet",
-              "value": 1.39
-            },
-            {
-              "name": "Edge",
-              "value": 1.23
-            },
-            {
-              "name": "Firefox",
-              "value": 0.9
+              "value": 5.48
             },
             {
               "name": "Opera",
-              "value": 0.41
+              "value": 0.76
+            },
+            {
+              "name": "Firefox",
+              "value": 0.57
+            },
+            {
+              "name": "Yandex Browser",
+              "value": 0.2
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/browser-market-share/desktop/japan",
+          "url": "https://gs.statcounter.com/browser-market-share/desktop/romania",
           "data": [
             {
               "name": "Chrome",
-              "value": 54.14
+              "value": 81.44
             },
             {
               "name": "Edge",
-              "value": 28.47
+              "value": 5.52
             },
             {
               "name": "Firefox",
-              "value": 6.26
-            },
-            {
-              "name": "Safari",
-              "value": 5.53
-            },
-            {
-              "name": "Brave",
-              "value": 1.55
+              "value": 5.21
             },
             {
               "name": "Opera",
-              "value": 1.39
+              "value": 3.57
+            },
+            {
+              "name": "Safari",
+              "value": 1.95
+            },
+            {
+              "name": "Brave",
+              "value": 1.23
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/browser-market-share/tablet/japan",
+          "url": "https://gs.statcounter.com/browser-market-share/tablet/romania",
           "data": [
             {
               "name": "Chrome",
-              "value": 47.17
+              "value": 59.14
             },
             {
               "name": "Safari",
-              "value": 38.9
+              "value": 25.67
             },
             {
               "name": "Android",
-              "value": 11.76
-            },
-            {
-              "name": "Edge",
-              "value": 1.23
+              "value": 7.57
             },
             {
               "name": "Opera",
-              "value": 0.36
+              "value": 3.96
             },
             {
-              "name": "Sleipnir",
-              "value": 0.23
+              "name": "Samsung Internet",
+              "value": 2.18
+            },
+            {
+              "name": "Instabridge",
+              "value": 0.59
             }
           ]
         }
       },
       "resolution_all": {
         "all": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/all/japan",
+          "url": "https://gs.statcounter.com/screen-resolution-stats/all/romania",
           "data": [
             {
+              "name": "1536x864",
+              "value": 19.03
+            },
+            {
               "name": "1920x1080",
-              "value": 13.44
+              "value": 10.13
             },
             {
               "name": "414x896",
-              "value": 11.15
+              "value": 7.56
             },
             {
-              "name": "390x844",
-              "value": 5.51
+              "name": "384x832",
+              "value": 7.51
             },
             {
-              "name": "1536x864",
-              "value": 4.35
-            },
-            {
-              "name": "2560x1440",
-              "value": 3.39
+              "name": "360x780",
+              "value": 3.53
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/japan",
+          "url": "https://gs.statcounter.com/screen-resolution-stats/mobile/romania",
           "data": [
             {
               "name": "414x896",
-              "value": 22.89
+              "value": 13.59
+            },
+            {
+              "name": "384x832",
+              "value": 13.42
+            },
+            {
+              "name": "360x780",
+              "value": 6.26
+            },
+            {
+              "name": "360x800",
+              "value": 5.06
             },
             {
               "name": "390x844",
-              "value": 11.34
-            },
-            {
-              "name": "375x667",
-              "value": 4.56
-            },
-            {
-              "name": "393x852",
-              "value": 3.97
-            },
-            {
-              "name": "412x915",
-              "value": 3.76
+              "value": 5.03
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/japan",
+          "url": "https://gs.statcounter.com/screen-resolution-stats/desktop/romania",
           "data": [
             {
-              "name": "1920x1080",
-              "value": 27.17
-            },
-            {
               "name": "1536x864",
-              "value": 8.86
+              "value": 43.51
             },
             {
-              "name": "2560x1440",
-              "value": 6.91
+              "name": "1920x1080",
+              "value": 23.14
             },
             {
               "name": "1366x768",
-              "value": 5.08
+              "value": 4.97
+            },
+            {
+              "name": "2560x1440",
+              "value": 3.64
             },
             {
               "name": "800x600",
-              "value": 4.08
+              "value": 3.25
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/japan",
+          "url": "https://gs.statcounter.com/screen-resolution-stats/tablet/romania",
           "data": [
             {
-              "name": "768x1024",
-              "value": 12.08
-            },
-            {
-              "name": "820x1180",
-              "value": 6.65
-            },
-            {
-              "name": "810x1080",
-              "value": 6.22
+              "name": "1280x800",
+              "value": 8.03
             },
             {
               "name": "800x1280",
-              "value": 6.13
+              "value": 7.92
             },
             {
-              "name": "1280x800",
-              "value": 5.09
+              "name": "768x1024",
+              "value": 4.85
+            },
+            {
+              "name": "601x1007",
+              "value": 4.33
+            },
+            {
+              "name": "820x1180",
+              "value": 2.92
             }
           ]
         }
       },
       "vendor_mobile": {
         "all": {
-          "url": "https://gs.statcounter.com/vendor-market-share/mobile/japan",
+          "url": "https://gs.statcounter.com/vendor-market-share/mobile/romania",
           "data": [
             {
-              "name": "Apple",
-              "value": 53.8
+              "name": "Samsung",
+              "value": 42.37
             },
             {
-              "name": "Samsung",
-              "value": 10.86
+              "name": "Apple",
+              "value": 26.17
             },
             {
               "name": "Xiaomi",
-              "value": 8.02
+              "value": 11.57
             },
             {
-              "name": "Google",
-              "value": 7.39
+              "name": "Motorola",
+              "value": 5.03
             },
             {
-              "name": "Sony",
-              "value": 4.7
+              "name": "Honor",
+              "value": 4.37
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/vendor-market-share/mobile/japan",
+          "url": "https://gs.statcounter.com/vendor-market-share/mobile/romania",
           "data": [
             {
-              "name": "Apple",
-              "value": 53.8
+              "name": "Samsung",
+              "value": 42.37
             },
             {
-              "name": "Samsung",
-              "value": 10.86
+              "name": "Apple",
+              "value": 26.17
             },
             {
               "name": "Xiaomi",
-              "value": 8.02
+              "value": 11.57
             },
             {
-              "name": "Google",
-              "value": 7.39
+              "name": "Motorola",
+              "value": 5.03
             },
             {
-              "name": "Sony",
-              "value": 4.7
+              "name": "Honor",
+              "value": 4.37
             }
           ]
         }
       },
       "vendor_tablet": {
         "all": {
-          "url": "https://gs.statcounter.com/vendor-market-share/tablet/japan",
+          "url": "https://gs.statcounter.com/vendor-market-share/tablet/romania",
           "data": [
             {
+              "name": "Samsung",
+              "value": 43.04
+            },
+            {
               "name": "Apple",
-              "value": 68.74
+              "value": 36.6
             },
             {
-              "name": "Amazon",
-              "value": 8.02
-            },
-            {
-              "name": "Unknown",
-              "value": 4.3
+              "name": "Lenovo",
+              "value": 5.7
             },
             {
               "name": "Huawei",
-              "value": 4.2
+              "value": 2.84
             },
             {
-              "name": "Xiaomi",
-              "value": 4.11
+              "name": "Doogee",
+              "value": 2.33
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/vendor-market-share/tablet/japan",
+          "url": "https://gs.statcounter.com/vendor-market-share/tablet/romania",
           "data": [
             {
+              "name": "Samsung",
+              "value": 43.04
+            },
+            {
               "name": "Apple",
-              "value": 68.74
+              "value": 36.6
             },
             {
-              "name": "Amazon",
-              "value": 8.02
-            },
-            {
-              "name": "Unknown",
-              "value": 4.3
+              "name": "Lenovo",
+              "value": 5.7
             },
             {
               "name": "Huawei",
-              "value": 4.2
+              "value": 2.84
             },
             {
-              "name": "Xiaomi",
-              "value": 4.11
+              "name": "Doogee",
+              "value": 2.33
             }
           ]
         }
       },
       "search_engine_all": {
         "all": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/all/japan",
+          "url": "https://gs.statcounter.com/search-engine-market-share/all/romania",
           "data": [
             {
               "name": "Google",
-              "value": 59.34
+              "value": 96.19
             },
             {
               "name": "bing",
-              "value": 32.51
-            },
-            {
-              "name": "Yahoo!",
-              "value": 6.56
-            },
-            {
-              "name": "DuckDuckGo",
-              "value": 0.67
+              "value": 2.63
             },
             {
               "name": "YANDEX",
-              "value": 0.37
+              "value": 0.38
+            },
+            {
+              "name": "DuckDuckGo",
+              "value": 0.38
+            },
+            {
+              "name": "Yahoo!",
+              "value": 0.26
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/mobile/japan",
+          "url": "https://gs.statcounter.com/search-engine-market-share/mobile/romania",
           "data": [
             {
               "name": "Google",
-              "value": 88.0
-            },
-            {
-              "name": "Yahoo!",
-              "value": 9.17
+              "value": 98.72
             },
             {
               "name": "bing",
-              "value": 0.84
+              "value": 0.52
+            },
+            {
+              "name": "YANDEX",
+              "value": 0.33
             },
             {
               "name": "DuckDuckGo",
-              "value": 0.66
+              "value": 0.24
             },
             {
-              "name": "CocCoc",
-              "value": 0.5
+              "name": "Ecosia",
+              "value": 0.07
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/desktop/japan",
+          "url": "https://gs.statcounter.com/search-engine-market-share/desktop/romania",
           "data": [
             {
-              "name": "bing",
-              "value": 55.41
+              "name": "Google",
+              "value": 89.18
             },
             {
-              "name": "Google",
-              "value": 38.81
+              "name": "bing",
+              "value": 8.48
             },
             {
               "name": "Yahoo!",
-              "value": 4.5
+              "value": 0.84
             },
             {
               "name": "DuckDuckGo",
-              "value": 0.67
+              "value": 0.76
             },
             {
               "name": "YANDEX",
-              "value": 0.3
+              "value": 0.52
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/search-engine-market-share/tablet/japan",
+          "url": "https://gs.statcounter.com/search-engine-market-share/tablet/romania",
           "data": [
             {
               "name": "Google",
-              "value": 73.15
-            },
-            {
-              "name": "Yahoo!",
-              "value": 16.32
+              "value": 98.2
             },
             {
               "name": "bing",
-              "value": 7.78
+              "value": 0.92
             },
             {
               "name": "DuckDuckGo",
-              "value": 1.15
+              "value": 0.32
             },
             {
-              "name": "CocCoc",
-              "value": 0.91
+              "name": "YANDEX",
+              "value": 0.31
+            },
+            {
+              "name": "Yahoo!",
+              "value": 0.15
             }
           ]
         }
       },
       "social_media_all": {
         "all": {
-          "url": "https://gs.statcounter.com/social-media-stats/all/japan",
+          "url": "https://gs.statcounter.com/social-media-stats/all/romania",
           "data": [
             {
-              "name": "Twitter",
-              "value": 60.08
-            },
-            {
-              "name": "Instagram",
-              "value": 16.35
-            },
-            {
               "name": "Facebook",
-              "value": 15.02
-            },
-            {
-              "name": "Pinterest",
-              "value": 2.64
+              "value": 89.58
             },
             {
               "name": "YouTube",
-              "value": 2.41
+              "value": 5.36
+            },
+            {
+              "name": "Instagram",
+              "value": 3.72
+            },
+            {
+              "name": "Twitter",
+              "value": 0.71
+            },
+            {
+              "name": "Pinterest",
+              "value": 0.28
             }
           ]
         },
         "mobile": {
-          "url": "https://gs.statcounter.com/social-media-stats/mobile/japan",
+          "url": "https://gs.statcounter.com/social-media-stats/mobile/romania",
           "data": [
             {
-              "name": "Twitter",
-              "value": 58.84
-            },
-            {
-              "name": "Instagram",
-              "value": 19.79
-            },
-            {
               "name": "Facebook",
-              "value": 16.59
-            },
-            {
-              "name": "reddit",
-              "value": 1.51
+              "value": 92.28
             },
             {
               "name": "YouTube",
-              "value": 1.27
+              "value": 4.16
+            },
+            {
+              "name": "Instagram",
+              "value": 2.68
+            },
+            {
+              "name": "Twitter",
+              "value": 0.62
+            },
+            {
+              "name": "reddit",
+              "value": 0.12
             }
           ]
         },
         "desktop": {
-          "url": "https://gs.statcounter.com/social-media-stats/desktop/japan",
+          "url": "https://gs.statcounter.com/social-media-stats/desktop/romania",
           "data": [
             {
-              "name": "Twitter",
-              "value": 65.2
-            },
-            {
-              "name": "Pinterest",
-              "value": 9.03
-            },
-            {
               "name": "Facebook",
-              "value": 7.53
+              "value": 57.54
             },
             {
               "name": "YouTube",
-              "value": 7.45
+              "value": 18.8
+            },
+            {
+              "name": "Instagram",
+              "value": 13.91
+            },
+            {
+              "name": "Pinterest",
+              "value": 3.51
             },
             {
               "name": "reddit",
-              "value": 3.86
+              "value": 2.47
             }
           ]
         },
         "tablet": {
-          "url": "https://gs.statcounter.com/social-media-stats/tablet/japan",
+          "url": "https://gs.statcounter.com/social-media-stats/tablet/romania",
           "data": [
             {
-              "name": "Twitter",
-              "value": 63.76
-            },
-            {
               "name": "Facebook",
-              "value": 18.43
-            },
-            {
-              "name": "Pinterest",
-              "value": 7.17
-            },
-            {
-              "name": "Instagram",
-              "value": 6.11
+              "value": 49.81
             },
             {
               "name": "YouTube",
-              "value": 2.88
+              "value": 24.8
+            },
+            {
+              "name": "Instagram",
+              "value": 24.19
+            },
+            {
+              "name": "Twitter",
+              "value": 0.52
+            },
+            {
+              "name": "Pinterest",
+              "value": 0.48
             }
           ]
         }
       }
     }
-  }
-}  "value": 6.42
+  },
+  "nl": {
+    "country_code": "nl",
+    "country_name": "荷蘭",
+    "update_time": "2026-11-16 11:05:27",
+    "data": {
+      "platform": {
+        "all": {
+          "url": "https://gs.statcounter.com/platform-market-share/desktop-mobile-tablet/netherlands",
+          "data": [
+            {
+              "name": "Mobile",
+              "value": 65.06
+            },
+            {
+              "name": "Desktop",
+              "value": 33.38
+            },
+            {
+              "name": "Tablet",
+              "value": 1.56
+            }
+          ]
+        }
+      },
+      "os_all": {
+        "all": {
+          "url": "https://gs.statcounter.com/os-market-share/all/netherlands",
+          "data": [
+            {
+              "name": "Android",
+              "value": 45.52
+            },
+            {
+              "name": "Windows",
+              "value": 22.7
+            },
+            {
+              "name": "iOS",
+              "value": 21.41
+            },
+            {
+              "name": "OS X",
+              "value": 3.92
+            },
+            {
+              "name": "Linux",
+              "value": 3.19
+            },
+            {
+              "name": "macOS",
+              "value": 2.52
             }
           ]
         },
-        "tablet": {
-          "url": "https://gs.statcounter.com/social-media-stats/tablet/south-africa",
-          "data": [
-            {
-              "name": "Facebook",
-              "value": 58.15
-            },
-            {
-              "name": "Pinterest",
-              "value": 20.82
-            },
-            {
-              "name": "Twitter",
-              "value": 11.06
-            },
-            {
-              "name": "YouTube",
-              "value": 5.48
-            },
-            {
-              "name": "reddit",
-              "value": 2.0
-            }
-          ]
-        }
-      }
-    }
-  }
-}     "value": 15.39
-            },
-            {
-              "name": "Twitter",
-              "value": 9.05
-            },
-            {
-              "name": "Pinterest",
-              "value": 7.63
-            },
-            {
-              "name": "Instagram",
-              "value": 7.23
-            }
-          ]
-        }
-      }
-    }
-  }
-}le/netherlands",
+        "mobile": {
+          "url": "https://gs.statcounter.com/os-market-share/mobile/netherlands",
           "data": [
             {
               "name": "Android",
@@ -5161,7 +5148,7 @@
   "gr": {
     "country_code": "gr",
     "country_name": "希臘",
-    "update_time": "2026-11-15 10:59:16",
+    "update_time": "2026-11-16 11:09:09",
     "data": {
       "platform": {
         "all": {
@@ -5805,7 +5792,7 @@
   "fr": {
     "country_code": "fr",
     "country_name": "法國",
-    "update_time": "2026-11-15 11:02:58",
+    "update_time": "2026-11-16 11:12:50",
     "data": {
       "platform": {
         "all": {
